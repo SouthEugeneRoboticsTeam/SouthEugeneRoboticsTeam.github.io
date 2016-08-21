@@ -368,3 +368,12 @@ footer .footer-below {
 #stats, #about, #something, #somethingelse {
     height: calc(100vh - 80px);
 }
+
+#particlesjs {
+    top: 0;
+
+    position: absolute;
+
+    height: 100vh;
+    width: 100%;
+}
