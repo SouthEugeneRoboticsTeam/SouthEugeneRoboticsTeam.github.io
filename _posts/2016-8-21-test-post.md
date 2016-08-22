@@ -1,10 +1,10 @@
 ---
-layout: post
-categories: [test,post]
-date: 2016-8-21 5:30:38 PST
-title: Test Post
-css:
-  - post.css
+  layout: post
+  title: my article title
+  tags: [test]
+  categories: []
+  css:
+    - post.css
 ---
 
 ### Lorem ipsum dolor sit amet

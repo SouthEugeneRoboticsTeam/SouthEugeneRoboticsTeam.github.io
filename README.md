@@ -21,14 +21,13 @@ HTML tags or Markdown):
 
 ```html
 ---
-layout: post
-categories: [array,of,categories]
-date: YYYY-MM-DD HH:MM:SS PST
-title: Title
-css:
-  - post.css
+  layout: post
+  title: TITLE
+  tags: [ARRAY,OF,TAGS]
+  categories: [ARRAY,OF,CATEGORIES]
+  css:
+    - post.css
 ---
-
 Content here
 ```
 
@@ -36,12 +35,12 @@ For example, `2016-8-21-test-post.md`'s contents could be (written in Markdown):
 
 ```html
 ---
-layout: post
-categories: [test,post]
-date: 2016-8-21 5:30:38 PST
-title: Test Post
-css:
-  - post.css
+  layout: post
+  title: my article title
+  tags: [test]
+  categories: []
+  css:
+    - post.css
 ---
 
 ### Lorem ipsum dolor sit amet
@@ -54,6 +53,14 @@ This is a test post! Hopefully everything works out well! Lorem ipsum dolor sit 
 maecenas vestibulum, nam cras orci quis, vitae arcu nisl neque sed lectus. Mi pellentesque neque, ornare sit
 porttitor quia leo lectus pulvinar, dapibus mi mauris in ac, sem pede lorem ante wisi a magna.
 [...]
+```
+
+If you don't feel like making the post yourself, base posts may be easily generated using the following commands:
+
+```bash
+$ cd SouthEugeneRoboticsTeam.github.io
+$ npm install -g jekyll-posts-generator
+$ jposts create-post 'my title here'
 ```
 
 Read the official documentation on posts [here](https://jekyllrb.com/docs/posts/).
