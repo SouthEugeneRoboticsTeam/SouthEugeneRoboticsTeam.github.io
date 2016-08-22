@@ -1,14 +1,16 @@
 # SouthEugeneRoboticsTeam.github.io
 
 ## Introduction
-This is the new SERT website. You may visit it at [sert2521.tk](https://sert2521.tk).
+This is the new SERT website. You may visit it at [sert2521.tk](https://sert2521.tk). You might not be able
+to see changes immediately due to Cloudflare caching, but they should appear shortly.
 
 ## Contributing
 If you would like to contribute to the website, please fork this repository, make your changes,
 and submit a Pull Request.
 
 ## Jekyll
-This website uses [Jekyll](https://jekyllrb.com). You can find documentation on Jekyll [here](https://jekyllrb.com/docs/home/).
+This website uses [Jekyll](https://jekyllrb.com). You can find documentation on Jekyll
+[here](https://jekyllrb.com/docs/home/).
 
 ## Creating a Blog Post
 
