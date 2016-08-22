@@ -1,287 +1,137 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>South Eugene Robotics Team</title>
-
-    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="/assets/css/style.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="/assets/fonts/Montserrat.css" rel="stylesheet" type="text/css">
-    <link href="/assets/fonts/Lato.css" rel="stylesheet" type="text/css">
-
-    <!-- Favicon Configuration -->
-    <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/assets/favicon/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="/assets/js/html5shiv.js"></script>
-      <script src="/assets/js/respond.min.js"></script>
-    <![endif]-->
-
-  </head>
-
-  <body id="page-top" class="index">
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header page-scroll">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#page-top">SERT 2521</a>
-        </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li class="hidden">
-              <a href="#page-top"></a>
-            </li>
-            <li class="page-scroll">
-              <a href="#stats-anchor">Stats</a>
-            </li>
-            <li class="page-scroll">
-              <a href="#about-anchor">About</a>
-            </li>
-            <li class="page-scroll">
-              <a href="#something-anchor">Something</a>
-            </li>
-            <li class="page-scroll">
-              <a href="#somethingelse-anchor">Something Else</a>
-            </li>
-          </ul>
+---
+layout: default
+title: Home
+root: True
+---
+<!-- Header -->
+<header>
+  <div id="particlesjs"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <img class="img-responsive" src="/assets/img/gear.png" alt="">
+        <div class="intro-text">
+          <span class="name">SERT 2521</span>
+          <hr class="star-light">
+          <span class="sub">South Eugene Robotics Team</span>
         </div>
       </div>
-    </nav>
-
-    <!-- Header -->
-    <header>
-      <div id="particlesjs"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <img class="img-responsive" src="/assets/img/gear.png" alt="">
-            <div class="intro-text">
-              <span class="name">SERT 2521</span>
-              <hr class="star-light">
-              <span class="sub">South Eugene Robotics Team</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <!-- Stats Section -->
-    <a class="anchor" id="stats-anchor"></a>
-    <section id="stats">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2>Stats</h2>
-            <hr class="star-primary">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-4 stat-item">
-            <div class="stat-link">
-              <div class="caption">
-                <div class="caption-content">
-                  <center><span class="stat">Members</span></center>
-                  <center><span class="stat-val">51</span></center>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-4 stat-item">
-            <div class="stat-link">
-              <div class="caption">
-                <div class="caption-content">
-                  <center><span class="stat">Robots Built</span></center>
-                  <center><span class="stat-val">12</span></center>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-4 stat-item">
-            <div class="stat-link">
-              <div class="caption">
-                <div class="caption-content">
-                  <center><span class="stat">Years In Action</span></center>
-                  <center><span class="stat-val">9</span></center>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- About Section -->
-    <a class="anchor" id="about-anchor"></a>
-    <section id="about" class="purple">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2>About</h2>
-            <hr class="star-light">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 col-lg-offset-2">
-            <p>
-              The South Eugene Robotics Team is an FRC team based out of Eugene, Oregon. Lorem ipsum dolor sit amet,
-              fusce curabitur urna mauris, sagittis elit nisl. Faucibus hymenaeos eu nibh et mollis. Mauris dolor
-              vestibulum in, qui id tempor lobortis malesuada, vestibulum viverra amet eget, aliquam lectus nec erat,
-              tristique commodo diam gravida arcu.
-            </p>
-          </div>
-          <div class="col-lg-4">
-            <p>
-              Vitae amet, cumque enim accumsan. Saepe sed ornare pede porta, adipiscing nunc orci vestibulum, non
-              bibendum orci scelerisque praesent nullam tempor. Adipiscing quam condimentum. In metus sit. Lorem
-              magnis vestibulum ipsum, augue consectetuer maecenas posuere.
-            </p>
-          </div>
-          <div class="col-lg-8 col-lg-offset-2 text-center">
-            <a href="about" class="btn btn-lg btn-outline page-scroll">
-            <i class="fa"></i> Learn More!
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Something Section -->
-    <a class="anchor" id="something-anchor"></a>
-    <section id="something">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2>Something</h2>
-            <hr class="star-primary">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-8 col-lg-offset-2">
-            Some content here
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Something Else Section -->
-    <a class="anchor" id="somethingelse-anchor"></a>
-    <section id="somethingelse" class="purple">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2>Something Else</h2>
-            <hr class="star-light">
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-8 col-lg-offset-2">
-            Some more content right here
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="text-center">
-      <div class="footer-above">
-        <div class="container">
-          <div class="row">
-            <div class="footer-col col-md-4">
-            </div>
-            <div class="footer-col col-md-4">
-              <h3>Social Media</h3>
-              <ul class="list-inline">
-                <li>
-                  <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                </li>
-                <li>
-                  <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-                </li>
-                <li>
-                  <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                </li>
-                <li>
-                  <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
-                </li>
-              </ul>
-            </div>
-            <div class="footer-col col-md-4">
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="footer-below">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              Copyright &copy; South Eugene Robotics Team 2016
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll visible-xs visible-sm">
-      <a class="btn btn-primary" href="#page-top">
-      <i class="fa fa-chevron-up"></i>
-      </a>
     </div>
+  </div>
+</header>
 
-    <!-- jQuery -->
-    <script src="/assets/js/jquery.js"></script>
+<!-- Stats Section -->
+<a class="anchor" id="stats-anchor"></a>
+<section id="stats">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Stats</h2>
+        <hr class="star-primary">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 stat-item">
+        <div class="stat-link">
+          <div class="caption">
+            <div class="caption-content">
+              <center><span class="stat">Members</span></center>
+              <center><span class="stat-val">51</span></center>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4 stat-item">
+        <div class="stat-link">
+          <div class="caption">
+            <div class="caption-content">
+              <center><span class="stat">Robots Built</span></center>
+              <center><span class="stat-val">12</span></center>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4 stat-item">
+        <div class="stat-link">
+          <div class="caption">
+            <div class="caption-content">
+              <center><span class="stat">Years In Action</span></center>
+              <center><span class="stat-val">9</span></center>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="/assets/js/bootstrap.min.js"></script>
+<!-- About Section -->
+<a class="anchor" id="about-anchor"></a>
+<section id="about" class="purple">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>About</h2>
+        <hr class="star-light">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-lg-offset-2">
+        <p>
+          The South Eugene Robotics Team is an FRC team based out of Eugene, Oregon. Lorem ipsum dolor sit amet,
+          fusce curabitur urna mauris, sagittis elit nisl. Faucibus hymenaeos eu nibh et mollis. Mauris dolor
+          vestibulum in, qui id tempor lobortis malesuada, vestibulum viverra amet eget, aliquam lectus nec erat,
+          tristique commodo diam gravida arcu.
+        </p>
+      </div>
+      <div class="col-lg-4">
+        <p>
+          Vitae amet, cumque enim accumsan. Saepe sed ornare pede porta, adipiscing nunc orci vestibulum, non
+          bibendum orci scelerisque praesent nullam tempor. Adipiscing quam condimentum. In metus sit. Lorem
+          magnis vestibulum ipsum, augue consectetuer maecenas posuere.
+        </p>
+      </div>
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        <a href="about" class="btn btn-lg btn-outline page-scroll">
+        <i class="fa"></i> Learn More!
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 
-    <!-- Plugin JavaScript -->
-    <script src="/assets/js/jquery.easing.min.js"></script>
-    <script src="/assets/js/classie.js"></script>
-    <script src="/assets/js/cbpAnimatedHeader.js"></script>
-    <script src="/assets/js/particles.min.js"></script>
+<!-- Something Section -->
+<a class="anchor" id="something-anchor"></a>
+<section id="something">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Something</h2>
+        <hr class="star-primary">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        Some content here
+      </div>
+    </div>
+  </div>
+</section>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="/assets/js/main.js"></script>
-
-  </body>
-
-</html>
+<!-- Something Else Section -->
+<a class="anchor" id="somethingelse-anchor"></a>
+<section id="somethingelse" class="purple">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Something Else</h2>
+        <hr class="star-light">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        Some more content right here
+      </div>
+    </div>
+  </div>
+</section>
