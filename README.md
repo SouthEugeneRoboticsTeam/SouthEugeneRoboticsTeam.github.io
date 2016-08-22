@@ -55,3 +55,5 @@ maecenas vestibulum, nam cras orci quis, vitae arcu nisl neque sed lectus. Mi pe
 porttitor quia leo lectus pulvinar, dapibus mi mauris in ac, sem pede lorem ante wisi a magna.
 [...]
 ```
+
+Read the official documentation on posts [here](https://jekyllrb.com/docs/posts/).
