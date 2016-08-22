@@ -208,8 +208,7 @@ header .intro-text .sub
 section
 {
   padding: 50px 0;
-  height: calc(100vh - 80px);
-  min-height: 600px;
+  /*min-height: 600px;*/
 }
 
 section h2
