@@ -10,7 +10,13 @@ and submit a Pull Request.
 
 ## Jekyll
 This website uses [Jekyll](https://jekyllrb.com). You can find documentation on Jekyll
-[here](https://jekyllrb.com/docs/home/).
+[here](https://jekyllrb.com/docs/home/). To build this website locally, install Ruby and Jekyll and type:
+
+```bash
+jekyll serve
+```
+
+Assuming port 4000 is not in use, you should be able to visit the site by accessing `http://127.0.0.1:4000`.
 
 ## Creating a Blog Post
 
