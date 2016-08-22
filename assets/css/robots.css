@@ -9,6 +9,11 @@
   margin-top: 50px;
 }
 
+.robot:last-child
+{
+  margin-bottom: 200px;
+}
+
 .robot-img.right
 {
   float: right;
