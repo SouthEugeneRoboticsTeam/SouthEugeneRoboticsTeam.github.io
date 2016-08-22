@@ -141,4 +141,13 @@ $('.navbar-collapse ul li a').click(function() {
   $('.navbar-toggle:visible').click();
 });
 
+$(function() {
+  var img = Math.floor(Math.random() * 6) + 1;
+
+  $('header').css({
+      'background': 'url(/assets/img/team/' + img + '.png)',
+      'background-size': 'cover'
+  });
+});
+
 particlesJS('particlesjs', particleSettings);
