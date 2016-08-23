@@ -6,7 +6,7 @@ to see changes immediately due to Cloudflare caching, but they should appear sho
 
 ## Contributing
 If you would like to contribute to the website, please fork this repository, make your changes,
-and submit a Pull Request.
+and submit a Pull Request to the `dev` branch.
 
 ## Jekyll
 This website uses [Jekyll](https://jekyllrb.com). You can find documentation on Jekyll
