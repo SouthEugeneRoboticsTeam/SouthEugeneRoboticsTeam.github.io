@@ -21,8 +21,8 @@ Assuming port 4000 is not in use, you should be able to visit the site by access
 ## Creating a Blog Post
 
 To add a blog post to the website, add a file to the `/_posts/` directory named using the following format:
-`YYYY-MM-DD-TITLE.md`. For example, a post with the title "Test Post" written on August 21st, 2016
-would be named `2016-8-21-test-post.md`.
+`YYYY-MM-DD-title.md`. For example, a post with the title "Test Post" written on August 21st, 2016 would be
+named `2016-8-21-test-post.md`.
 
 The contents of this post should follow the following format (note - the content of the blog post may use
 HTML tags or Markdown):
