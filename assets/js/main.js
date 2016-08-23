@@ -18,10 +18,11 @@ var particleSettings = {
       }
     },
     "opacity": {
-      "value": 0.5
+      "value": 0.75
     },
     "size": {
       "value": 3,
+      "random": true
     },
     "line_linked": {
       "enable": true,
@@ -30,7 +31,33 @@ var particleSettings = {
       "opacity": 0.4,
       "width": 1
     }
-  }
+  },
+  "interactivity": {
+    "detect_on": "canvas",
+    "events": {
+      "onhover": {
+        "enable": true,
+        "mode": "grab"
+      },
+      "onclick": {
+        "enable": false,
+        "mode": "push"
+      },
+      "resize": true
+    },
+    "modes": {
+      "grab": {
+        "distance": 150,
+        "line_linked": {
+          "opacity": 1
+        }
+      },
+      "push": {
+        "particles_nb": 4
+      }
+    }
+  },
+  "retina_detect": true
 };
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
