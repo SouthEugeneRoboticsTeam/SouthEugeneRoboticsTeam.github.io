@@ -1,8 +1,6 @@
 ---
   layout: post
   title: my article title
-  tags: [test]
-  categories: []
   css:
     - post.css
 ---
