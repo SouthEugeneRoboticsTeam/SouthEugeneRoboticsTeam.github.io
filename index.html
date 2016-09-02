@@ -44,8 +44,8 @@ root: True
         <div class="stat-link">
           <div class="caption">
             <div class="caption-content">
-              <center><span class="stat">Robots Built</span></center>
-              <center><span class="stat-val">12</span></center>
+              <center><span class="stat">Mentors</span></center>
+              <center><span class="stat-val">6</span></center>
             </div>
           </div>
         </div>
@@ -77,22 +77,21 @@ root: True
     <div class="row">
       <div class="col-lg-4 col-lg-offset-2">
         <p>
-          The South Eugene Robotics Team is an FRC team based out of Eugene, Oregon. Lorem ipsum dolor sit amet,
-          fusce curabitur urna mauris, sagittis elit nisl. Faucibus hymenaeos eu nibh et mollis. Mauris dolor
-          vestibulum in, qui id tempor lobortis malesuada, vestibulum viverra amet eget, aliquam lectus nec erat,
-          tristique commodo diam gravida arcu.
+          The South Eugene Robotics Team (SERT), founded in 2007, is the only FRC team in the Eugene/
+          Springfield area. SERT has had members from all around the Eugene/Springfield area, including
+          home-schooled students and students from schools such as Willamette and North Eugene.
         </p>
       </div>
       <div class="col-lg-4">
         <p>
-          Vitae amet, cumque enim accumsan. Saepe sed ornare pede porta, adipiscing nunc orci vestibulum, non
-          bibendum orci scelerisque praesent nullam tempor. Adipiscing quam condimentum. In metus sit. Lorem
-          magnis vestibulum ipsum, augue consectetuer maecenas posuere.
+          Most high-schools do not offer many hands-on mechanical classes, so SERT is one of the few
+          opportunities for students to learn these skills which become incredibly benneficial
+          throughout their lives.
         </p>
       </div>
       <div class="col-lg-8 col-lg-offset-2 text-center">
         <a href="about" class="btn btn-lg btn-outline page-scroll">
-        <i class="fa"></i> Learn More!
+        <i class="fa"></i> Learn More
         </a>
       </div>
     </div>
@@ -101,11 +100,11 @@ root: True
 
 <!-- Social Section -->
 <a class="anchor" id="social-anchor"></a>
-<section id="something">
+<section id="social">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Social SERT</h2>
+        <h2>Social</h2>
         <hr class="star-primary">
       </div>
     </div>
@@ -120,19 +119,22 @@ root: True
   </div>
 </section>
 
-<!-- Something Else Section -->
-<a class="anchor" id="somethingelse-anchor"></a>
-<section id="somethingelse" class="purple">
+<!-- Blog Section -->
+<a class="anchor" id="blog-anchor"></a>
+<section id="blog" class="purple">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Something Else</h2>
+        <h2>Recent Blog Posts</h2>
         <hr class="star-light">
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2">
-        Some more content right here
+      <div class="col-lg-12">
+        {% for post in site.posts limit:1 %}
+          <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {% endfor %}
       </div>
     </div>
   </div>
