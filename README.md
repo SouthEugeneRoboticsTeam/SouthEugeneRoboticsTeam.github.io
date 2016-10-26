@@ -4,14 +4,17 @@
 [![Codacy][codacy-img]][codacy-url]
 
 ## Introduction
+
 This is the new SERT website. You may visit it at [sert2521.tk](https://sert2521.tk). You might not be
 able to see changes immediately due to Cloudflare caching, but they should appear shortly.
 
 ## Contributing
+
 If you would like to contribute to the website, please fork this repository, make your changes,
 and submit a Pull Request to the `dev` branch.
 
 ## Jekyll
+
 This website uses [Jekyll](https://jekyllrb.com). You can find documentation on Jekyll
 [here](https://jekyllrb.com/docs/home/). To build this website locally, install Ruby and Jekyll and type:
 
@@ -77,7 +80,6 @@ $ jposts create-post 'my title here'
 ```
 
 Read the official documentation on posts [here](https://jekyllrb.com/docs/posts/).
-
 
 <!-- Badge URLs -->
 
