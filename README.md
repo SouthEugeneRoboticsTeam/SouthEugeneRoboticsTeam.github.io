@@ -1,5 +1,8 @@
 # SouthEugeneRoboticsTeam.github.io
 
+[![Team 2521][team-img]][team-url]
+[![Codacy][codacy-img]][codacy-url]
+
 ## Introduction
 This is the new SERT website. You may visit it at [sert2521.tk](https://sert2521.tk). You might not be
 able to see changes immediately due to Cloudflare caching, but they should appear shortly.
@@ -74,3 +77,11 @@ $ jposts create-post 'my title here'
 ```
 
 Read the official documentation on posts [here](https://jekyllrb.com/docs/posts/).
+
+
+<!-- Badge URLs -->
+
+[team-img]:     https://img.shields.io/badge/team-2521-7d26cd.svg?style=flat-square
+[team-url]:     https://sert2521.org
+[codacy-img]:   https://img.shields.io/codacy/grade/a2b4ec682a724e2d831d10a4c7f9f5d1.svg?style=flat-square
+[codacy-url]:   https://www.codacy.com/app/Team2521/SouthEugeneRoboticsTeamhub-io
