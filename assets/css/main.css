@@ -1616,6 +1616,14 @@
 
 	}
 
+	body {
+		background-color: #935d8c;
+		background-image: url("../images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("../images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("../images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("../images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+	}
+
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -3209,10 +3217,10 @@
 		}
 
 		body.is-loading #header.alt .logo {
-			-moz-transform: scale(0.6) rotate(-50deg);
-			-webkit-transform: scale(0.6) rotate(-50deg);
-			-ms-transform: scale(0.6) rotate(-50deg);
-			transform: scale(0.6) rotate(-50deg);
+			-moz-transform: scale(0.8) rotate(-30deg);
+			-webkit-transform: scale(0.8) rotate(-30deg);
+			-ms-transform: scale(0.8) rotate(-30deg);
+			transform: scale(0.8) rotate(-30deg);
 		}
 
 /* Nav */
