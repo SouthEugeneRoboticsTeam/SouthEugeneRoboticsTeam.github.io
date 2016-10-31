@@ -1,141 +1,84 @@
 ---
 layout: default
-title: Home
 root: True
+javascript:
+- slider.js
 ---
-<!-- Header -->
-<header>
-  <div id="particlesjs"></div>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <img class="img-responsive" src="/assets/img/gear.png" alt="">
-        <div class="intro-text">
-          <span class="name">SERT 2521</span>
-          <span class="sub">South Eugene Robotics Team</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
-
+<section id="slider" class="main special">
+	<div class="slider"></div>
+</section>
+<!-- Introduction -->
+<section id="intro" class="main">
+	<a id="anchor-intro"></a>
+	<div class="spotlight">
+		<div class="content">
+			<header class="major">
+				<h2>Who are we?</h2>
+			</header>
+			<p>The South Eugene Robotics Team (SERT), founded in 2007, is the only FRC team in the Eugene / Springfield area.
+				SERT has had members from all around the Eugene / Springfield area, including home-schooled students and
+				students from schools such as Willamette, North Eugene, and Sheldon.
+			</p>
+			<p>Most high-schools do not offer many hands-on mechanical classes, so SERT is one of the few opportunities for
+				students to learn these skills which become incredibly benneficial throughout their lives.
+			</p>
+			<ul class="actions">
+				<li><a href="about" class="button">Learn More</a></li>
+			</ul>
+		</div>
+		<span class="image"><img src="assets/images/about.jpg" alt="" /></span>
+	</div>
+</section>
 <!-- Stats Section -->
-<a class="anchor" id="stats-anchor"></a>
-<section id="stats">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Stats</h2>
-        <hr class="star-primary">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-4 stat-item">
-        <div class="stat-link">
-          <div class="caption">
-            <div class="caption-content">
-              <center><span class="stat">Members</span></center>
-              <center><span class="stat-val">51</span></center>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4 stat-item">
-        <div class="stat-link">
-          <div class="caption">
-            <div class="caption-content">
-              <center><span class="stat">Mentors</span></center>
-              <center><span class="stat-val">6</span></center>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4 stat-item">
-        <div class="stat-link">
-          <div class="caption">
-            <div class="caption-content">
-              <center><span class="stat">Years In Action</span></center>
-              <center><span class="stat-val">9</span></center>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<a id="anchor-stats"></a>
+<section id="stats" class="main special">
+	<header class="major">
+		<h2>Statistics</h2>
+	</header>
+	<ul class="statistics">
+		<li class="style1">
+			<span class="icon fa-users"></span>
+			<strong>51</strong> Members
+		</li>
+		<li class="style2">
+			<span class="icon fa-user"></span>
+			<strong>6</strong> Mentors
+		</li>
+		<li class="style3">
+			<span class="icon fa-clock-o"></span>
+			<strong>9</strong> Years in Action
+		</li>
+	</ul>
 </section>
-
-<!-- About Section -->
-<a class="anchor" id="about-anchor"></a>
-<section id="about" class="purple">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>About</h2>
-        <hr class="star-light">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-4 col-lg-offset-2">
-        <p>
-          The South Eugene Robotics Team (SERT), founded in 2007, is the only FRC team in the Eugene/
-          Springfield area. SERT has had members from all around the Eugene/Springfield area, including
-          home-schooled students and students from schools such as Willamette and North Eugene.
-        </p>
-      </div>
-      <div class="col-lg-4">
-        <p>
-          Most high-schools do not offer many hands-on mechanical classes, so SERT is one of the few
-          opportunities for students to learn these skills which become incredibly benneficial
-          throughout their lives.
-        </p>
-      </div>
-      <div class="col-lg-8 col-lg-offset-2 text-center">
-        <a href="about" class="btn btn-lg btn-outline page-scroll">
-        <i class="fa"></i> Learn More
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-
 <!-- Social Section -->
-<a class="anchor" id="social-anchor"></a>
-<section id="social">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Social</h2>
-        <hr class="star-primary">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <center>
-          <script src="//www.powr.io/powr.js" external-type="html"></script>
-          <div class="powr-social-feed" id="76a727dc_1471841088"></div>
-        </center>
-      </div>
-    </div>
-  </div>
+<a id="anchor-social"></a>
+<section id="social" class="main special">
+	<header class="major">
+		<h2>Social</h2>
+		<p>Checkout SERT on social media!</p>
+		<ul class="icons">
+			{% for media in site.data.social %}
+			<li>
+				<a href="{{media.profile}}" class="icon fa-{{media.type}} alt">
+				<span class="label">{{media.type}}</span>
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+	</header>
 </section>
-
 <!-- Blog Section -->
-<a class="anchor" id="blog-anchor"></a>
-<section id="blog" class="purple">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Recent Blog Posts</h2>
-        <hr class="star-light">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12">
-        {% for post in site.posts limit:1 %}
-          <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>
-          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
+<a id="anchor-blog"></a>
+<section id="blog" class="main special">
+	<header class="major">
+		<h2>Latest Blog Posts</h2>
+		<ul class="icons">
+			{% for post in site.posts limit:3 %}
+			<small>{{ post.date | date: "%B %e, %Y" }}</small>
+			<a href="{{ post.url }}">
+				<h3><strong>{{ post.title }}</strong></h3>
+			</a>
+			{% endfor %}
+		</ul>
+	</header>
 </section>

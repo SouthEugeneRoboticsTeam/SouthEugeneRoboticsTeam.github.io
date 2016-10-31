@@ -1,3 +1,16 @@
 permalink: /blog/:year/:i_month/:i_day/:title
 markdown: kramdown
 include: ['_pages']
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "post"

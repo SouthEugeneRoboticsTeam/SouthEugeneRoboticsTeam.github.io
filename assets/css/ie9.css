@@ -1,0 +1,56 @@
+/* Spotlight */
+
+	.spotlight:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+
+	.spotlight .content {
+		float: left;
+		width: 60%;
+	}
+
+	.spotlight .image {
+		float: left;
+	}
+
+/* Features */
+
+	.features:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+
+	.features li {
+		float: left;
+	}
+
+/* Statistics */
+
+	.statistics {
+		display: inline-block;
+		width: auto;
+	}
+
+		.statistics:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+
+		.statistics li {
+			float: left;
+			padding: 1.5em 2.5em;
+		}
+
+/* Footer */
+
+	#footer > * {
+		float: left;
+	}
+
+	#footer .copyright {
+		clear: both;
+	}

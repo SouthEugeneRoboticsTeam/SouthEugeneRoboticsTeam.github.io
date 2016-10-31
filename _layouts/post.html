@@ -1,20 +1,13 @@
 ---
 layout: default
 ---
-<!-- Post Section -->
-<a class="anchor" id="post-anchor"></a>
-<section id="post" class="purple">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h3>{{ page.title }}</h3>
-        <hr class="star-light">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2">
-        {{ content }}
-      </div>
-    </div>
-  </div>
+{% if page.image %}
+<!-- Lead Image Section -->
+<section id="lead-image" class="main special">
+	<div class="lead-image" style="background-image: url({{ page.image }});"></div>
+</section>
+{% endif %}
+<!-- Content Section -->
+<section id="content" class="main special">
+	{{ content }}
 </section>

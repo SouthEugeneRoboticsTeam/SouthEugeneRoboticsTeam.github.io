@@ -1,0 +1,42 @@
+#intro, #intro > .spotlight {
+	padding-top: 35px !important;
+}
+
+#slider {
+	height: 425px;
+
+	background-color: transparent;
+
+	padding: 0 !important;
+	margin-top: 15px;
+}
+
+.slider {
+	height: 100%;
+
+	background-image: url(/assets/images/slider/1.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+	background-size: 100%;
+}
+
+#lead-image {
+	height: 425px;
+
+	background-color: transparent;
+
+	padding: 0 !important;
+	margin-top: 15px;
+}
+
+.lead-image {
+	height: 100%;
+
+	background-repeat: no-repeat;
+    background-position: center;
+	background-size: 100%;
+}
+
+#content > p {
+	text-align: left;
+}

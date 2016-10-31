@@ -1,17 +1,19 @@
 ---
-  layout: post
-  title: my article title
-  css:
-    - post.css
+title: My Blog Post Title
+image: http://3.bp.blogspot.com/-SUNDyBLeen0/UA1gikP_2AI/AAAAAAAAEDs/32CU65woD-A/s1600/Dean_Kamen_FIRST.png
 ---
 
-### Lorem ipsum dolor sit amet
+# H1 Lorem ipsum dolor sit amet
+
+## H2 Lorem ipsum dolor sit amet
+
+### H3 Lorem ipsum dolor sit amet
 
 [Link](http://google.com)
 
 ![Image](http://i.imgur.com/BbA9Fsl.png)
 
-This is a test post! Hopefully everything works out well! Lorem ipsum dolor sit amet, et quam, nibh in lacus
+This is a test post! Lorem ipsum dolor sit amet, et quam, nibh in lacus
 maecenas vestibulum, nam cras orci quis, vitae arcu nisl neque sed lectus. Mi pellentesque neque, ornare sit
 porttitor quia leo lectus pulvinar, dapibus mi mauris in ac, sem pede lorem ante wisi a magna. Mauris ante
 arcu nisl, ligula dui velit viverra mi neque tristique, arcu in donec mi est. At lacus, sodales nec nunc, eu

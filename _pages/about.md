@@ -1,12 +1,9 @@
 ---
-  permalink: /about/
-  layout: page
-  title: About
-  css:
-    - post.css
+permalink: /about/
+title: About
 ---
 
-### What is FRC?
+## What is FRC?
 
 The [FIRST Robotics Competition (FRC)](http://www.firstinspires.org/robotics/frc)
 is an annual competition that brings together robotics teams from all around the
@@ -18,7 +15,7 @@ students that not only teaches them the fundamental elements of technology but t
 experience of working in a microcosm of a small tech company.
 
 
-### Our Story
+## Our Story
 
 The South Eugene Robotics Team (SERT) was founded in 2007 by Leighton Barnes (SEHS
 Class of 2009). SERT is the only FRC team in the Eugene/Springfield area, and has

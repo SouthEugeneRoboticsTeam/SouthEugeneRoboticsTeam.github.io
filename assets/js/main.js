@@ -1,95 +1,125 @@
-var particleSettings = {
-  "particles": {
-    "number": {
-      "value": 50,
-      "density": {
-        "enable": true,
-        "value_area": 800
-      }
-    },
-    "color": {
-      "value": "#ffffff"
-    },
-    "shape": {
-      "type": "circle",
-      "stroke": {
-        "width": 0,
-        "color": "#000000"
-      }
-    },
-    "opacity": {
-      "value": 0.75
-    },
-    "size": {
-      "value": 3,
-      "random": true
-    },
-    "line_linked": {
-      "enable": true,
-      "distance": 150,
-      "color": "#ffffff",
-      "opacity": 0.4,
-      "width": 1
-    }
-  },
-  "interactivity": {
-    "detect_on": "canvas",
-    "events": {
-      "onhover": {
-        "enable": true,
-        "mode": "grab"
-      },
-      "onclick": {
-        "enable": false,
-        "mode": "push"
-      },
-      "resize": true
-    },
-    "modes": {
-      "grab": {
-        "distance": 150,
-        "line_linked": {
-          "opacity": 1
-        }
-      },
-      "push": {
-        "particles_nb": 4
-      }
-    }
-  },
-  "retina_detect": true
-};
+(function ($) {
 
-// jQuery for page scrolling feature - requires jQuery Easing plugin
-$(function() {
-  $('body').on('click', '.page-scroll a', function(event) {
-    var $anchor = $(this);
-    $('html, body').stop().animate({
-      scrollTop: $($anchor.attr('href')).offset().top
-    }, 1500, 'easeInOutExpo');
-    event.preventDefault();
-  });
-});
+	skel.breakpoints({
+		xlarge: '(max-width: 1680px)',
+		large: '(max-width: 1280px)',
+		medium: '(max-width: 980px)',
+		small: '(max-width: 736px)',
+		xsmall: '(max-width: 480px)',
+		xxsmall: '(max-width: 360px)'
+	});
 
-// Floating label headings for the contact form
-$(function() {
-  $("body").on("input propertychange", ".floating-label-form-group", function(e) {
-    $(this).toggleClass("floating-label-form-group-with-value", !!$(e.target).val());
-  }).on("focus", ".floating-label-form-group", function() {
-    $(this).addClass("floating-label-form-group-with-focus");
-  }).on("blur", ".floating-label-form-group", function() {
-    $(this).removeClass("floating-label-form-group-with-focus");
-  });
-});
+	$(function () {
 
-// Highlight the top nav as scrolling occurs
-$('body').scrollspy({
-  target: '.navbar-fixed-top'
-});
+		var $window = $(window),
+			$body = $('body'),
+			$main = $('#main');
 
-// Closes the Responsive Menu on Menu Item Click
-$('.navbar-collapse ul li a').click(function() {
-  $('.navbar-toggle:visible').click();
-});
+		// Disable animations/transitions until the page has loaded.
+		$body.addClass('is-loading');
 
-particlesJS('particlesjs', particleSettings);
+		$window.on('load', function () {
+			window.setTimeout(function () {
+				$body.removeClass('is-loading');
+			}, 100);
+		});
+
+		// Fix: Placeholder polyfill.
+		$('form').placeholder();
+
+		// Prioritize "important" elements on medium.
+		skel.on('+medium -medium', function () {
+			$.prioritize(
+				'.important\\28 medium\\29',
+				skel.breakpoint('medium').active
+			);
+		});
+
+		// Nav.
+		var $nav = $('#nav');
+
+		if ($nav.length > 0) {
+
+			// Shrink effect.
+			$main
+				.scrollex({
+					mode: 'top',
+					enter: function () {
+						$nav.addClass('alt');
+					},
+					leave: function () {
+						$nav.removeClass('alt');
+					},
+				});
+
+			// Links.
+			var $nav_a = $nav.find('a');
+
+			$nav_a
+				.scrolly({
+					speed: 1000,
+					offset: function () {
+						return $nav.height();
+					}
+				})
+				.on('click', function () {
+
+					var $this = $(this);
+
+					// External link? Bail.
+					if ($this.attr('href').charAt(0) != '#')
+						return;
+
+				})
+				.each(function () {
+
+					var $this = $(this),
+						id = $this.attr('href'),
+						$section = $(id);
+
+					// No section for this link? Bail.
+					if ($section.length < 1)
+						return;
+
+					// Scrollex.
+					$section.scrollex({
+						mode: 'middle',
+						initialize: function () {
+
+							// Deactivate section.
+							if (skel.canUse('transition'))
+								$section.addClass('inactive');
+
+						},
+						enter: function () {
+
+							// Activate section.
+							$section.removeClass('inactive');
+
+							// No locked links? Deactivate all links and activate this section's one.
+							if ($nav_a.filter('.active-locked').length == 0) {
+
+								$nav_a.removeClass('active');
+								$this.addClass('active');
+
+							}
+
+							// Otherwise, if this section's link is the one that's locked, unlock it.
+							else if ($this.hasClass('active-locked'))
+								$this.removeClass('active-locked');
+
+						}
+					});
+
+				});
+
+		}
+
+		// Scrolly.
+		$('.scrolly').scrolly({
+			speed: 1000
+		});
+
+	});
+
+})(jQuery);
