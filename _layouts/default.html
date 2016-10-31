@@ -108,8 +108,8 @@
     {% include scroll.html %}
 
     {% include javascript.html %}
-	{% for js in page.javascript %}
-	  <link href="/assets/css/{{js}}" rel="stylesheet">
+    {% for js in page.javascript %}
+	  <script src="/assets/js/{{js}}"></script>
 	{% endfor %}
 
   </body>

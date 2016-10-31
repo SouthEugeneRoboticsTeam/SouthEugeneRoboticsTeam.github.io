@@ -98,6 +98,8 @@ header
   text-align: center;
   color: #fff;
   background: #9b59b6;
+  /*background: url("/assets/img/team/1.png");*/
+  background-size: cover;
   height: 100vh;
   min-height: 600px;
 }
@@ -112,6 +114,11 @@ header img
 {
   display: block;
   margin: 0 auto 20px;
+}
+
+header .intro-text
+{
+  background: #9b59b6;
 }
 
 header .intro-text .name
