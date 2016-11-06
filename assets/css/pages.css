@@ -8,7 +8,6 @@
 	background-color: transparent;
 
 	padding: 0 !important;
-	margin-top: 15px;
 }
 
 .slider {
@@ -16,7 +15,7 @@
 
 	background-repeat: no-repeat;
     background-position: center;
-	background-size: 100%;
+	background-size: cover;
 }
 
 #lead-image {
