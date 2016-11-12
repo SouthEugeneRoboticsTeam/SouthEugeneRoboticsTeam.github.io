@@ -38,3 +38,7 @@
 #content > p {
 	text-align: left;
 }
+
+#disqus {
+	margin: 20px;
+}

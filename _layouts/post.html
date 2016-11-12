@@ -11,3 +11,27 @@ layout: default
 <section id="content" class="main special">
 	{{ content }}
 </section>
+
+<section id="disqus">
+	<div id="disqus_thread"></div>
+
+	<script>
+	    var disqus_config = function () {
+	        this.page.url = window.location.href;
+	        this.page.identifier = "{{ page.title }}";
+	    };
+
+	    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+	        var d = document, s = d.createElement('script');
+
+	        s.src = '//sert2521.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+
+	        s.setAttribute('data-timestamp', +new Date());
+	        (d.head || d.body).appendChild(s);
+	    })();
+	</script>
+
+	<noscript>
+		Please enable JavaScript to view comments.</a>
+	</noscript>
+</section>
