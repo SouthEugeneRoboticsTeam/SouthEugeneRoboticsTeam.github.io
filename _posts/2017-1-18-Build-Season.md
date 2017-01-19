@@ -1,5 +1,5 @@
 ---
-name:Build Season
+title: Build Season
 ---
 Currently, our team is in the beginning stages of build season. The game this year is FIRST Steamworks. You can check it out here: https://youtu.be/EMiNmJW7enI. 
 
