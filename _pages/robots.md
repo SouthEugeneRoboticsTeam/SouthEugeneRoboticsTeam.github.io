@@ -12,7 +12,7 @@ css:
 ![2016](/assets/images/robots/2016.png){: .robot-img .right}
 
 {: .robot-text .left}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt rhoncus sapien at lacinia. In lobortis porta lectus, ut consectetur purus posuere nec. Aliquam massa nulla, posuere sit amet efficitur nec, egestas ac ex. Aliquam tristique malesuada ante dictum feugiat. Aliquam vulputate, leo vitae molestie egestas, arcu nibh gravida nisl, in viverra enim purus sed lectus. Vestibulum mollis, odio tempor consectetur efficitur, dolor tellus vehicula risus, quis eleifend risus sapien et tortor. Nulla in lobortis tortor. Vestibulum volutpat felis massa, ac accumsan ante maximus non.
+Gary Spice, our robot from FIRST Stronghold, was originally a high-shooter but was modified to a low goal scorer during competition season. This robot was our first time using treads, which was an interesting and educational experience for our team.
 </div>
 
 {: .robot}
@@ -21,7 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt rhoncus s
 ![2016](/assets/images/robots/2015.png){: .robot-img .left}
 
 {: .robot-text .right}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt rhoncus sapien at lacinia. In lobortis porta lectus, ut consectetur purus posuere nec. Aliquam massa nulla, posuere sit amet efficitur nec, egestas ac ex. Aliquam tristique malesuada ante dictum feugiat. Aliquam vulputate, leo vitae molestie egestas, arcu nibh gravida nisl, in viverra enim purus sed lectus. Vestibulum mollis, odio tempor consectetur efficitur, dolor tellus vehicula risus, quis eleifend risus sapien et tortor. Nulla in lobortis tortor. Vestibulum volutpat felis massa, ac accumsan ante maximus non.
+Nessie, from 2015's Recycle Rush, was made from recycled parts and lead the team to World Championships for the first time in our team's history. This robot's rotating belt with 3D printed hooks picked up and stacked both totes and bins. Nessie won us both the Creativity and the Engineering Inspiration Awards at regional levels.
+
 </div>
 
 {: .robot}
@@ -30,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt rhoncus s
 ![2016](/assets/images/robots/2014.png){: .robot-img .right}
 
 {: .robot-text .left}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt rhoncus sapien at lacinia. In lobortis porta lectus, ut consectetur purus posuere nec. Aliquam massa nulla, posuere sit amet efficitur nec, egestas ac ex. Aliquam tristique malesuada ante dictum feugiat. Aliquam vulputate, leo vitae molestie egestas, arcu nibh gravida nisl, in viverra enim purus sed lectus. Vestibulum mollis, odio tempor consectetur efficitur, dolor tellus vehicula risus, quis eleifend risus sapien et tortor. Nulla in lobortis tortor. Vestibulum volutpat felis massa, ac accumsan ante maximus non.
+Byter, from 2014's Aerial Assist was able to quickly score balls in the low goal and sometimes even catch. The consistency of this robot took us to District Champtionships and remains a favorite for community demonstrations due to its sturdiness and interactive possibilities. 
 </div>
 
 {: .robot}
@@ -39,5 +40,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt rhoncus s
 ![2016](/assets/images/robots/2013.png){: .robot-img .left}
 
 {: .robot-text .right}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt rhoncus sapien at lacinia. In lobortis porta lectus, ut consectetur purus posuere nec. Aliquam massa nulla, posuere sit amet efficitur nec, egestas ac ex. Aliquam tristique malesuada ante dictum feugiat. Aliquam vulputate, leo vitae molestie egestas, arcu nibh gravida nisl, in viverra enim purus sed lectus. Vestibulum mollis, odio tempor consectetur efficitur, dolor tellus vehicula risus, quis eleifend risus sapien et tortor. Nulla in lobortis tortor. Vestibulum volutpat felis massa, ac accumsan ante maximus non.
+Excaliber, from FIRST's disc-golf styled game Ultimate Ascent, was an incredibly reliable robot that functioned as a shooter via flywheel. 
 </div>
