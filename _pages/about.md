@@ -7,7 +7,7 @@ title: About Us
 
 The [FIRST Robotics Competition (FRC)](http://www.firstinspires.org/robotics/frc)
 is an annual competition that brings together robotics teams from all around the
-world to compete with and against each other in order to win. For every season, a
+world to compete with and against each other. For every season, a
 challenge is set forth and each team is given six weeks to construct a functional
 robot in order to fulfill the challenge requirements. Dubbed as the "hardest fun
 you'll ever have," FRC is a challenging and exciting opportunity for high school
