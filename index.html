@@ -38,15 +38,15 @@ javascript:
 	<ul class="statistics">
 		<li class="style1">
 			<span class="icon fa-users"></span>
-			<strong>51</strong> Members
+			<strong>{{site.data.stats.members}}</strong> Members
 		</li>
 		<li class="style2">
 			<span class="icon fa-user"></span>
-			<strong>6</strong> Mentors
+			<strong>{{site.data.stats.mentors}}</strong> Mentors
 		</li>
 		<li class="style3">
 			<span class="icon fa-clock-o"></span>
-			<strong>9</strong> Years in Action
+			<strong>{{site.data.stats.seasons}}</strong> Seasons
 		</li>
 	</ul>
 </section>
@@ -60,7 +60,7 @@ javascript:
 			{% for media in site.data.social %}
 			<li>
 				<a href="{{media.profile}}" class="icon fa-{{media.type}} alt">
-				<span class="label">{{media.type}}</span>
+				<span class="label">{{media}}</span>
 				</a>
 			</li>
 			{% endfor %}
