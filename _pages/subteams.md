@@ -9,7 +9,7 @@ The mechanical subteam is responsible for the design and fabrication of the
 robot. During the first few days of build season, mechanical designs and
 creates CAD models and prototypes of proposed mechanisms of the robot. After
 different mechanisms have been tested and eliminated, mechanical designs a CAD
-model and builds a test model of the robot. After the test robot has been and
+model and builds a test model of the robot. After the test robot has been
 tested and altered, a final robot is built.
 
 ## Electrical
