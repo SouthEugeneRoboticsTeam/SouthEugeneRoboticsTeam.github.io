@@ -3,10 +3,14 @@ permalink: /outreach/
 title: Outreach
 ---
 
+## Upcoming Events
+
+We will be teaching workshops at Girls Rule! 2017, a free event for girls aged 9-14 at Churchill High School on April 11th. Also, catch us hosting our VERY OWN HACKATHON on May 20 in South Eugene High School cafeteria! Stay tuned for more details.
+
 ## Upcoming Demonstrations
 
 We will be demonstrating our Aerial Assist robot, Byter, at Kids Down South
-Preschool on February 1st. On February 13th, we will be demonstrating the same
+Preschool on February 1st. On February 24th, we will be demonstrating the same
 robot and presenting about our team at the Emerald Valley Assisted Living
 Center.
 
