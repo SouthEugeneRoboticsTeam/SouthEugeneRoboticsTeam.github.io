@@ -1,6 +1,7 @@
 .robot {
 	width: 100%;
 	margin-top: 80px;
+	min-height: 300px;
 }
 
 .robot:first-child {
