@@ -4,7 +4,7 @@
         var img_array = [1, 2, 3, 4, 5, 6],
             newIndex = 0,
             index = 0,
-            interval = 4500;
+            interval = 7500;
 
         (function changeBg() {
             index = (index + 1) % img_array.length;
