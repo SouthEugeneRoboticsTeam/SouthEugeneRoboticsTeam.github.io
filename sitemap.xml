@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://sert2521.org</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>https://sert2521.org</loc><lastmod>2017-02-07T13:27:52+00:00</lastmod><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>https://sert2521.org/about</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>https://sert2521.org/subteams</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>https://sert2521.org/robots</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>https://sert2521.org/outreach</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>https://sert2521.org/hack</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>https://sert2521.org/blog/2017/1/18/build-season</loc><lastmod>2017-02-07T13:27:52+00:00</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+</urlset>
