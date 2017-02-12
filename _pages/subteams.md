@@ -1,5 +1,5 @@
 ---
-permalink: /subteams
+permalink: /subteams/
 title: Subteams
 ---
 

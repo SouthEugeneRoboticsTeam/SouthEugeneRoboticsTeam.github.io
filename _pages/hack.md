@@ -1,5 +1,5 @@
 ---
-permalink: /hack
+permalink: /hack/
 title: SERT Smash Hackathon
 ---
 

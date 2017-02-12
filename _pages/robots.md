@@ -1,5 +1,5 @@
 ---
-permalink: /robots
+permalink: /robots/
 title: Robots
 css:
 - robots.css
