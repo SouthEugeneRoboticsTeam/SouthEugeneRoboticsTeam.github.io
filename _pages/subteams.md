@@ -1,6 +1,7 @@
 ---
 permalink: /subteams/
 title: Subteams
+description: The team is split into several subteams, each with its own specialty.
 ---
 
 ## Mechanical

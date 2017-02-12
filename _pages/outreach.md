@@ -1,6 +1,7 @@
 ---
 permalink: /outreach/
 title: Outreach
+description: We are very active in the community and love to demonstrate our robotics at many different locations.
 ---
 
 ## Upcoming Events

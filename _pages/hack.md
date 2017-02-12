@@ -1,6 +1,7 @@
 ---
 permalink: /hack/
-title: SERT Smash Hackathon
+title: SERT Smash
+description: The SERT Smash Hackathon will be hosted in Eugene, Oregon on May 20th.
 ---
 
 ## What is SERT Smash?
