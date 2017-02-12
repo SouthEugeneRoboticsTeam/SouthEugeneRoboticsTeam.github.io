@@ -13,6 +13,7 @@ layout: default
 	{{ content }}
 </section>
 
+{% if page.comments %}
 <section id="disqus">
 	<div id="disqus_thread"></div>
 
@@ -36,3 +37,4 @@ layout: default
 		Please enable JavaScript to view comments.
 	</noscript>
 </section>
+{% endif %}
