@@ -3639,7 +3639,7 @@
 		@media screen and (max-width: 980px) {
 
 			#main > .main {
-				padding: 4em 3em 2em 3em ;
+				padding: 2em 3em 2em 3em ;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3810,4 +3810,10 @@
 		right: 0;
 		top: 0;
 		z-index: -1;
+	}
+
+	.post {
+		padding: 10px;
+		border: solid grey;
+		margin-bottom: 20px;
 	}
