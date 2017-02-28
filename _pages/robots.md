@@ -9,7 +9,7 @@ css:
 {: .robot}
 <div>
 # 2017 - Phantom
-![2016](/assets/images/robots/2017.png){: .robot-img .right}
+![2016](/assets/images/robots/2017.png){: .robot-img .left}
 
 {: .robot-text .left}
 Completed just last week, Phantom is our robot designed to play the 2017 game, 
