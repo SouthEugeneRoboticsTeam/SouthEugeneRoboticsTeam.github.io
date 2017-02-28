@@ -11,7 +11,7 @@ css:
 # 2017 - Phantom
 ![2016](/assets/images/robots/2017.png){: .robot-img .left}
 
-{: .robot-text .left}
+{: .robot-text .right}
 Completed just last week, Phantom is our robot designed to play the 2017 game, 
 FIRST Steamworks. It is capable of carrying gears to the airships as well as 
 shooting fuel into the high boiler.
