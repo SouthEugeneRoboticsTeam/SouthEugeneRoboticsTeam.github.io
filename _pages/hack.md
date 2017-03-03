@@ -6,9 +6,9 @@ description: The SERT Smash Hackathon will be hosted in Eugene, Oregon on May 20
 
 ## What is SERT Smash?
 
-SERT Smash is a hackathon put on by SERT located in Eugene, Oregon, open to all
-high-school students. There will be a surprise challenge and awards for the
-winners.
+SERT Smash is a hackathon hosted by the South Eugene Robotics Team located in
+Eugene, Oregon, open to all high-school students. There will be a surprise
+challenge and awards for the winners.
 
 ## Who's invited?
 
