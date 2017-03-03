@@ -6,30 +6,26 @@ description: The SERT Smash Hackathon will be hosted in Eugene, Oregon on May 20
 
 ## What is SERT Smash?
 
-SERT Smash is a Hackathon located in Eugene, Oregon open to all high-school
-students. There will be various challenges and awards for the winners.
+SERT Smash is a hackathon put on by SERT located in Eugene, Oregon, open to all
+high-school students. There will be a surprise challenge and awards for the
+winners.
 
 ## Who's invited?
 
-All high-school students are invited to participate in the SERT Smash
-competition. No FRC or robotics experience is required, but it will be a great
-programming team bonding exercise for coding teams.
+All high-school students are invited to participate in SERT Smash. No FRC or
+robotics experience is required, but it's a great opportunity for software teams
+to practice coding and working together.
 
 ## How will it work?
 
-At 8:00 AM on May 20th, 2017, the various challenges will be announced and
-teams may begin working on their challenge entry. Teams may consist of up to 8
-students and an adult member.
+At 8:00 AM on May 20th, 2017, the challenge will be announced and teams will
+begin working on their entry. Teams may consist of up to 5 students and an adult
+ member. Throughout the day, they'll continue to code.
 
-Throughout the day, teams may work on their code and create their entry. We
-encourage teams to create a private GitHub repository to keep track of their
-code changes and make collaboration easy, though other code collaboration
-platforms may be desired depending on the challenge.
-
-At the end of the day, teams will create a Pull Request to the SERT Smash
-GitHub repository in order to enter their code. All code will be released under
-the MIT license. Teams will then be asked to talk give a short demo and talk
-about their project. Afterwards, the winners will be decided and announced.
+At the end of the day, teams will create a pull request to the SERT Smash
+GitHub repository to enter their code, which will be released under
+the MIT license. After teams present their projects, judges will deliberate and
+announce a winner.
 
 ## Where is it located?
 
