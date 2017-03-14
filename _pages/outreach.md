@@ -4,6 +4,22 @@ title: Outreach
 description: We are very active in the community and love to demonstrate our robotics at many different locations.
 ---
 
+## Go Baby Go
+
+In partnership with Oregon Statue University, we participate and contribute to the Go Baby Go! initiative to build alternative transportation for children with limited mobility. We designed a 3D-printable joystick for the "trucks" such that children that use them can gently accelerate, instead of using a button that goes from stopped to full speed immediately. Our joystick design gives children hours of fun therapy and makes transportation easier. 
+
+Find out more about Go Baby Go here: http://health.oregonstate.edu/gobabygo
+
+## Supporting Women in STEM
+
+In addition to our strong female student leadership (75% of all captains/leads are female), our team makes a number of efforts to support and promote women in STEM. We recently taught an 8 week-long class at Ophelia's Place in CAD, an organization that supports girls in the community. We've also donated four desktop computers to them, for educational use. 
+
+Our team also attends events to encourage girls on our team to network with female professionals, such as the Oregon State University Women in Engineering Dinner, as well as the Women In Science and Engineering Symposium. 
+
+To encourage girls in our community to explore STEM and FIRST, we run demonstrations at Ophelia's Place's Girls Rule! event, as well as at SPICE camp, a girls' science camp at the University of Oregon. 
+
+You can check out Ophelia's Place here: http://opheliasplace.net/
+
 ## Upcoming Events
 
 We will be teaching workshops at Girls Rule! 2017, a free event for girls aged 9-14 at Churchill High School on April 11th. Also, catch us hosting our VERY OWN HACKATHON on May 20 in South Eugene High School cafeteria! Stay tuned for more details.
