@@ -4,6 +4,10 @@ title: Outreach
 description: We are very active in the community and love to demonstrate our robotics at many different locations.
 ---
 
+## SERT Smash- Hackathon details
+
+https://sert2521.org/hack/ 
+
 ## Go Baby Go
 
 In partnership with Oregon Statue University, we participate and contribute to the Go Baby Go! initiative to build alternative transportation for children with limited mobility. We designed a 3D-printable joystick for the "trucks" such that children that use them can gently accelerate, instead of using a button that goes from stopped to full speed immediately. Our joystick design gives children hours of fun therapy and makes transportation easier. 
@@ -24,12 +28,6 @@ You can check out Ophelia's Place here: http://opheliasplace.net/
 
 We will be teaching workshops at Girls Rule! 2017, a free event for girls aged 9-14 at Churchill High School on April 11th. Also, catch us hosting our VERY OWN HACKATHON on May 20 in South Eugene High School cafeteria! Stay tuned for more details.
 
-## Upcoming Demonstrations
-
-We will be demonstrating our Aerial Assist robot, Byter, at Kids Down South
-Preschool on February 1st. On February 24th, we will be demonstrating the same
-robot and presenting about our team at the Emerald Valley Assisted Living
-Center.
 
 ## Past Demonstrations
 
@@ -48,3 +46,8 @@ Additionally, our team was invited to the Second Star Festival in Florence,
 Oregon where we gave TED-style talks and demonstrated a previous season’s robot
 design. In November, our team participated in the Barnes & Noble Maker Faire
 and taught many children about robotics, a continuing event.
+
+We recently demonstrated our Aerial Assist robot, Byter, at Kids Down South
+Preschool on February 1st. On February 24th, demonstrated the same
+robot and presented about our team at the Emerald Valley Assisted Living
+Center.
