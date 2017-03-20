@@ -13,8 +13,8 @@ css:
 
 {: .robot-text .right}
 Phantom is our robot designed to play the 2017 game, FIRST Steamworks. It is
-capable of carrying gears to the airships as well as shooting fuel into the
-high boiler.
+capable of carrying gears to the airships, shooting fuel into the
+high boiler, and climbing the rope in the last thirty seconds of the game.
 </div>
 
 {: .robot}
