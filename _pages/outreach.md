@@ -13,7 +13,7 @@ description: We are very active in the community and love to demonstrate our rob
 
 In partnership with Oregon Statue University, we participate and contribute to the Go Baby Go! initiative to build alternative transportation for children with limited mobility. We designed a 3D-printable joystick for the "trucks" such that children that use them can gently accelerate, instead of using a button that goes from stopped to full speed immediately. Our joystick design gives children hours of fun therapy and makes transportation easier. 
 
-Find out more about Go Baby Go here: http://health.oregonstate.edu/gobabygo
+Find out more about Go Baby Go <a href="http://health.oregonstate.edu/gobabygo"> here</a>
 
 ## Supporting Women in STEM
 
@@ -23,7 +23,8 @@ Our team also attends events to encourage girls on our team to network with fema
 
 To encourage girls in our community to explore STEM and FIRST, we run demonstrations at Ophelia's Place's Girls Rule! event, as well as at SPICE camp, a girls' science camp at the University of Oregon. 
 
-You can check out Ophelia's Place here: http://opheliasplace.net/
+You can check out Ophelia's Place <a href="http://opheliasplace.net/"> here</a>
+
 
 ## Upcoming Events
 
