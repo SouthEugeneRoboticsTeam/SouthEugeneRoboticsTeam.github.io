@@ -4,9 +4,8 @@ title: Outreach
 description: We are very active in the community and love to demonstrate our robotics at many different locations.
 ---
 
-## SERT Smash Hackathon
-
-<a href="https://sert2521.org/hack/"> Details</a>
+## SERT Smash 
+Hackathon <a href="https://sert2521.org/hack/"> details</a>
 
 
 ## Go Baby Go
