@@ -6,15 +6,15 @@ description: The team is split into several subteams, each with its own specialt
 
 ## Student Leadership: 2016-2017
 Team captains: Emerald Ayers & Tabia Schmidt
-
+<br>
 Mechanical lead: Phela Chuey
-
+<br>
 Programming lead: Dani White
-
+<br>
 Business leads: Alyssa Gao & Sophia Dossin
-
+<br>
 Electrical lead: Nolan Hart
-
+<br>
 Strategy lead: Alex Chamberlin
 
 
