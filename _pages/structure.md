@@ -19,7 +19,7 @@ Strategy lead: Alex Chamberlin
 
 
 ## Subteams
-Mechanical
+<h1> Mechanical
 
 The mechanical subteam is responsible for the design and fabrication of the
 robot. During the first few days of build season, mechanical designs and
