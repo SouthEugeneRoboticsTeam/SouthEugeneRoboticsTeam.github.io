@@ -44,9 +44,9 @@ Directions can be found below:
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1521.1374859553573!2d-123.08633884449964!3d44.03771812371085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcbc8dbc4795af85c!2sSouth+Eugene+High+School!5e0!3m2!1sen!2sus!4v1486171391421" frameborder="0" style="border:0;margin-bottom:35px;width:100%;height:450px;" allowfullscreen></iframe>
 
 ## How do I sign up?
-Fill out [our survey](https://docs.google.com/forms/d/e/1FAIpQLSfJ5ONERvgh463rZSAADcbp7KfaO3Q0zlDv0cszpvdC9gICUA/viewform?usp=sf_link) to let us know you're coming.
+Fill out [our survey](https://docs.google.com/forms/d/e/1FAIpQLSfJ5ONERvgh463rZSAADcbp7KfaO3Q0zlDv0cszpvdC9gICUA/viewform?usp=sf_link) to let us know you're coming. Also, **laptops will not be provided, so please bring your own.** See you there!
 
 ## Questions?
 
 Direct all questions and inquiries to [hack@sert2521.org](mailto:hack@sert2521.org).
-We'll get back to you shortly!
+We'll get back to you shortly.
