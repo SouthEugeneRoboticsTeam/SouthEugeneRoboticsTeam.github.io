@@ -18,12 +18,10 @@ to practice coding and working together.
 
 ## How will it work?
 
-At 8:00 AM on May 20th, 2017, the challenge will be announced and teams will
-begin working on their entry. Teams may consist of up to 5 students and an adult
- member. Throughout the day, they'll continue to code.
- member. Throughout the day, they'll continue to code.
+At 9:00 AM on May 20th, 2017, the challenge will be announced and teams will
+begin working on their entry. Teams may consist of up to 5 students. Throughout the day, they'll continue to code.
 
-Here's the itinerary:
+Here's the full itinerary:
 
 **8:00 am:** Doors open<br>
 **8:30 am:** Opening ceremonies<br>
