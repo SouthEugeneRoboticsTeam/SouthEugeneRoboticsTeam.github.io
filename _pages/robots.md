@@ -8,6 +8,17 @@ css:
 
 {: .robot}
 <div>
+# 2017 - Phantom
+![2016](/assets/images/robots/2017.png){: .robot-img .left}
+
+{: .robot-text .right}
+Phantom is our robot designed to play the 2017 game, FIRST Steamworks. It is
+capable of carrying gears to the airships, shooting fuel into the
+high boiler, and climbing the rope in the last thirty seconds of the game.
+</div>
+
+{: .robot}
+<div>
 # 2016 - Gary Spice
 ![2016](/assets/images/robots/2016.png){: .robot-img .right}
 

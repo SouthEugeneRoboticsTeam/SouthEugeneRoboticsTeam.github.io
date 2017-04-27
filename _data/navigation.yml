@@ -4,8 +4,11 @@
 - url: /about
   title: About
 
-- url: /subteams
-  title: Subteams
+- url: /blog
+  title: Blog
+
+- url: /structure
+  title: Structure
 
 - url: /robots
   title: Robots
