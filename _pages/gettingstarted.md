@@ -9,17 +9,17 @@ To get started, first go [click this link](https://atom.io) to download a progra
 
 ## Step 1: Variables
 
-Variables in any programming language are places to store information. Think of it as a box you can put stuff into and get back out later. An example if a variable in Python can be see with the following statement:
+Variables in any programming language are places to store information. Think of it as a box you can put stuff into and get back out later. An example of a variable in Python can be seen with the following statement:
 ```python
 i = 10
 ```
-What this is doing is telling the program that `i` has a value of `10`. To put it into perspective, if you took `i` and added it to `10` you would get `20`. Now that we know what a variable is in terms of programming, we can put it into use.
+What this is doing is telling the program that `i` has a value of `10`. To put it into perspective, if you took `i` and added it to `10` you would get `20`. Now that we know what a variable is and how it works in out program, we can put it into use.
 
 ## Step 2: Methods
 
 At this point, your code should only have one line:
 `i = 10`.
-Thats ok because now were going to learn about methods which are like tools that can use that variable. A method is pretty much a variable except it stores prewritten code from somewhere else that your program can use. An example of a method would is a `print` statement. What `print` does is it "prints" the output of your code to your screen so you can receive output from your code. To try print out in your code simply write this to your code.
+Thats ok because now we're going to learn about methods. You can think of a method as a tool that performs a certain function in your code. It is pretty much a variable except it stores prewritten code from somewhere else that your program can use. An example of a method would is a `print` statement. What `print` does is it "prints" the output of your code to your screen so you can receive output from your code. To try print out in your code simply write this to your code.
 ```python
 i = 10
 print i
@@ -34,7 +34,7 @@ i = 10
 while True:
     print i
 ```
-Now if your run this code, it should just print `10` and keep going forever. To stop this code, press `Ctrl-c` on your keyboard. Also, it it important to note that the indentation in the above code is important as it is how python identifies which parts of the code are affected by the while loop. Now that we have a loop, lets change the variable.
+Now if you run this code, it should just print `10` and keep going forever. To stop this code, press `Ctrl-c`. Also, it it important to note that the indentation in the above code is important as it is how python identifies which parts of the code are affected by the while loop. Now that we have a loop, let's change the variable.
 
 ## Step 4: Changing the Variable
 
@@ -45,7 +45,7 @@ while True:
     print 10 - i
     i = i - 1
 ```
-What this does is it takes what you had stored as `i` earlier and it each time it runs it takes `i`, subtracts 1, and then sets that value to be `i`. Now if you run your code it should countdown put keep going forever. To fix this, we need to add a condition to make the loop stop.
+What this does is it takes what you had stored as `i` earlier and every time it runs it takes `i`, subtracts 1, and then sets that value to be `i`. Now if you run your code it should countdown put keep going forever. To fix this, we need to add a condition to make the loop stop.
 
 ## Step 5: Stopping the loop
 
@@ -56,11 +56,11 @@ while i > 0:
     print 10 - i
     i = i - 1
 ```
-This will mean that the loop will stop running as long as `i` is less that 0. Now if you run your program, it should countdown from 10 to 1. But it is still too fast to be an actual countdown, so to fix this we need to add a library.
+This will mean that the loop will stop running once `i` is less that 0. Now if you run your program, it should countdown from 10 to 1. But it is still too fast to be an actual countdown, so to fix this, we need to add a library.
 
 ## Step 6: Libraries
 
-What are libraries? Well if you think about methods like a tool, then a library is like a toolbox. A library is essentially where many methods are stored and can be called by your code to perform different tasks. To add a library to your code, you first need to `import` it. The library we are going to use is called the time library. We can get this library by adding `import time` to the very top of our program. Once this is done we are going to use the `Sleep` method from this library. What this library does is it waits or "sleeps" for the amount of time you tell it to. We can add the sleep method to our code in the `while` loop by writing `time.Sleep(1)` which is pretty much telling our code "from the `time` library, use the `Sleep` method and tell it to wait 1 second." After this has been added to your code, it should look like this:
+What are libraries? Well if you think about methods as a tool, then a library is like a toolbox. A library is essentially where many methods are stored and can be called by your code to perform different tasks. To add a library to your code, you first need to `import` it. The library we are going to use is called the time library. We can get this library by adding `import time` to the very top of our program. Once this is done we are going to use the `Sleep` method from this library. What this library does is it waits or "sleeps" for the amount of time you tell it to. We can add the sleep method to our code in the `while` loop by writing `time.Sleep(1)` which is pretty much telling our code "from the `time` library, use the `Sleep` method and tell it to wait 1 second." After this has been added to your code, it should look like this:
 ```python
 i = 10
 while True:
