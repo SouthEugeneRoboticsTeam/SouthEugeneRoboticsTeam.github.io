@@ -5,7 +5,10 @@ title: Tutorials
 
 ## Installing Everything You Need
 
-To get started, first go [click this link](https://atom.io) to download a program called Atom. This is what you will be using as an IDE or integrated development environment (basically where you will write all your code). Once the download is complete, click [here](https://www.python.org/downloads/) to head on over to Python's website and click where it says `Download Python 2.7.13`. If you're on Windows and it asks to install Python to your path, just select `Install for all users`. After the download has completed, open Atom, select `New File` and save it to your `Desktop` as `countdown.py`. One this is done you're ready to start writing code!
+To get started, [download Atom,](https://atom.io) a colorful text editor where you will write all your code.
+Once you've setup Atom, [download Python](https://www.python.org/downloads/) `2.7.x`. If you're on Windows and it
+asks to install Python to your path, just select `Install for all users`. After everything is setup, open Atom, select `New File`,
+and then save it to your `Desktop` as `countdown.py`. Once this is done, you're ready to start writing code!
 
 ## Step 1: Variables
 
