@@ -5,21 +5,23 @@ description: The team is split into several subteams, each with its own specialt
 ---
 
 ## Student Leadership: 2016-2017
+
 Team captains: Emerald Ayers & Tabia Schmidt
-<br>
+
 Mechanical lead: Phela Chuey
-<br>
+
 Programming lead: Dani White
-<br>
+
 Business leads: Alyssa Gao & Sophia Dossin
-<br>
+
 Electrical lead: Nolan Hart
-<br>
+
 Strategy lead: Alex Chamberlin
 
 
 ## Subteams
-### Mechanical 
+
+### Mechanical
 The mechanical subteam is responsible for the design and fabrication of the
 robot. During the first few days of build season, mechanical designs and
 creates CAD models and prototypes of proposed mechanisms of the robot. After
