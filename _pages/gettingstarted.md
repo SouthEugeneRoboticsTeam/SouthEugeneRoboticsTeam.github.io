@@ -1,6 +1,6 @@
 ---
-permalink: /gettingstarted/
-title: Getting Started
+permalink: /tutorials/
+title: Tutorials
 ---
 
 ## Installing Everything You Need
