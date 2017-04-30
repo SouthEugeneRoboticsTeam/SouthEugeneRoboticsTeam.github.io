@@ -11,4 +11,5 @@ Java tutorials coming soon!
 
 ### Python
 
-- [Getting Started](programming/python/getting-started/)
+- [1. Getting Started](programming/python/getting-started/)
+- [2. Methods](programming/python/methods)
