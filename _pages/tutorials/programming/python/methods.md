@@ -48,7 +48,7 @@ What we've done here is added a `parameter` to tell `countdown` how many seconds
 
 ## Step 3: Adding Multiple Parameters
 
-Methods can take more than just 1 `parameter` at a time to perform a number of different tasks. All we need to do to define more that one `parameter` is add a comma between the names of each one. For example we can add a second `parameter` to our `countdown` method by writing:
+Methods can take more than just 1 `parameter` at a time to perform a number of different tasks. All we need to do to define more that one `parameter` is add a comma between the names of each one. For example we can add a second `parameter` to our `countdown` method to determine what message it prints by writing:
 
 ```python
 import time
@@ -63,11 +63,11 @@ def countdown(cdtime, message):
 countdown(10, "Ready for takeoff!")
 ```
 
-Notice that now we have added a parameter to print whatever message we give `countdown`, we now need to define that message when we call `countdown`. To see how a function works, try messing around with the parameters, change `cdtime` and `message` to whatever you want. If you're stuck and need an example, write `countdown(20, "This is my message for liftoff!")`. This will make `countdown` wait 20 seconds and print the message, "This is my message for liftoff!" Keep in mind your message has to be in quotes.`
+Notice that now we have added a parameter to print whatever message we give `countdown`, we now need to define that message when we call `countdown`. To see how a function works, try messing around with the parameters, change `cdtime` and `message` to whatever you want. If you're stuck and need an example, write `countdown(20, "This is my message for liftoff!")`. This will make `countdown` wait 20 seconds and print the message, "This is my message for liftoff!" Keep in mind your message has to be in quotes.
 
 ## Step 4: Calling Methods
 
-Now you've probably noticed that we were only calling `countdown` once at the bottom of our code, but we can call it twice and with 2 different parameters each time. To call `countdown` twice, write
+Now you've probably noticed that we we are only calling `countdown` once at the bottom of our code, but we can call it twice and with 2 different parameters each time. To call `countdown` twice, write
 
 ```python
 import time
@@ -83,7 +83,7 @@ countdown(10, "Ready for takeoff!")
 countdown(5, "Ready for takeoff number two!")
 ```
 
-This should give you an example of how we can call the same function multiple times without having to write the same piece of code over and over again. SO now you can think of a method as a way of storing useful code that can be called later as many times as you want. Now you can mess around with the `countdown` method as much as you want and change the times each one counts down and the message simply by changing what `parameters` you give it!
+This should give you an example of how we can call the same function multiple times without having to write the same piece of code over and over again. So now you can think of a method as a way of storing useful code that can be called later as many times as you want. Now you can mess around with the `countdown` method as much as you want and change the times each one counts down and the message simply by changing what `parameters` you give it!
 
 ## Extra Resources
 
