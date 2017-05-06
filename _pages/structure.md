@@ -110,7 +110,7 @@ Roosevelt Middle School. When she’s not at robotics, Dani enjoys painting and 
 {: .people}
 <div>
 # Nolan Hart- Electrical
-![2016](/assets/images/people/.jpg){: .people-img .left}
+![2016](/assets/images/people/nolan.jpg){: .people-img .left}
 
 {: .people-text .right}
  Senior Nolan Hart is the electrical subteam lead at South Eugene Robotics Team. He has been on the
