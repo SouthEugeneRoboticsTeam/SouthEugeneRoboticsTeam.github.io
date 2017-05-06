@@ -1,39 +1,42 @@
-.robot {
+.people {
 	width: 100%;
 	margin-top: 80px;
 	min-height: 300px;
+    overflow: auto;
 }
 
-.robot:first-child {
+.people:first-child {
 	margin-top: 0;
 }
 
-.robot:last-child {
+.people:last-child {
 	margin-bottom: 175px;
 }
 
-.robot-img {
+.people-img {
 	width: 350px;
+    height: 350px;
     border-radius: 2%;
 }
 
-.robot-img.right {
+.people-img.right {
 	float: right;
 }
 
-.robot-img.left {
+.people-img.left {
 	float: left;
 }
 
-.robot-text {
+.people-text {
 	text-align: justify;
 	overflow: hidden;
+    padding: 10px;
 }
 
-.robot-text.right {
+.people-text.right {
 	padding-left: 15px;
 }
 
-.robot-text.left {
+.people-text.left {
 	padding-right: 15px;
 }
