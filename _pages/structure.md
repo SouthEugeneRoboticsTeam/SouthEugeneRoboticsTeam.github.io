@@ -50,15 +50,16 @@ robotics (which is like never) he enjoys Sailing, Soccer and cooking.
 ![2016](/assets/images/people/alyssa.jpg){: .people-img .left}
 
 {: .people-text .right}
-Junior Alyssa Gao is the business subteam co-lead at South Eugene Robotics Team. She has been on the team for three
-years, and has contributed to many projects. She has been the project lead for the Chairman’s Award
-submission every year, which is the most prestigious award for any FIRST team. In addition, she was
-the scouting subteam lead, a sponsor presenter, and a main contributor to the drive train and bumper
-projects in her sophomore year, as well as a writer and presenter for the Entrepreneurship Award,
-which SERT won for the first time that year. This year, Alyssa has continued her work at SERT as a
-business team lead, teaching a CAD class at Ophelia’s Place, presenting Chairman’s, and organizing
-outreach activities. Outside of robotics, she also enjoys playing violin, writing for the school
-newspaper, and planning events in South’s Student Government.
+Junior Alyssa Gao is the business subteam co-lead at South Eugene Robotics Team. She has been on
+the team for three years, and has contributed to many projects. She has been the project lead for
+the Chairman’s Award submission every year, which is the most prestigious award for any FIRST
+team. In addition, she was the scouting subteam lead, a sponsor presenter, and a main contributor
+to the drive train and bumper projects in her sophomore year, as well as a writer and presenter
+for the Entrepreneurship Award, which SERT won for the first time that year. This year, Alyssa
+has continued her work at SERT as a business team lead, teaching a CAD class at Ophelia’s Place,
+presenting Chairman’s, and organizing outreach activities. Outside of robotics, she also enjoys
+playing violin, writing for the school newspaper, and planning events in South’s Student
+Government.
 </div>
 
 {: .people}
@@ -117,6 +118,20 @@ team since his freshman year, and has enjoyed working on both the electrical and
 subteams. This past year, he was appointed electrical team lead, and has come to love teaching and
 assisting younger members of his subteam. In his free time, Nolan appreciates 80s pop, playing
 video games, and hanging out with his friends.
+</div>
+
+{: .people}
+<div>
+# Tabia Schmidt - Business
+![2016](/assets/images/people/tabia.jpg){: .people-img .right}
+
+{: .people-text .right}
+Senior Tabia Schmidt is a co-captain of South Eugene Robotics Team. She cares about outreach,
+girls in STEM, Chairmans, outreach, and outreach. Among her proudest accomplishments on the team
+include spearheading the Ophelia’s Place Classes, the Community Computers program, and working to
+win the Chairman’s and Entrepreneurship awards in 2016 and 2017. She was also the Dean’s List
+Finalist at the PNW Championships 2016.  Tabia loves robots, naps, pad thai, and she will be a part
+of the Reed College class of 2021.  
 </div>
 
 Team captains: Emerald Ayers & Tabia Schmidt
