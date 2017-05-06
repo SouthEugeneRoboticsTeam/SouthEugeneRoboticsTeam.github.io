@@ -75,7 +75,8 @@ video for the Chairman’s Award and has loved setting up outreach events. Her f
 memory is from travelling to World Championships in St. Louis with the team during her sophomore
 year. Outside of robotics, she is involved on the 4J school board and IHS student government, and
 teaches all-girls chess classes with SouthSide Chess. Next year, she will be in St. Louis, studying
-business at Washington University in St. Louis. </div>
+business at Washington University in St. Louis.
+</div>
 
 {: .people}
 <div>

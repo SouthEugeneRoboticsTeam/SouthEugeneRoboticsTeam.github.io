@@ -3,7 +3,7 @@
 	margin-top: 80px;
 	min-height: 300px;
     overflow: auto;
-    padding-bottom: 5%;
+    margin-bottom: 5%;
 }
 
 .people:first-child {
@@ -40,4 +40,8 @@
 
 .people-text.left {
 	padding-right: 15px;
+}
+
+#content {
+    height: auto !important;
 }
