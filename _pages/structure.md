@@ -80,7 +80,7 @@ business at Washington University in St. Louis.
 
 {: .people}
 <div>
-# Emerald Ayers - Mechanical
+# Emerald Ayers - Co-captain
 ![2016](/assets/images/people/emerald.jpg){: .people-img .left}
 
 {: .people-text .right}
@@ -123,7 +123,7 @@ video games, and hanging out with his friends.
 
 {: .people}
 <div>
-# Tabia Schmidt - Business
+# Tabia Schmidt - Co-captain
 ![2016](/assets/images/people/tabia.jpg){: .people-img .right}
 
 {: .people-text .right}

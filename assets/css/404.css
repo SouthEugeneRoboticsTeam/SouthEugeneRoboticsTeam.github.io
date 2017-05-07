@@ -1,0 +1,42 @@
+@font-face {
+  font-family:'Ubuntu';
+  font-style:normal;
+  font-weight:700;
+  src:local('Ubuntu Bold'), local('Ubuntu-Bold'), url('http://themes.googleusercontent.com/static/fonts/ubuntu/v4/0ihfXUL2emPh0ROJezvraD8E0i7KZn-EPnyo3HZu7kw.woff') format('woff');
+}
+
+html, body {
+  padding:0; margin:0;
+  height:100%; width:100%;
+}
+body {
+  font-family:"Calibri",sans-serif;
+  background:radial-gradient(#fff, #ccc);
+  background:radial-gradient(#ffffff, #fdfdfd 16%, #fbfbfb 33%, #f8f8f8 49%, #efefef 66%, #dfdfdf 82%, #bfbfbf 100%);
+}
+
+#notfound {
+  margin:0 auto;
+}
+#notfound svg {
+  -webkit-animation: noise 2s linear infinite;
+  animation: noise 2s linear infinite;
+}
+@-webkit-keyframes noise {
+  0%, 3%, 5%, 42%, 44%, 100% { -webkit-transform: scaleY(1); }
+  4.3% { -webkit-transform: scaleY(1.7); }
+  43% { -webkit-transform: scaleX(1.5); }
+}
+@keyframes noise {
+  0%, 3%, 5%, 42%, 44%, 100% { transform: scaleY(1); }
+  4.3% { transform: scaleY(1.7); }
+  43% { transform: scaleX(1.5); }
+}
+
+p {
+  text-align:center;
+}
+p.small {
+  font-size:0.8em;
+  opacity:0.5;
+}
