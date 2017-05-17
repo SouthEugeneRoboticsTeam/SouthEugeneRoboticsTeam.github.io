@@ -3823,3 +3823,7 @@
 		border: solid grey;
 		margin-bottom: 20px;
 	}
+
+	.icons, .latest {
+		text-align: center;
+	}
