@@ -18,6 +18,10 @@
 	background-size: cover;
 }
 
+.sponsor {
+	max-width: 225px;
+}
+
 #lead-image {
 	height: 425px;
 
