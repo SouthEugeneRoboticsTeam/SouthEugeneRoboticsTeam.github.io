@@ -73,7 +73,7 @@ javascript:
 <section id="blog" class="main special">
 	<header class="major">
 		<h2>Latest Blog Posts</h2>
-		<ul class="icons">
+		<ul class="latest">
 			{% for post in site.posts limit:3 %}
 			<small>{{ post.date | date: "%B %e, %Y" }}</small>
 			<a href="{{ post.url }}">

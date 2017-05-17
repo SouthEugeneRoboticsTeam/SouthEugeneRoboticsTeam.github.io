@@ -1,0 +1,22 @@
+- name: BAE Systems
+  image: bae.png
+- name: Concentric Sky
+  image: concentricsky.png
+- name: Elmer's
+  image: elmers.png
+- name: Feynman Group
+  image: feynman.png
+- name: LivePlan
+  image: liveplan.png
+- name: LumaLaser
+  image: lumalaser.png
+- name: McMenamins
+  image: mcmenamins.png
+- name: Multi-Craft Plastics
+  image: multicraft.png
+- name: The Oregon Community Foundation
+  image: ocf.png
+- name: The Oregon Department of Education
+  image: ode.png
+- name: South Eugene High School
+  image: sehs.png
