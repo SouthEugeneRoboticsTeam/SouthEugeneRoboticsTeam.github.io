@@ -10,6 +10,8 @@ SERT Smash is a hackathon hosted by the South Eugene Robotics Team located in Eu
 Oregon, open to all high-school students. There will be a surprise challenge and
 awards for the winners.
 
+The openening presentation with extra info is located [here.](https://docs.google.com/presentation/d/1fg-zVdnyZjIZ5izQYCvI-6uZ5z9G0RcBS14q8XVUxqM/edit?usp=sharing)
+
 ## Who's invited?
 
 All high-school students are invited to participate in SERT Smash. No FRC or robotics
