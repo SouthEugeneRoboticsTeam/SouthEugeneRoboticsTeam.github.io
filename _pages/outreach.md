@@ -38,6 +38,19 @@ You can check out Ophelia's Place <a href="http://opheliasplace.net/">here</a>
 We will be teaching workshops at Girls Rule! 2017, a free event for girls aged 9-14
 at Churchill High School on April 11th.
 
+## Software tools
+
+SERT has built many tools over the years to make various tasks faster and easier, all of which are open-source.
+Here are just a few of them:
+
+1. **[🤖 Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/)** is a simple yet powerful Android
+scouting app with customizable scouting templates and advanced spreadsheet exporting for painless data analysis.
+1. The **[🕑 Attendance Client](https://github.com/SouthEugeneRoboticsTeam/Attendance-Client)**
+is a cross-platform desktop app built with Firebase and React to make keeping track of team members' hours a piece of cake.
+1. Vision processing code for [single-board computers](https://github.com/SouthEugeneRoboticsTeam/vision)
+such as the Raspberry Pi or for the
+[roboRIO](https://github.com/SouthEugeneRoboticsTeam/Steamworks-2017/blob/71a63ba36a162f533b1fb9a52d1f1b8c61748378/src/org/usfirst/frc/team2521/robot/vision/Looper.java).
+
 ## Past Demonstrations
 
 SERT maintains its longstanding partnerships with the community by frequently
