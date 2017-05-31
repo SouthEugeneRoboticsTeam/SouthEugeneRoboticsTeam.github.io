@@ -1,6 +1,6 @@
 ---
-permalink: /structure/
-title: Structure
+permalink: /leadership/
+title: Leadership
 description: The team is split into several subteams, each with its own specialty.
 css:
 - people.css

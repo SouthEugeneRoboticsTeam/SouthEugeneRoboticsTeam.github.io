@@ -4,10 +4,6 @@ title: Outreach
 description: We are very active in the community and love to demonstrate our robotics at many different locations.
 ---
 
-## SERT Smash
-
-Hackathon <a href="https://sert2521.org/hack/"> details</a>
-
 ## Go Baby Go
 
 In partnership with Oregon Statue University, we participate and contribute to the Go
@@ -37,12 +33,10 @@ camp at the University of Oregon.
 
 You can check out Ophelia's Place <a href="http://opheliasplace.net/">here</a>
 
-## Upcoming Events
+### Upcoming Events
 
 We will be teaching workshops at Girls Rule! 2017, a free event for girls aged 9-14
-at Churchill High School on April 11th. Also, catch us hosting our VERY OWN
-HACKATHON on May 20 in South Eugene High School cafeteria! Stay tuned for more
-details.
+at Churchill High School on April 11th.
 
 ## Software tools
 
