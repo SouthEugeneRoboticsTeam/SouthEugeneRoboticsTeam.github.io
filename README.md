@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is the new SERT website. You may visit it at [sert2521.org](https://sert2521.org). You might not be
+This is the new SERT website, which you may visit at [sert2521.org](https://sert2521.org). You might not be
 able to see changes immediately due to Cloudflare caching, but they should appear shortly.
 
 ## Contributing
