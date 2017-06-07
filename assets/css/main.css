@@ -3351,7 +3351,11 @@
 		@media screen and (max-width: 736px) {
 
 			#nav {
-				width: 100%;
+				font-size: 8px;
+			}
+
+			#nav + #main {
+				padding-top: 34px;
 			}
 
 		}
