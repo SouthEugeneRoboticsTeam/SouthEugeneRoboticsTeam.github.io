@@ -3351,12 +3351,12 @@
 		@media screen and (max-width: 736px) {
 
 			#nav {
-				display: none;
+				font-size: 8px;
 			}
 
-				#nav + #main {
-					padding-top: 0;
-				}
+			#nav + #main {
+				padding-top: 34px;
+			}
 
 		}
 
