@@ -3348,17 +3348,13 @@
 					font-size: 0.9em;
 				}
 
-		/*@media screen and (max-width: 736px) {
+		@media screen and (max-width: 736px) {
 
 			#nav {
-				display: none;
+				width: 100%;
 			}
 
-				#nav + #main {
-					padding-top: 0;
-				}
-
-		}*/
+		}
 
 	.dropdown-content {
 	    display: none;
