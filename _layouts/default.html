@@ -26,9 +26,20 @@
 			<nav id="nav">
 				<ul id="nav-list" class="noselect">
 					{% for item in site.data.navigation %}
+					{% if item.subpages %}
+					<li class="dropdown">
+						<a href="#" class="dropdown-title">{{item.title}}</a>
+						<div class="dropdown-content">
+							{% for subitem in item.subpages %}
+							<a class="dropdown-item" href="{{subitem.url}}">{{subitem.title}}</a><br />
+							{% endfor %}
+						</div>
+					</li>
+					{% else %}
 					<li>
 						<a href="{{item.url}}">{{item.title}}</a>
 					</li>
+					{% endif %}
 					{% endfor %}
 				</ul>
 			</nav>

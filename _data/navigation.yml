@@ -13,11 +13,11 @@
 - url: /robots
   title: Robots
 
-- url: /outreach
-  title: Outreach
-
-- url: /sponsors
-  title: Sponsors
-
-- url: /tutorials
-  title: Tutorials
+- title: Community
+  subpages:
+  - url: /outreach
+    title: Outreach
+  - url: /sponsors
+    title: Sponsors
+  - url: /tutorials
+    title: Tutorials

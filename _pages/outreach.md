@@ -15,6 +15,7 @@ and makes transportation easier.
 
 Find out more about Go Baby Go <a href="http://health.oregonstate.edu/gobabygo">here</a>
 
+
 ## Supporting Women in STEM
 
 In addition to our strong female student leadership (75% of all captains/leads are
