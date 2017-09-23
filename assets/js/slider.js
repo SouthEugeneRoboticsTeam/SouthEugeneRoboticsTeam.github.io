@@ -1,7 +1,7 @@
 (function($) {
 
     $(document).ready(function() {
-        var img_array = [1, 2, 3, 4, 5, 6],
+        var img_array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
             newIndex = 0,
             index = 0,
             interval = 7500;
