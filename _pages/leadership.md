@@ -57,8 +57,8 @@ electronics and creating a control system, software is able to operate the
 robot.
 
 ### Strategy
-The strategy subteam works to ensure quality robot analysis, though testing,
-and successful matches. This includes: creating and guiding the team through a
-process to design the best robot our team can build for this year's game;
-testing the prototype and the robot in thorough and exciting ways; working on
-match-strategy and organizing scouting.
+The strategy subteam works to ensure quality robot analysis, through testing
+and successful matches. This includes creating and guiding the team through a
+process to design the best robot our team can build for this year's game,
+testing the prototype and the robot in thorough and exciting ways, working
+on match-strategy, and organizing scouting.
