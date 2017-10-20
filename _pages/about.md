@@ -22,10 +22,10 @@ The South Eugene Robotics Team (SERT) was founded in 2007 by Leighton Barnes (SE
 Class of 2009). SERT is the only FRC team in the Eugene/Springfield area, and has
 included students who are home-schooled as well as students from South Eugene,
 Willamette, and North Eugene High Schools. Over the last eight seasons, we have
-continuously increased our team numbers, currently from seven to over 50, with over
+continuously increased our team numbers, currently from seven to over fifty, with over
 one third being females. We also increased our mentor numbers from the initial one
 to seven this year. Our mentors bring a varying number of skills to the team, ranging
-from engineering to business. This year, we were able to field a team for Girls
+from engineering to business. Last year, we were able to field a team for Girls
 Generation, an off-season special event that is focused on the integration of girls
 and new team members into the world of FRC.
 
