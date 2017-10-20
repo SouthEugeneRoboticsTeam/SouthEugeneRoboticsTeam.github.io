@@ -4,9 +4,9 @@
 - type: twitter
   profile: https://twitter.com/sert_2521
 
-- type: google-plus
-  profile: https://plus.google.com/113682760887939253706/
-
+- type: email
+  profile: mailto:hello@sert2521.org
+  
 - type: github
   profile: https://github.com/SouthEugeneRoboticsTeam
 
