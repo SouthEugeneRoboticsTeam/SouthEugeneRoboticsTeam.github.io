@@ -6,10 +6,10 @@ description: We are very active in the community and love to demonstrate our rob
 
 ## Go Baby Go
 
-In partnership with Oregon Statue University, we participate and contribute to the Go
-Baby Go! initiative to build alternative transportation for children with limited
-mobility. We designed a 3D-printable joystick for the "trucks" such that children
-that use them can gently accelerate, instead of using a button that goes from stopped
+In partnership with Oregon Health and Science University, we participate and contribute to the Go
+Baby Go! initiative to modify toy ride-on trucks into alternative transportation for children with limited
+mobility. We have added on to designed a 3D-printable joystick for the "trucks" such that children
+that use them can gently accelerate, instead of using a button that goes from no movement
 to full speed immediately. Our joystick design gives children hours of fun therapy
 and makes transportation easier.
 
@@ -20,8 +20,9 @@ Find out more about Go Baby Go <a href="http://health.oregonstate.edu/gobabygo">
 
 In addition to our strong female student leadership (75% of all captains/leads are
 female), our team makes a number of efforts to support and promote women in STEM. We
-recently taught an 8 week-long class at Ophelia's Place in CAD, an organization that
-supports girls in the community. We've also donated four desktop computers to them,
+recently taught an 8 week long class at Ophelia's Place in CAD, an organization that
+supports girls in the community. Moreover, during the summer, we taught one week of
+full-day programming classes. We've also donated four desktop computers to them,
 for educational use.
 
 Our team also attends events to encourage girls on our team to network with female
@@ -36,8 +37,7 @@ You can check out Ophelia's Place <a href="http://opheliasplace.net/">here</a>
 
 ### Upcoming Events
 
-We will be teaching workshops at Girls Rule! 2017, a free event for girls aged 9-14
-at Churchill High School on April 11th.
+We will be teaching a workshop at FIRST Fair, an event which brings together FRC robotics teams from all over Oregon.
 
 ## Software tools
 
@@ -68,8 +68,8 @@ available to FIRST teams.
 Additionally, our team was invited to the Second Star Festival in Florence, Oregon
 where we gave TED-style talks and demonstrated a previous season’s robot design. In
 November, our team participated in the Barnes & Noble Maker Faire and taught many
-children about robotics, a continuing event.
-
-We recently demonstrated our Aerial Assist robot, Byter, at Kids Down South Preschool
-on February 1st. On February 24th, demonstrated the same robot and presented about
+children about robotics, a continuing event. We demonstrated our Aerial Assist robot, Byter, at Kids Down South Preschool
+on February 1st. On February 24th, we demonstrated the same robot and presented about
 our team at the Emerald Valley Assisted Living Center.
+
+
