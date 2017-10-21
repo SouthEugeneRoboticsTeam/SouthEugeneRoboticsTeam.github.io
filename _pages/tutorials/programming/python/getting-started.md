@@ -1,5 +1,5 @@
 ---
-permalink: /tutorials/programming/python/getting-started/
+permalink: /tutorials/programming/python/getting-started
 title: Getting Started With Python
 ---
 
