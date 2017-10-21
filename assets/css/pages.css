@@ -14,11 +14,19 @@
 	height: 100%;
 
 	background-repeat: no-repeat;
-    background-position: center;
+  background-position: center;
 	background-size: cover;
 }
 
 .sponsor {
+	padding-bottom: 85px;
+}
+
+.sponsor > * {
+	margin-bottom: 0;
+}
+
+.sponsor-image {
 	max-width: 225px;
 }
 
