@@ -1,5 +1,5 @@
 ---
-permalink: /tutorials/
+permalink: /tutorials
 title: Tutorials
 ---
 
