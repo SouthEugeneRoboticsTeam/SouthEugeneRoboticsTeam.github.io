@@ -39,11 +39,13 @@ model and builds a test model of the robot. After the test robot has been
 tested and altered, a final robot is built.
 
 ### Software
-The software subteam writes code for the robot and the driver station.
-Specifically using Java as their programming language, the software subteam
-writes code to make the robot autonomously function as effectively as possible.
-In addition to autonomously programming the robot, software is also responsible
-for making the driver station effectual and comprehendible.
+The software subteam writes code for the robot with goals to create as many
+autonomous functions as effectively as possible. It's always trying to pioneer
+the next evolution in FRC robot programming—currently, the software subteam is
+living on the bleeding edge by using the programming language Kotlin with
+IntelliJ and Gradle. In addition to its other responsibilities, the software
+subteam is also responsible for making the driver station as effectual and
+comprehendible as possible for the Drive Team.
 
 ### Business
 The business subteam is responsible for updating the website, writing grants

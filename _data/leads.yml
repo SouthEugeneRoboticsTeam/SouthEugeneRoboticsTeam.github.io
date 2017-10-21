@@ -13,10 +13,10 @@
   image: image-placeholder-male.png
   bio: Palmer is a senior and mechanical subteam lead for two years running at South Eugene Robotics Team. He has been a member since freshman year, and has worked both in CAD and mechanical subteams. He loves puns, teaching the younger members of his subteam and everything to do with robots. When he’s not leading the mechanical subteam he loves to build things in his garage, solve challenging physics problems and hang out with his friends.
 
-- name: Alex Saveau
-  subteam: Software
-  image: image-placeholder-male.png
-  bio: Alex is a passionate FRC robot programmer and Android developer who enjoys building automation features for the robot and open-source libraries or apps to help both rookie and veteran teams.\nHe loves participating in alpha and beta tests to experience the bleeding edge of unreleased software and play with something new.\nWhen he isn’t slowly losing his eyesight in front of a computer screen, he likes to go on hikes and camping or bikepacking trips out in nature to find fresh air.
+- name: Alex Chamberlin
+  subteam: Strategy
+  image: alex.jpg
+  bio: Junior Alex Chamberlin is the Strategy/scouting subteam lead at South Eugene Robotics Team. He's been fully involved with the team for 3 years. Alex's freshman year was spent learning a limited amount about a broad array of subjects until he shadowed Anthony (the resident expert in all things mechanical). Notably he was the human player for the drive team that when to world's. Sophomore year largely consisted of work in the mechanical subteam as well as contributions to the scouting and drive team. At the end of Sophomore year Alex had taken on the job of 3d printing guru and been elected Strategy subteam lead. As Strategy lead he built the Strategy subteam from scratch and oversaw the creation of a top notch scouting app. In addition he coordinated the updating of the team handbook, contributed to the mechanical team and coached drive team. When Alex isn't doing robotics (which is like never) he enjoys sailing, soccer and cooking.
 
 - name: Alyssa Gao
   subteam: Business
@@ -28,7 +28,7 @@
   image: tiffany.jpg
   bio: Junior Tiffany Huang is an impassioned member, and subteam lead, of South Eugene Robotics Team’s Business subteam. She has been a member since sophomore year and has since become the business subteam lead. She is always ready and willing to help out new members and keeps everyone else in line. When she’s not helping business team get everything done on time she’s working diligently in IHS student government, doing ballet, or busy leading South’s Asian Student Union.
 
-- name: Alex Chamberlin
-  subteam: Strategy
-  image: alex.jpg
-  bio: Junior Alex Chamberlin is the Strategy/scouting subteam lead at South Eugene Robotics Team. He's been fully involved with the team for 3 years. Alex's freshman year was spent learning a limited amount about a broad array of subjects until he shadowed Anthony (the resident expert in all things mechanical). Notably he was the human player for the drive team that when to world's. Sophomore year largely consisted of work in the mechanical subteam as well as contributions to the scouting and drive team. At the end of Sophomore year Alex had taken on the job of 3d printing guru and been elected Strategy subteam lead. As Strategy lead he built the Strategy subteam from scratch and oversaw the creation of a top notch scouting app. In addition he coordinated the updating of the team handbook, contributed to the mechanical team and coached drive team. When Alex isn't doing robotics (which is like never) he enjoys sailing, soccer and cooking.
+- name: Alex Saveau
+  subteam: Software
+  image: image-placeholder-male.png
+  bio: Alex is a passionate FRC robot programmer and Android developer who enjoys building automation features for the robot and open-source libraries or apps to help both rookie and veteran teams.\nHe loves participating in alpha and beta tests to experience the bleeding edge of unreleased software and play with something new.\nWhen he isn’t slowly losing his eyesight in front of a computer screen, he likes to go on hikes and camping or bikepacking trips out in nature to find fresh air.
