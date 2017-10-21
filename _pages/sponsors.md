@@ -7,7 +7,7 @@ title: Sponsors
 
 {% for sponsor in site.data.sponsors %}
 <div>
-## {{sponsor.name}}
 ![2016](/assets/images/sponsors/{{sponsor.image}}){: .sponsor}
+## {{sponsor.name}}
 </div>
 {% endfor %}
