@@ -64,3 +64,6 @@ and successful matches. This includes creating and guiding the team through a
 process to design the best robot our team can build for this year's game,
 testing the prototype and the robot in thorough and exciting ways, working
 on match-strategy, and organizing scouting.
+
+## Handbook
+The Handbook can be found [here](https://docs.google.com/document/d/1TvmzK_ooJFuYCjuz5nmbvj7z6oFYkjjwwMOTEJk_114/edit).
