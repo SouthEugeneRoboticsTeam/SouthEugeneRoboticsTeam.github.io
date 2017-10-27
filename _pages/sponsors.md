@@ -1,5 +1,5 @@
 ---
-permalink: /sponsors
+permalink: /sponsors/
 title: Sponsors
 ---
 
