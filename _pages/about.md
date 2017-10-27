@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about/
 title: About Us
 description: The South Eugene Robotics Team is a robotics team competing in the FIRST Robotics Competition (FRC).
 ---

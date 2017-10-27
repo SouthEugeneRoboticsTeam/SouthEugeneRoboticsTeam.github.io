@@ -1,5 +1,5 @@
 ---
-permalink: /leadership
+permalink: /leadership/
 title: Leadership
 description: The team is split into several subteams, each with its own specialty.
 css:
