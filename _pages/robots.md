@@ -11,7 +11,7 @@ css:
 <div>
 
 # 2017 (BunnyBots) - TBA
-![2016](/assets/images/robots/2017-bunnybots.jpg){: .robot-img .right}
+![2017bun](/assets/images/robots/2017-bunnybots.jpg){: .robot-img .right}
 
 {: .robot-text .left}
 TBA
@@ -21,7 +21,7 @@ TBA
 <div>
 
 # 2017 - Phantom
-![2016](/assets/images/robots/2017.png){: .robot-img .left}
+![2017](/assets/images/robots/2017.png){: .robot-img .left}
 
 {: .robot-text .right}
 Phantom is our robot designed to play the 2017 game, FIRST Steamworks. It is capable
@@ -45,7 +45,7 @@ time using treads, which was an interesting and educational experience for our t
 <div>
 
 # 2015 - Nessie
-![2016](/assets/images/robots/2015.png){: .robot-img .left}
+![2015](/assets/images/robots/2015.png){: .robot-img .left}
 
 {: .robot-text .right}
 Nessie, from 2015's Recycle Rush, was made from recycled parts and lead the team to
@@ -58,7 +58,7 @@ both the Creativity and the Engineering Inspiration Awards at regional levels.
 <div>
 
 # 2014 - Byter
-![2016](/assets/images/robots/2014.png){: .robot-img .right}
+![2014](/assets/images/robots/2014.png){: .robot-img .right}
 
 {: .robot-text .left}
 Byter, from 2014's Aerial Assist was able to quickly score balls in the low goal and
@@ -71,7 +71,7 @@ sturdiness and interactive possibilities.
 <div>
 
 # 2013 - Excaliber
-![2016](/assets/images/robots/2013.png){: .robot-img .left}
+![2013](/assets/images/robots/2013.png){: .robot-img .left}
 
 {: .robot-text .right}
 Excaliber, from FIRST's disc-golf styled game Ultimate Ascent, was an incredibly
