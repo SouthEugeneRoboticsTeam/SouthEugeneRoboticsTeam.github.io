@@ -1,6 +1,6 @@
 ---
-permalink: /tutorials/programming/python/getting-started/
 title: Getting Started With Python
+permalink: "/tutorials/programming/python/getting-started/"
 ---
 
 ## Installing Everything You Need

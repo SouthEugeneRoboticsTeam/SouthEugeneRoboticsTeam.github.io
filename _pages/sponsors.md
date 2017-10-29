@@ -1,6 +1,6 @@
 ---
-permalink: /sponsors/
 title: Sponsors
+permalink: "/sponsors/"
 ---
 
 {::options parse_block_html="true" /}

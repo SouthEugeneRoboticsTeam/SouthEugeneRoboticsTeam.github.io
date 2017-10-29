@@ -1,6 +1,6 @@
 ---
-permalink: /tutorials/programming/python/methods/
 title: Methods
+permalink: "/tutorials/programming/python/methods/"
 ---
 
 ## Introduction

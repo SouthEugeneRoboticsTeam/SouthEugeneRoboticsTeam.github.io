@@ -1,6 +1,6 @@
 ---
-permalink: /hack/
 title: SERT Smash
+permalink: "/hack/"
 description: The SERT Smash Hackathon will be hosted in Eugene, Oregon on May 20th.
 ---
 

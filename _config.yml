@@ -1,19 +1,30 @@
-permalink: /blog/:year/:i_month/:i_day/:title
+---
+title: South Eugene Robotics Team.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: post
+permalink: "/blog/:year/:i_month/:i_day/:title"
 markdown: kramdown
-include: ['_pages']
-gems: [jekyll-paginate, jekyll-sitemap]
+include:
+- _pages
+gems:
+- jekyll-paginate
+- jekyll-sitemap
 paginate: 5
 paginate_path: "/blog/:num/"
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "post"

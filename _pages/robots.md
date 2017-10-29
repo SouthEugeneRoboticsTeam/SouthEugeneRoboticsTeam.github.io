@@ -1,9 +1,10 @@
 ---
-permalink: /robots/
 title: Robots
+permalink: "/robots/"
 css:
 - robots.css
 ---
+
 {::options parse_block_html="true" /}
 
 {: .robot}
