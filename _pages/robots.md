@@ -9,6 +9,7 @@ css:
 
 {: .robot}
 <div>
+
 # 2017 - TBA
 ![2016](/assets/images/robots/2017-bunnybots.jpg){: .robot-img .right}
 
@@ -18,6 +19,7 @@ TBA
 
 {: .robot}
 <div>
+
 # 2017 - Phantom
 ![2016](/assets/images/robots/2017.png){: .robot-img .left}
 
@@ -29,6 +31,7 @@ the rope in the last thirty seconds of the game.
 
 {: .robot}
 <div>
+
 # 2016 - Gary Spice
 ![2016](/assets/images/robots/2016.png){: .robot-img .right}
 
@@ -40,6 +43,7 @@ time using treads, which was an interesting and educational experience for our t
 
 {: .robot}
 <div>
+
 # 2015 - Nessie
 ![2016](/assets/images/robots/2015.png){: .robot-img .left}
 
@@ -52,6 +56,7 @@ both the Creativity and the Engineering Inspiration Awards at regional levels.
 
 {: .robot}
 <div>
+
 # 2014 - Byter
 ![2016](/assets/images/robots/2014.png){: .robot-img .right}
 
@@ -64,6 +69,7 @@ sturdiness and interactive possibilities.
 
 {: .robot}
 <div>
+
 # 2013 - Excaliber
 ![2016](/assets/images/robots/2013.png){: .robot-img .left}
 
