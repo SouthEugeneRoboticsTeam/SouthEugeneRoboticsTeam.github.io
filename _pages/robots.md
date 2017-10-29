@@ -10,7 +10,7 @@ css:
 {: .robot}
 <div>
 
-# 2017 - TBA
+# 2017 (BunnyBots) - TBA
 ![2016](/assets/images/robots/2017-bunnybots.jpg){: .robot-img .right}
 
 {: .robot-text .left}
