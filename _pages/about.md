@@ -38,3 +38,6 @@ programming, skills that will serve us well in this increasingly technology orie
 future. We also develop recruitment materials, fundraising presentations, and business
 plans. These aspects of SERT help us gain skills in graphic design, financial planning,
 community outreach, and interpersonal “Gracious Professionalism” - a FIRST value.
+
+### Handbook
+The Handbook can be found [here](https://docs.google.com/document/d/1TvmzK_ooJFuYCjuz5nmbvj7z6oFYkjjwwMOTEJk_114/edit).
