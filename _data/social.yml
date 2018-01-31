@@ -1,14 +1,14 @@
-- type: facebook
-  profile: https://facebook.com/SouthEugeneRoboticsTeam
+- type: envelope
+  profile: mailto:hello@sert2521.org
+
+- type: github
+  profile: https://github.com/SouthEugeneRoboticsTeam
 
 - type: twitter
   profile: https://twitter.com/sert_2521
 
-- type: envelope
-  profile: mailto:hello@sert2521.org
-  
-- type: github
-  profile: https://github.com/SouthEugeneRoboticsTeam
-
 - type: youtube
   profile: https://youtube.com/SouthEugeneRoboticsTeam
+
+- type: facebook
+  profile: https://facebook.com/SouthEugeneRoboticsTeam

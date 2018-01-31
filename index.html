@@ -10,6 +10,7 @@ javascript:
 <section id="slider" class="main special">
 	<div class="slider"></div>
 </section>
+
 <!-- Introduction -->
 <section id="intro" class="main">
 	<a id="anchor-intro"></a>
@@ -32,6 +33,25 @@ javascript:
 		<span class="image"><img src="assets/images/about.jpg" alt="" /></span>
 	</div>
 </section>
+
+<!-- Social Section -->
+<a id="anchor-social"></a>
+<section id="social" class="main special">
+	<header class="major">
+		<h2>Contact</h2>
+		<p>Checkout SERT on social media!</p>
+		<ul class="icons">
+			{% for media in site.data.social %}
+			<li>
+				<a href="{{media.profile}}" class="icon fa-{{media.type}} alt">
+				<span class="label">{{media}}</span>
+				</a>
+			</li>
+			{% endfor %}
+		</ul>
+	</header>
+</section>
+
 <!-- Stats Section -->
 <a id="anchor-stats"></a>
 <section id="stats" class="main special">
@@ -53,23 +73,7 @@ javascript:
 		</li>
 	</ul>
 </section>
-<!-- Social Section -->
-<a id="anchor-social"></a>
-<section id="social" class="main special">
-	<header class="major">
-		<h2>Social</h2>
-		<p>Checkout SERT on social media!</p>
-		<ul class="icons">
-			{% for media in site.data.social %}
-			<li>
-				<a href="{{media.profile}}" class="icon fa-{{media.type}} alt">
-				<span class="label">{{media}}</span>
-				</a>
-			</li>
-			{% endfor %}
-		</ul>
-	</header>
-</section>
+
 <!-- Blog Section -->
 <a id="anchor-blog"></a>
 <section id="blog" class="main special">
