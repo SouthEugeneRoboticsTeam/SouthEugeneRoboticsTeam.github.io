@@ -1,61 +1,63 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>{% if page.title %}{{ page.title }} &mdash; {% endif %}South Eugene Robotics Team</title>
-		<meta charset="utf-8" />
-		{% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		{% include css.html %}
-		{% for css in page.css %}
-		<link href="/assets/css/{{css}}" rel="stylesheet">
-		{% endfor %}
-		{% include favicon.html %}
-	</head>
-	<body>
-		<!-- Header -->
-		<header id="header" class="alt noselect">
-			<div id="pjs"></div>
-			<a href="/">
-			<span class="logo noselect"><img src="/assets/images/logo.png" height="96" alt="" /></span>
-			<h1 class="noselect">South Eugene Robotics Team</h1>
-			</a>
-		</header>
-		<!-- Wrapper -->
-		<div id="wrapper">
-			<!-- Nav -->
-			<nav id="nav">
-				<ul id="nav-list" class="noselect">
-					{% for item in site.data.navigation %}
-					{% if item.subpages %}
-					<li class="dropdown">
-						<a href="#" class="dropdown-title">{{item.title}}</a>
-						<div class="dropdown-content">
-							{% for subitem in item.subpages %}
-							<a class="dropdown-item" href="{{subitem.url}}">{{subitem.title}}</a><br />
-							{% endfor %}
-						</div>
-					</li>
-					{% else %}
-					<li>
-						<a href="{{item.url}}">{{item.title}}</a>
-					</li>
-					{% endif %}
-					{% endfor %}
-				</ul>
-			</nav>
-			<!-- Main -->
-			<div id="main">
-				{{ content }}
-			</div>
-			<!-- Footer -->
-			<footer id="footer">
-				<p class="copyright">&copy; South Eugene Robotics Team</p>
-			</footer>
-		</div>
-		<!-- Scripts -->
-		{% include javascript.html %}
-		{% for js in page.javascript %}
-		<script src="/assets/js/{{js}}"></script>
-		{% endfor %}
-	</body>
+<head>
+    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}South Eugene Robotics Team</title>
+    <meta charset="utf-8" />
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    {% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% include css.html %}
+    {% for css in page.css %}
+    <link href="/assets/css/{{css}}" rel="stylesheet">
+    {% endfor %}
+    {% include favicon.html %}
+</head>
+<body>
+<!-- Header -->
+<header id="header" class="alt noselect">
+    <div id="pjs"></div>
+    <a href="/">
+        <span class="logo noselect"><img src="/assets/images/logo.png" height="96" alt="" /></span>
+        <h1 class="noselect">South Eugene Robotics Team</h1>
+    </a>
+</header>
+<!-- Wrapper -->
+<div id="wrapper">
+    <!-- Nav -->
+    <nav id="nav">
+        <ul id="nav-list" class="noselect">
+            {% for item in site.data.navigation %}
+            {% if item.subpages %}
+            <li class="dropdown">
+                <a href="#" class="dropdown-title">{{item.title}}</a>
+                <div class="dropdown-content">
+                    {% for subitem in item.subpages %}
+                    <a class="dropdown-item" href="{{subitem.url}}">{{subitem.title}}</a><br />
+                    {% endfor %}
+                </div>
+            </li>
+            {% else %}
+            <li>
+                <a href="{{item.url}}">{{item.title}}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+    <!-- Main -->
+    <div id="main">
+        {{ content }}
+    </div>
+    <!-- Footer -->
+    <footer id="footer">
+        <p class="copyright">&copy; South Eugene Robotics Team</p>
+    </footer>
+</div>
+<!-- Scripts -->
+{% include javascript.html %}
+{% for js in page.javascript %}
+<script src="/assets/js/{{js}}"></script>
+{% endfor %}
+</body>
 </html>

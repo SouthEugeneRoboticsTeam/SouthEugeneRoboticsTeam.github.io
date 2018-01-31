@@ -5,37 +5,37 @@ layout: default
 {% if page.image %}
 <!-- Lead Image Section -->
 <section id="lead-image" class="main special">
-	<div class="lead-image" style="background-image: url({{ page.image }});"></div>
+    <div class="lead-image" style="background-image: url({{ page.image }});"></div>
 </section>
 {% endif %}
 <!-- Content Section -->
 <section id="content" class="main special">
-	<h1>{{ page.title }}</h1>
-	{{ content }}
+    <h1>{{ page.title }}</h1>
+    {{ content }}
 </section>
 
 {% if page.comments %}
 <section id="disqus">
-	<div id="disqus_thread"></div>
+    <div id="disqus_thread"></div>
 
-	<script>
-	    var disqus_config = function () {
-	        this.page.url = window.location.href;
-	        this.page.identifier = "{{ page.title }}";
-	    };
+    <script>
+        var disqus_config = function () {
+            this.page.url = window.location.href;
+            this.page.identifier = "{{ page.title }}";
+        };
 
-	    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-	        var d = document, s = d.createElement('script');
+        (function () {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+            var d = document, s = d.createElement('script');
 
-	        s.src = '//sert2521.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+            s.src = '//sert2521.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 
-	        s.setAttribute('data-timestamp', +new Date());
-	        (d.head || d.body).appendChild(s);
-	    })();
-	</script>
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
 
-	<noscript>
-		Please enable JavaScript to view comments.
-	</noscript>
+    <noscript>
+        Please enable JavaScript to view comments.
+    </noscript>
 </section>
 {% endif %}
