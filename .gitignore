@@ -1,4 +1,5 @@
 /_site/
+.idea/*
 *.log
 Gemfile.lock
 .DS_Store
