@@ -10,7 +10,7 @@ css:
 {: .robot}
 <div>
 
-# 2017 (BunnyBots) - TBA
+# 2017 (BunnyBots) - Alluminati
 ![2017bun](/assets/images/robots/2017-bunnybots.jpg){: .robot-img .right}
 
 {: .robot-text .left}
