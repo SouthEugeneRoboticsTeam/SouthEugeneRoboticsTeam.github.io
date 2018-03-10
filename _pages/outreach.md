@@ -14,7 +14,7 @@ from Raspberry Pis with cameras on them to a centralized computer and the electr
 solutions. The project was featured as the first stop on Eugene's monthly First Friday Artwalk and will become an exhibit at
 the Eugene Science Center.
 
-Find out more about City Synth <a href="http://http://harmoniclab.org/event/city-synth/">here</a>
+Find out more about City Synth <a href="http://harmoniclab.org/event/city-synth/">here</a>
 
 
 ## Go Baby Go
