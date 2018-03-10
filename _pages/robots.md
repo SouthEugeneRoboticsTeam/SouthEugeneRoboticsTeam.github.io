@@ -12,6 +12,7 @@ css:
 
 # 2017 (BunnyBots) - Alluminati
 ![2017bun](/assets/images/robots/2017-bunnybots.jpg){: .robot-img .right}
+
 {: .robot-text .left}
 Alluminati competed at BunnyBots 2017, where it worked to extract stuffed bunnies from
 five gallon buckets and push them to one side of the field. Since SERT gained many new 
