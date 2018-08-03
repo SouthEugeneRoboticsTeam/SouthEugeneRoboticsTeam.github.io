@@ -2,15 +2,15 @@
   {
     "uid": "SOUTH_EUGENE_ROBOTICS_TEAM_TTS_1",
     "updateDate": "2018-08-27T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
+    "titleText": "STEM night with the Eugene Emeralds",
     "mainText": "The South Eugene Robotics Team is presenting their robots at the STEM night with the Eugene Emeralds!",
     "redirectionUrl": "https://groupmatics.events/event/SERT"
    },
   {
     "uid": "SOUTH_EUGENE_ROBOTICS_TEAM_TTS_2",
     "updateDate": "2018-08-27T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
+    "titleText": "Fantastic performance at the world championship",
     "mainText": "During their last season, the South Eugene Robotics Team placed fourth in their division in the FIRST Houston World Championship!",
-    "redirectionUrl": "https://www.amazon.com"
+    "redirectionUrl": "https://sert2521.org"
   }
 ]
