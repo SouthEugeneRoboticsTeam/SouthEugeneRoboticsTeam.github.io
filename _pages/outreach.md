@@ -19,14 +19,9 @@ Find out more about City Synth <a href="http://harmoniclab.org/event/city-synth/
 
 ## Go Baby Go
 
-In partnership with Oregon Health and Science University, we participate and contribute to the Go
-Baby Go! initiative to modify toy ride-on trucks into alternative transportation for children with limited
-mobility. We have added on to designed a 3D-printable joystick for the "trucks" such that children
-that use them can gently accelerate, instead of using a button that goes from no movement
-to full speed immediately. Our joystick design gives children hours of fun therapy
-and makes transportation easier.
+SERT was inspired by the <a href="http://health.oregonstate.edu/gobabygo">Go Baby Go initiative</a> to modify toy ride-on trucks to be alternative transportation for children with limited mobility. SERT has developed a design for modifying the trucks to be controlled with a joystick like on a wheelchair instead of a simple button that goes from no movement to full power. The joystick design allows for zero turn radius spins and gentle acceleration. The joystick trucks provide fun therapy, practice with a joystick, and allow children to "run" around with their friends.
 
-Find out more about Go Baby Go <a href="http://health.oregonstate.edu/gobabygo">here</a>
+SERT's instructions for the joystick modifications are <a href="https://sites.google.com/site/joystickcontrolledgobabygocars/">here</a>.
 
 
 ## Supporting Women in STEM
