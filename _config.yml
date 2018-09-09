@@ -4,7 +4,7 @@ timezone: America/Los_Angeles
 collections:
   _data:
     title: Data
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
