@@ -41,7 +41,7 @@ tested and altered, a final robot is built.
 ### Software
 The software subteam writes code for the robot with goals to create as many
 autonomous functions as effectively as possible. It's always trying to pioneer
-the next evolution in FRC robot programming—currently, the software subteam is
+the next evolution in FRC robot programming. Currently, the software subteam is
 living on the bleeding edge by using the programming language Kotlin with
 IntelliJ and Gradle. In addition to its other responsibilities, the software
 subteam is also responsible for making the driver station as effectual and
