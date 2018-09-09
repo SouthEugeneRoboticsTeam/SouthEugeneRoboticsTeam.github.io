@@ -40,4 +40,5 @@ plans. These aspects of SERT help us gain skills in graphic design, financial pl
 community outreach, and interpersonal “Gracious Professionalism” - a FIRST value.
 
 ### Handbook
-The Handbook can be found [here](https://docs.google.com/document/d/1TvmzK_ooJFuYCjuz5nmbvj7z6oFYkjjwwMOTEJk_114/edit).
+
+SERT's team handbook can be found [here](https://docs.google.com/document/d/1TvmzK_ooJFuYCjuz5nmbvj7z6oFYkjjwwMOTEJk_114/edit).
