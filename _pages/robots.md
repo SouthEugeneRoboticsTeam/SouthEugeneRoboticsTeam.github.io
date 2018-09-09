@@ -14,7 +14,7 @@ css:
 ![2018](/assets/images/robots/2018.png){: .robot-img .left}
 
 {: .robot-text .right}
-POE is SERT's competition robot for 2018. Its lift allows it to place cubes on both 
+POE was SERT's competition robot for 2018. Its lift allows it to place cubes on both 
 the Switch and Scale, and it can also climb. Additionally, its use of vision processing
 allows it to deliver two power cubes during the autonomous period.
 </div>
