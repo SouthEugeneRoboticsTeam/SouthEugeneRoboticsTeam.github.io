@@ -2,7 +2,7 @@
 title: South Eugene Robotics Team
 timezone: America/Los_Angeles
 collections:
-  data:
+  _data:
     title: Data
     output: true
   posts:
