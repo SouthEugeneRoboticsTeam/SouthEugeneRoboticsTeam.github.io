@@ -2,6 +2,7 @@
 title: Leadership
 permalink: "/leadership/"
 description: The team is split into several subteams, each with its own specialty.
+disableComments: true
 css:
 - people.css
 ---
