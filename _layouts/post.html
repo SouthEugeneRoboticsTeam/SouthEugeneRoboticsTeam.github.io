@@ -14,7 +14,7 @@ layout: default
     {{ content }}
 </section>
 
-{% if page.comments %}
+{% unless page.disableComments %}
 <section id="disqus">
     <div id="disqus_thread"></div>
 
@@ -38,4 +38,4 @@ layout: default
         Please enable JavaScript to view comments.
     </noscript>
 </section>
-{% endif %}
+{% endunless %}
