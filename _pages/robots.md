@@ -1,6 +1,7 @@
 ---
 title: Robots
 permalink: "/robots/"
+disableComments: true
 css:
 - robots.css
 ---
