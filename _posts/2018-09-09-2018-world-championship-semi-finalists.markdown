@@ -1,7 +1,7 @@
 ---
 title: 2018 World Championship!
 date: 2018-09-09 12:09:00 -07:00
-image: 
+image: "/uploads/Houston.jpeg"
 ---
 
 After three days of intense competition at the FIRST World Robotics Championship in Houston, SERT advanced to the semi-finals and ended the competition ranked 4th in our 64-robot division!
