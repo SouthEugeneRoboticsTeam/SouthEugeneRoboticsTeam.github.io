@@ -1,6 +1,7 @@
 ---
 title: Sponsors
 permalink: "/sponsors/"
+disableComments: true
 ---
 
 {::options parse_block_html="true" /}
