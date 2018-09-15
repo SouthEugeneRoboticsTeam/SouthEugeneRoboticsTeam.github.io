@@ -1,6 +1,6 @@
 ---
 title: 2018 World Championship!
-date: 2018-09-09 12:09:00 -07:00
+date: 2018-09-14 12:09:00 -07:00
 image: "/uploads/Houston.jpeg"
 ---
 
