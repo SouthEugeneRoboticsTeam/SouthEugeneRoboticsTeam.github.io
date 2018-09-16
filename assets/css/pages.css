@@ -18,7 +18,13 @@
 	background-size: cover;
 }
 
+.sponsor-grid {
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+
 .sponsor {
+	column-span: 1;
 	padding-bottom: 85px;
 }
 
