@@ -35,6 +35,10 @@
 	margin-bottom: 0;
 }
 
+.sponsor > * > a {
+	border: none;
+}
+
 .sponsor-image {
 	max-width: 225px;
 }
