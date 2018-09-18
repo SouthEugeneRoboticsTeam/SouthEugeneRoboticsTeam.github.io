@@ -26,6 +26,9 @@
 .sponsor {
 	column-span: 1;
 	padding-bottom: 85px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .sponsor > * {
