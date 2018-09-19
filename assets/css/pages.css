@@ -18,12 +18,25 @@
 	background-size: cover;
 }
 
+.sponsor-grid {
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+
 .sponsor {
+	column-span: 1;
 	padding-bottom: 85px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .sponsor > * {
 	margin-bottom: 0;
+}
+
+.sponsor > * > a {
+	border: none;
 }
 
 .sponsor-image {

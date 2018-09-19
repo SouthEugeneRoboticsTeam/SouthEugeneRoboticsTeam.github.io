@@ -1,24 +1,36 @@
 - name: BAE Systems
   image: bae.png
+  website: https://www.baesystems.com/home
 - name: Concentric Sky
   image: concentricsky.png
+  website: https://www.concentricsky.com/
 - name: Elmer's
   image: elmers.png
+  website: https://eatatelmers.com/
 - name: EWEB
   image: eweb.png
+  website: http://www.eweb.org/
 - name: Feynman Group
   image: feynman.png
+  website: https://www.feynmangroup.com
 - name: LivePlan
   image: liveplan.png
+  website: https://www.liveplan.com/
 - name: LumaLaser
   image: lumalaser.png
+  website: https://www.lumalaser.com/
 - name: McMenamins
   image: mcmenamins.png
+  website: https://www.mcmenamins.com/
 - name: Multi-Craft Plastics
   image: multicraft.png
+  website: http://www.multicraftplastics.com/
 - name: The Oregon Community Foundation
   image: ocf.png
+  website: https://www.oregoncf.org/
 - name: The Oregon Department of Education
   image: ode.png
+  website: https://www.oregon.gov/ode/Pages/default.aspx
 - name: South Eugene High School
   image: sehs.png
+  website: https://sehs.4j.lane.edu/
