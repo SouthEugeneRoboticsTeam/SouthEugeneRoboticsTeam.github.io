@@ -1,39 +1,39 @@
-- name: Alex Chamberlin
-  subteam: Co-captain
-  image: alexc.jpg
-  bio: Senior Alex Chamberlin is the Co-Captain at South Eugene Robotics Team. He’s been fully involved with the team for 3 years. Alex’s freshman year was spent learning a limited amount about a broad array of subjects until he shadowed Anthony (the resident expert in all things mechanical). Notably he was the human player for the drive team that when to world’s. Sophomore year largely consisted of work in the mechanical subteam as well as contributions to the scouting and drive team. At the end of Sophomore year Alex had taken on the job of 3d printing guru and been elected Strategy subteam lead. As Strategy lead he built the Strategy subteam from scratch and oversaw the creation of a top notch scouting app. In addition he coordinated the updating of the team handbook, contributed to the mechanical team and coached drive team. When Alex isn’t doing robotics (which is like never) he enjoys sailing, soccer and cooking.
+- name: Jessie Ziegenbien
+  subteam: Co-Captain
+  image: jessie.jpg
+  bio: Jessie Ziegenbein is a senior and a co-captain of the South Eugene Robotics team. This year will be her fourth year on the team, and since freshman year she has been part of the mechanical subteam. She is very involved in mechanical and mechanical-related discussions, and loves helping build robots. She also enjoys troubleshooting and problem solving, and fixing robots to help them perform at their best. She enjoys teaching new members about our team, and helping them all feel welcome. Outside of robotics, Jessie likes to read, cuddle with her cats, and draw. She also enjoys watching movies, her favorite being Big Hero 6.
 
-- name: Alyssa Gao
-  subteam: Co-captain
-  image: alyssa.jpg
-  bio: Senior Alyssa Gao is the business subteam co-lead at South Eugene Robotics Team. She has been on the team for three years, and has contributed to many projects. She has been the project lead for the Chairman’s Award submission every year, which is the most prestigious award for any FIRST team. In addition, she was the scouting subteam lead, a sponsor presenter, and a main contributor to the drive train and bumper projects in her sophomore year, as well as a writer and presenter for the Entrepreneurship Award, which SERT won for the first time that year. This year, Alyssa has continued her work at SERT as a business team lead, teaching a CAD class at Ophelia’s Place, presenting Chairman’s, and organizing outreach activities. Outside of robotics, she also enjoys playing violin, writing for the school newspaper, and planning events in South’s Student Government.
+- name: Benjamin Phelps
+  subteam: Co-Captain
+  image: benjamin.jpg
+  bio: Senior Benjamin Phelps is a co-captain and CAD lead at the South Eugene Robotics Team. This is his fourth year on the team, and he is also involved in the strategy and mechanical subteams. He has also helped to organize the Go-Baby-Go outreach project at SERT. When Benjamin is not at robotics or doing homework, he is usually reading or working on a CAD model.
 
-- name: Palmer Campbell-Kaswell
-  subteam: Mechanical
-  image: palmer.jpg
-  bio: Palmer is a senior and mechanical subteam lead for two years running at South Eugene Robotics Team. He has been a member since freshman year, and has worked both in CAD and mechanical subteams. He loves puns, teaching the younger members of his subteam and everything to do with robots. When he’s not leading the mechanical subteam he loves to build things in his garage, solve challenging physics problems and hang out with his friends.
-
-- name: Alex Saveau
+- name: Andrew Dassonville
   subteam: Software
-  image: alexs.jpg
-  bio: |
-    Alex is a passionate FRC robot programmer and Android developer who enjoys building automation features for the robot and open-source libraries or apps to help both rookie and veteran teams.
+  image: andrew.jpg
+  bio: Andrew is a senior and the software subteam lead of the South Eugene Robotics Team. He is passionate about open source programming and creating new autonomous features and modes for SERT's robots. He also enjoys being on the cutting-edge of FRC technology, leading efforts to use machine learning and LiDAR on competition robots. Last year he was one of the presenters of our Chairman's Award, and continues to do sponsor presentations to get the team cash. In his free time, he enjoys beating his friends and family at ping pong (or just plain Pong sometimes), hiking, and programming in languages he knows, such as Kotlin, Go, C++, Python, and discovering new languages and projects!
 
-    He loves participating in alpha and beta tests to experience the bleeding edge of unreleased software and play with something new.
+- name: Dale Ruzicka
+  subteam: Mechanical
+  image: dale.jpg
+  bio: TODO
 
-    When he isn’t slowly losing his eyesight in front of a computer screen, he likes to go on hikes and camping or bikepacking trips out in nature to find fresh air.
+- name: Greta Keyes
+  subteam: Electrical
+  image: placeholder_f.png
+  bio: TODO
 
 - name: Tiffany Huang
   subteam: Business
   image: tiffany.jpg
   bio: Senior Tiffany Huang is the business subteam lead at South Eugene Robotics Team. Tiffany joined the team during her sophomore year, and is always willing to help out new members and keep everyone else in line. When she’s not helping the business team get everything done on time, Tiffany enjoys dancing ballet, debating, playing piano, working with student government, and leading South’s Asian Student Union.
 
-- name: Benjamin Phelps
+- name: Sander Moffit
   subteam: Strategy
-  image: benjamin.jpg
-  bio: Junior Benjamin Phelps is the strategy lead at South Eugene Robotics Team. He has been on the team for three years, and is a part of the Mechanical and CAD subteams. He has also helped to organize the Go-Baby-Go outreach project at SERT. When Benjamin is not at robotics or doing homework, he is usually working on a CAD model, thinking about strategy, building robots at home, or reading science fiction.
-
-- name: Greta Keyes
-  subteam: Electrical
-  image: image-placeholder-female.png
+  image: placeholder_f.png
   bio: TODO
+
+- name: William Hou
+  subteam: Strategy
+  image: placeholder_m.png
+  bio: William is a junior and co-strategy lead along with Sander on the South Eugene Robotics Team. This is William’s third year on the team, and he is also a part of the software subteam. He loves watching robots at competitions and helping organize scouting so that the team has useful data before each match. Outside of school and robotics, William enjoys biking, talking with his friends, and playing online games.

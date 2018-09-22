@@ -16,12 +16,12 @@ css:
 <div>
 ## {{person.name}} - {{person.subteam}}
 {% if loopindex == 1 %}
-![2016](/assets/images/people/{{person.image}}){: .people-img .left}
+![person](/assets/images/people/{{person.image}}){: .people-img .left}
 <div class="people-text right">
 {{person.bio}}
 </div>
 {% else %}
-![2016](/assets/images/people/{{person.image}}){: .people-img .right}
+![person](/assets/images/people/{{person.image}}){: .people-img .right}
 <div class="people-text left">
 {{person.bio}}
 </div>
