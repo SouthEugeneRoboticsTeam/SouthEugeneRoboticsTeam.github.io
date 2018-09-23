@@ -3110,10 +3110,6 @@
 			letter-spacing: -0.025em;
 		}
 
-		#header.alt {
-			padding: 7em 5em 4em 5em ;
-		}
-
 			#header.alt h1 {
 				font-size: 3.25em;
 			}
@@ -3149,21 +3145,6 @@
 					max-width: 75%;
 				}
 
-		@media screen and (max-width: 1280px) {
-
-				#header.alt {
-					padding: 6em 4em 3em 4em ;
-				}
-
-		}
-
-		@media screen and (max-width: 980px) {
-
-				#header.alt {
-					padding: 5em 3em 2em 3em ;
-				}
-
-		}
 
 		@media screen and (max-width: 736px) {
 
@@ -3175,10 +3156,6 @@
 					#header p br {
 						display: none;
 					}
-
-				#header.alt {
-					padding: 4em 2em 1em 2em ;
-				}
 
 					#header.alt h1 {
 						font-size: 2.5em;
@@ -3192,10 +3169,6 @@
 				padding: 2em 1.5em 0.1em 1.5em ;
 			}
 
-				#header.alt {
-					padding: 4em 1.5em 1em 1.5em ;
-				}
-
 		}
 
 		@media screen and (max-width: 360px) {
@@ -3203,10 +3176,6 @@
 			#header {
 				padding: 2em 1em 0.1em 1em ;
 			}
-
-				#header.alt {
-					padding: 3.5em 1em 0.5em 1em ;
-				}
 
 		}
 
@@ -3618,7 +3587,7 @@
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 2em;
 			border-top: solid 1px #dddddd;
 		}
 
@@ -3642,57 +3611,6 @@
 					border-bottom-left-radius: 0;
 				}
 
-		@media screen and (max-width: 1280px) {
-
-			#main > .main {
-				padding: 2em 4em 2em 4em ;
-			}
-
-				#main > .main > .image.main:first-child {
-					margin: -4em 0 4em -4em;
-					width: calc(100% + 8em);
-				}
-
-		}
-
-		@media screen and (max-width: 980px) {
-
-			#main > .main {
-				padding: 2em 3em 2em 3em ;
-			}
-
-				#main > .main > .image.main:first-child {
-					margin: -4em 0 4em -3em;
-					width: calc(100% + 6em);
-				}
-
-		}
-
-		@media screen and (max-width: 736px) {
-
-			#main > .main {
-				padding: 3em 2em 1em 2em ;
-			}
-
-				#main > .main > .image.main:first-child {
-					margin: -3em 0 2em -2em;
-					width: calc(100% + 4em);
-				}
-
-		}
-
-		@media screen and (max-width: 480px) {
-
-			#main > .main {
-				padding: 3em 1.5em 1em 1.5em ;
-			}
-
-				#main > .main > .image.main:first-child {
-					margin: -3em 0 1.5em -1.5em;
-					width: calc(100% + 3em);
-				}
-
-		}
 
 		@media screen and (max-width: 360px) {
 
@@ -3701,7 +3619,7 @@
 			}
 
 				#main > .main {
-					padding: 2.5em 1em 0.5em 1em ;
+					padding: 2em 1em 0.5em 1em ;
 				}
 
 					#main > .main > .image.main:first-child {

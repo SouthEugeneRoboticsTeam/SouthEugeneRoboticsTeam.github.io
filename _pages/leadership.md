@@ -27,7 +27,7 @@ css:
 
 {::options parse_block_html="true" /}
 
-{: .people}
+<div>
 {% for person in site.data.leads %}
 {% assign loopindex = forloop.index | modulo: 2 %}
 {: .people}
@@ -46,6 +46,7 @@ css:
 {% endif %}
 </div>
 {% endfor %}
+</div>
 
 ## Subteams
 
