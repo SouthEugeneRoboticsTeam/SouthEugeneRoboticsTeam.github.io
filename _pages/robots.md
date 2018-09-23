@@ -15,7 +15,7 @@ css:
 ![2018](/assets/images/robots/2018.png){: .robot-img .left}
 
 {: .robot-text .right}
-POE was SERT's competition robot for 2018. Its lift allows it to place cubes on both 
+POE was SERT's competition robot for 2018. Its lift allows it to place cubes on both
 the Switch and Scale, and it can also climb. Additionally, its use of vision processing
 allows it to deliver two power cubes during the autonomous period.
 </div>
@@ -28,8 +28,8 @@ allows it to deliver two power cubes during the autonomous period.
 
 {: .robot-text .left}
 Alluminati competed at BunnyBots 2017, where it worked to extract stuffed bunnies from
-five gallon buckets and push them to one side of the field. Since SERT gained many new 
-members in 2017, the robot was used to train them by allowing them to work on an 
+five gallon buckets and push them to one side of the field. Since SERT gained many new
+members in 2017, the robot was used to train them by allowing them to work on an
 actual competition robot. This was SERT's first robot to compete at BunnyBots.
 
 
