@@ -2,7 +2,8 @@
 title: Outreach
 permalink: "/outreach/"
 disableComments: true
-description: We are very active in the community and love to demonstrate our robotics at many different locations.
+description: We are very active in the community and love to demonstrate our robotics
+  at many different locations.
 ---
 
 ## City Synth
