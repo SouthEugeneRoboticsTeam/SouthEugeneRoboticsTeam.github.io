@@ -47,7 +47,7 @@ Please note: there is a Women's Basketball Game that day in the Matthew Knight A
 ## Interested in Presenting?
 Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)
 
-## Intersted in sponsorship opportunities?
+## Intersted in Sponsorship Opportunities?
 Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)
 
 ## Thanks to our Sponsors!
