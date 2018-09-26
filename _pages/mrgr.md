@@ -4,14 +4,13 @@ permalink: "/mrgr/"
 disableComments: true
 ---
 
-<p align="center">
-  <h2>Saturday, November 10, 2018</h2>
-  <h2>University of Oregon</h2>
-  <h2><i>Free!</i></h2>
-  <h3>Hosted by the South Eugene Robotics Team, LaneSTEM, and the University of Oregon</h3>
-</p>
+<h4 style="margin-top:-20px;">Hosted by the South Eugene Robotics Team, LaneSTEM, and the University of Oregon</h4>
 
-## What is MRGR:
+<h2>Saturday, November 10, 2018</h2>
+<h2>University of Oregon</h2>
+<h2><i>Free!</i></h2>
+
+## What is MRGR?
 MRGR is a gathering of Oregon robotics teams for an exciting day of networking, education, technology, knowledge transfer and general robot fun.
 
 Presenters and teams from all over the state will share knowledge and techniques via workshops, robot demonstrations, and academic/technical posters. Ample opportunity is provided to move from the exciting demonstration arena to quiet poster exhibit and conference areas, ensuring time and space for networking and in-depth discussion.
@@ -23,7 +22,7 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 
 **Industry and Community Advantage:** Oregon has the fastest growing tech sector in the nation. Sustaining that growth will mean filling newly created jobs with skilled workers, preferably skilled Oregonian workers. Research shows that robotics team involvement is unparalleled in building skills that connect career to classroom, but many Lane County schools do not offer a program. Events like MRGR will help inspire expanded educational opportunities that will spur a new generation of skilled workers, cementing our communityís reputation as a tech industry destinationóand encouraging additional investment.
 
-## Schedule of Events:
+## Schedule of Events
 - Check out current session times and topics: link
 - Posters on display, 10am to 5pm
 - Q&A session with poster authors, 3pm -4pm
@@ -34,7 +33,7 @@ Interested in Attending? register online at:
 
 `<registration link>`
 
-## Where to find MRGR:
+## Where is MRGR?
 ```
 Ford Alumni Center
 University of Oregon
@@ -55,6 +54,8 @@ Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.c
 
 ## Thanks to our Sponsors!
 ![XS Media](https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png)
+
 ![City of Eugene](https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png)
+
 ![Concenctric Sky](https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png)
 
