@@ -29,9 +29,8 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 - Robots and other demonstrations, 10am to 5pm
 - Light drinks and snacks available throughout the event
 
-Interested in Attending? register online at:
-
-`<registration link>`
+## Interested in Attending?
+Register online at `<registration link>`
 
 ## Where is MRGR?
 ```
@@ -41,7 +40,6 @@ University of Oregon
 ```
 
 ## Free Parking <link to map>
-
 Map shows available lots for MRGR parking
 
 Please note: there is a Women's Basketball Game that day in the Matthew Knight Arena. The Parking Garage next to Ford Alumni will not be available...please use other lots.
