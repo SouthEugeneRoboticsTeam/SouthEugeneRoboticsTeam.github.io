@@ -4,11 +4,11 @@ permalink: "/mrgr/"
 disableComments: true
 ---
 
-<h4 style="margin-top:-20px;">Hosted by the South Eugene Robotics Team, LaneSTEM, and the University of Oregon</h4>
+<h4 style="margin-top: -20px;">Hosted by the South Eugene Robotics Team, LaneSTEM, and the University of Oregon</h4>
 
 <h2>Saturday, November 10, 2018</h2>
 <h2>University of Oregon</h2>
-<h2><i>Free!</i></h2>
+<h2 style="margin-bottom: 20px;"><i>Free!</i></h2>
 
 ## What is MRGR?
 
