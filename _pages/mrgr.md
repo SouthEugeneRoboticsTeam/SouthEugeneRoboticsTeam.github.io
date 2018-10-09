@@ -38,7 +38,7 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 
 ## Interested in Attending?
 
-Register online at `<registration link>`
+Register online at https://goo.gl/ZqbBWn
 
 ## Where is MRGR?
 
@@ -62,8 +62,8 @@ Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.c
 
 ## Thanks to our Sponsors!
 
-![XS Media](https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png)
+![XS Media](https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png){: .sponsor-image}
 
-![City of Eugene](https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png)
+![City of Eugene](https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png){: .sponsor-image}
 
-![Concenctric Sky](https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png)
+![Concenctric Sky](https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png){: .sponsor-image}
