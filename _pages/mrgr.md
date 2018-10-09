@@ -76,6 +76,6 @@ Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.c
         <img src="https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png" class="sponsor-image" />
     </div>
     <div class="sponsor">
-        <span class="sponsor-image">K RIDLEY TECHNOLOGY</span>
+        <span class="sponsor-image" style="font-size: 2em;">K RIDLEY TECHNOLOGY</span>
     </div>
 </div>
