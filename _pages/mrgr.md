@@ -4,7 +4,7 @@ permalink: "/mrgr/"
 disableComments: true
 ---
 
-<h4 style="margin-top: -20px;">Hosted by the South Eugene Robotics Team, LaneSTEM, and the University of Oregon</h4>
+<h4 style="margin-top: -20px;">Hosted by the South Eugene Robotics Team, LaneSTEM, and UO Computer Science Department</h4>
 
 <h2>Saturday, November 10, 2018</h2>
 <h2>University of Oregon</h2>
@@ -63,19 +63,19 @@ Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.c
 ## Thanks to our Sponsors!
 
 <div class="sponsor-grid">
-    <div class="sponsor">
-        <img src="https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png" class="sponsor-image" />
-    </div>
-    <div class="sponsor">
-        <img src="https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png" height="125" class="sponsor-image" />
-    </div>
-    <div class="sponsor">
-        <img src="http://mediad.publicbroadcasting.net/p/klcc/files/styles/x_large/public/201402/springfield_logo.jpg" class="sponsor-image" />
-    </div>
-    <div class="sponsor">
-        <img src="https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png" class="sponsor-image" />
-    </div>
-    <div class="sponsor">
-        <span class="sponsor-image" style="font-size: 2em; line-height: 1.25em;">K RIDLEY TECHNOLOGY</span>
-    </div>
+<div class="sponsor">
+<img src="https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png" class="sponsor-image" />
+</div>
+<div class="sponsor">
+<img src="https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png" height="125" class="sponsor-image" />
+</div>
+<div class="sponsor">
+<img src="http://mediad.publicbroadcasting.net/p/klcc/files/styles/x_large/public/201402/springfield_logo.jpg" class="sponsor-image" />
+</div>
+<div class="sponsor">
+<img src="https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png" class="sponsor-image" />
+</div>
+<div class="sponsor">
+<span class="sponsor-image" style="font-size: 2em; line-height: 1.25em;">K RIDLEY TECHNOLOGY</span>
+</div>
 </div>
