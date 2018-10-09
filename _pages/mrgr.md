@@ -67,7 +67,7 @@ Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.c
         <img src="https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png" class="sponsor-image" />
     </div>
     <div class="sponsor">
-        <img src="https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png" class="sponsor-image" />
+        <img src="https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png" height="125" class="sponsor-image" />
     </div>
     <div class="sponsor">
         <img src="https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png" class="sponsor-image" />
