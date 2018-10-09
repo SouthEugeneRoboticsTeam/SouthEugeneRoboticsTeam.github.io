@@ -56,7 +56,7 @@ Please note: there is a Women's Basketball Game that day in the Matthew Knight A
 
 Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)!
 
-## Intersted in Sponsorship Opportunities?
+## Interested in Sponsorship Opportunities?
 
 Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)!
 
@@ -70,6 +70,12 @@ Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.c
         <img src="https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png" height="125" class="sponsor-image" />
     </div>
     <div class="sponsor">
+        <img src="http://mediad.publicbroadcasting.net/p/klcc/files/styles/x_large/public/201402/springfield_logo.jpg" class="sponsor-image" />
+    </div>
+    <div class="sponsor">
         <img src="https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png" class="sponsor-image" />
+    </div>
+    <div class="sponsor">
+        <span class="sponsor-image">K RIDLEY TECHNOLOGY</span>
     </div>
 </div>
