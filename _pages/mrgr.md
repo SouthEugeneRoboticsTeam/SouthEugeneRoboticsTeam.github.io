@@ -64,14 +64,12 @@ Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.c
 
 <div class="sponsor-grid">
     <div class="sponsor">
-        ![XS Media](https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png){: .sponsor-image}
+        <img src="https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png" class="sponsor-image" />
     </div>
-    
     <div class="sponsor">
-        ![City of Eugene](https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png){: .sponsor-image}
+        <img src="https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png" class="sponsor-image" />
     </div>
-    
     <div class="sponsor">
-        ![Concenctric Sky](https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png){: .sponsor-image}
+        <img src="https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png" class="sponsor-image" />
     </div>
 </div>
