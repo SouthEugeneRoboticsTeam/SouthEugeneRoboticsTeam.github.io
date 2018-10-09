@@ -38,7 +38,7 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 
 ## Interested in Attending?
 
-Register online at https://goo.gl/ZqbBWn
+[Register online!](https://goo.gl/ZqbBWn)
 
 ## Where is MRGR?
 
@@ -54,16 +54,16 @@ Please note: there is a Women's Basketball Game that day in the Matthew Knight A
 
 ## Interested in Presenting?
 
-Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)
+Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)!
 
 ## Intersted in Sponsorship Opportunities?
 
-Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)
+Contact us at [southeugenerobotics@gmail.com](mailto:southeugenerobotics@gmail.com)!
 
 ## Thanks to our Sponsors!
 
+<div class="sponsor-grid">
 ![XS Media](https://xsmedia.com/wp-content/uploads/XS-Media-Logo-Horizontal-Lite-Black.png){: .sponsor-image}
-
 ![City of Eugene](https://pbs.twimg.com/profile_images/2514772194/uwlg4rrfdhbimiyvowab.png){: .sponsor-image}
-
 ![Concenctric Sky](https://www.imsglobal.org/sites/default/files/memberlogos/concentric-sky-logo-2018.png){: .sponsor-image}
+</div>
