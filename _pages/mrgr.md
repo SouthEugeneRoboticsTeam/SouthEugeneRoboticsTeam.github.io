@@ -48,7 +48,7 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 
 ## Free Parking
 
-![0.png](/uploads/0.png)
+<img src="/uploads/0.png" style="width: 100%;" />
 
 Please note: there is a Women's Basketball Game that day in the Matthew Knight Arena. The Parking Garage next to Ford Alumni will not be available...please use other lots.
 
