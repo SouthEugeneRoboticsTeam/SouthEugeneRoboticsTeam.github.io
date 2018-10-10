@@ -26,7 +26,7 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 
 ## Schedule of Events
 
-* Workshop sessions: times and topics: link
+* Workshop sessions, all day (stay tuned for more details)
 
 * Posters on display, 10am to 5pm
 
@@ -46,9 +46,9 @@ In short, robotics prepares students for next-gen careers in tech and other indu
     University of Oregon
     1720 E 13th Ave, Eugene, Oregon 97403
 
-## Free Parking <link to map>
+## Free Parking
 
-Map shows lots available for MRGR parking
+![0.png](/uploads/0.png)
 
 Please note: there is a Women's Basketball Game that day in the Matthew Knight Arena. The Parking Garage next to Ford Alumni will not be available...please use other lots.
 
