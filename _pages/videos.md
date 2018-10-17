@@ -3,6 +3,8 @@ title: Videos
 permalink: "/videos/"
 description: A list of SERT's recent outreach and event videos.
 disableComments: true
+css:
+- videos.css
 ---
 
 <!--
