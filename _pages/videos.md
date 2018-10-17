@@ -29,7 +29,7 @@ css:
 
 <div>
 {% for video in site.data.videos %}
-<div>
+<div class="video">
 ## {{video.title}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{video.id}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
