@@ -26,14 +26,10 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 
 ## Schedule of Events
 
-* Workshop sessions, all day (stay tuned for more details)
-
+* Workshop sessions, all day... [Sign up here!](/mrgr/sessions)
 * Posters on display, 10am to 5pm
-
 * Q&A session with poster authors, 3pm to 4pm
-
 * Robots and other demonstrations, 10am to 5pm
-
 * Light drinks and snacks available throughout the event
 
 ## Interested in Attending?
