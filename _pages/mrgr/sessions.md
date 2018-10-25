@@ -10,7 +10,7 @@ Please sign up for sessions [here](https://docs.google.com/forms/d/e/1FAIpQLSdrr
 Join the Business Team for Error Code Xero (FRC 1425) to learn more about funding, outreach, business systems and other tasks that support and share the FIRST Robotics mission. Space is limited. Sign-up is required.
 
 ## AutoDesk CAD and Synthesis Demonstration — 11:00am-3:30pm — Room 201
-This demonstration is given by AutoDesk. It will cover their CAD programs: Inventor and Fusion 360; and, their simulation program Synthesis. This session is open door. Sign-up is NOT required.
+Representatives from AutoDesk will cover their CAD programs Inventor and Fusion 360 and their simulation program Synthesis. This is a drop-in session. Sign-up is NOT required.
 
 ## City Synth Pi-Based Camera Demonstration — 12:00pm-1:00pm — Room 301
 Jon Bellona with Harmonic Labs will demonstrate the Raspberry Pi-based streaming used in the Mozilla City Synth project. This is an open door demonstration. Sign-up is NOT required.
