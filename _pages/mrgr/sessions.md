@@ -7,8 +7,7 @@ disableComments: true
 Please sign up for sessions [here](https://docs.google.com/forms/d/e/1FAIpQLSdrrldZryMOZuqey4mv4v4UKFIQmpr-YTTc4n8tYuy5xV35SA/viewform).
 
 ## What a Business/Marketing Team Does — 11:00am-12:00pm — Room 403
-Session is given by First Robotics Competition (FRC Team) Error Code Xero's Business team.
-This one hour presentation is given in the UOAA Past Presidents Executive Ballroom. Space is limited. Sign-up is required.
+Join the Business Team for Error Code Xero (FRC 1425) to learn more about funding, outreach, business systems and other tasks that support and share the FIRST Robotics mission. Space is limited. Sign-up is required.
 
 ## AutoDesk CAD and Synthesis Demonstration — 11:00am-3:30pm — Room 201
 This demonstration is given by AutoDesk. It will cover their CAD programs: Inventor and Fusion 360; and, their simulation program Synthesis. This session is open door. Sign-up is NOT required.
