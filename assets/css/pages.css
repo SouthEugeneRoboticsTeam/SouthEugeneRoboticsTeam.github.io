@@ -21,7 +21,7 @@
 .sponsor-grid {
 	justify-content: center;
 	align-items: center;
-	display: grid;
+	display: flex;
 	flex-wrap: wrap;
 	grid-template-columns: auto auto auto;
 }
