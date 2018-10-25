@@ -19,7 +19,10 @@
 }
 
 .sponsor-grid {
+	justify-content: center;
+	align-items: center;
 	display: grid;
+	flex-wrap: wrap;
 	grid-template-columns: auto auto auto;
 }
 
@@ -29,6 +32,8 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	width: 33%;
+	min-width: 250px;
 }
 
 .sponsor > * {
