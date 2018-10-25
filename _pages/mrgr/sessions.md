@@ -19,7 +19,7 @@ Jon Bellona with Harmonic Labs will demonstrate the Raspberry Pi-based streaming
 David Wilkins, an instructor with Computer Sciences University of Oregon, will work with attendees to build a simple but powerful image recognition model using Python. Attendees should have some programming experience, and will need a computer. Space is limited. Sign-up is required.</h3>
 
 ## Bridging Gender Gaps in STEM — 1:30pm-2:30pm — Room 301
-Brandy Todd with University of Oregon SPICE, a program that help girls thrive in STEM, will discuss best practices aimed at achieving this goal. Space is limited. Sign-up is required.
+Brandy Todd with University of Oregon SPICE, a program that helps girls thrive in STEM, will discuss best practices aimed at achieving this goal. Space is limited. Sign-up is required.
 
 ## Where's My Bot? Using SLAM in Robotics — 1:30pm-2:30pm — Room 401
 Andrew Dassonville, programming lead with SERT (FRC 2521) will discuss and demonstrate how Simultaneous Localization and Mapping (SLAM) works, and its applications for FRC and FTC robots. Space is limited. Sign-up is required.
