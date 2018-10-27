@@ -2,9 +2,10 @@
 title: Outreach
 permalink: "/outreach/"
 disableComments: true
-description: We are very active in the community and love to demonstrate our robotics at many different locations.
+description: We are very active in the community and love to demonstrate our robotics
+  at many different locations.
 ---
- 
+
 ## Mckenzie River Gathering of Robots (MRGR)
 
 2018 marks MRGR’s inaugural year. This gathering of Oregon robotics teams is an exciting day of networking, education, technology, knowledge transfer and general robot fun. Presenters and teams from all over the state will share knowledge and techniques via workshops, robot demonstrations, and academic/technical posters. Free to the public, the event is being hosted at the UO Ford Alumni Center. The event aims to share knowledge and skills with teams that don’t have access to resource-rich hubs, and to help connect students with industry professionals interested in finding and developing talent to fill next-gen jobs. More information can be found [here](https://sert2521.org/mrgr/).
