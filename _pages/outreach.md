@@ -10,7 +10,7 @@ description: We are very active in the community and love to demonstrate our rob
 
 City Synth is a collaboration with groups like Harmonic Laboratory and XS Media to turn the streets of Eugene into a musical instrument, with tracks for users to "mix". This project was funded by a Mozilla grant after Eugene was chosen as one of five Mozilla Gigabit cities in the U.S. Members of our software subteam wrote code to transmit video of different streets in Eugene from Raspberry Pis with cameras on them to a centralized computer and the electrical subteam helped test video streaming solutions. The project was featured as the first stop on Eugene's monthly First Friday Artwalk and will become an exhibit at the Eugene Science Center.
 
-Find out more about City Synth <a href="http://harmoniclab.org/event/city-synth/">here</a>
+Find out more about City Synth <a href="http://harmoniclab.org/event/city-synth/">here</a>.
 
 
 ## Go Baby Go
