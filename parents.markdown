@@ -10,7 +10,6 @@ Coming soon
 <!--
 
 * [Competition dates](https://docs.google.com/document/d/1obxs57nMiqoTo7bLJj_lb49_VBpls3wB7AlFFW7LRYg/edit)
-
 * [Ways to help](https://docs.google.com/document/d/1nKAqZmIe93qoQduOoqxi1u_S2IZEPlu-0dXGgqMNZ_0/edit)
 
 -->
