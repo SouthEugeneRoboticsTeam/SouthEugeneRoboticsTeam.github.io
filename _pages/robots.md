@@ -95,3 +95,5 @@ sturdiness and interactive possibilities.
 Excaliber, from FIRST's disc-golf styled game Ultimate Ascent, was an incredibly
 reliable robot that functioned as a shooter via flywheel.
 </div>
+
+Interested in our CAD models? You can check out and download our recent designs [here](https://drive.google.com/drive/folders/1Ws1WwcjgvpSzys9lWDdW8cjjjqJXjq61?usp=sharing)!
