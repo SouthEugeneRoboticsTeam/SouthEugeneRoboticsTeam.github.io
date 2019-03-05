@@ -1,36 +1,60 @@
-- name: BAE Systems
-  image: bae.png
-  website: https://www.baesystems.com/home
+- name: Beoing
+  image: boeing.png
+  website: https://www.boeing.com/
+- name: Bonneville Power Administration
+  image: bonneville.png
+  website: https://www.bpa.gov/
+- name: Bright Star
+  image: brightstar.png
+  website: https://www.brightstarcare.com/
+- name: CBT Nuggets
+  image: cbtnuggets.png
+  website: https://www.cbtnuggets.com/
 - name: Concentric Sky
   image: concentricsky.png
   website: https://www.concentricsky.com/
-- name: Elmer's
-  image: elmers.png
-  website: https://eatatelmers.com/
-- name: EWEB
-  image: eweb.png
-  website: http://www.eweb.org/
+- name: Emberex
+  image: emberex.png
+  website: https://www.emberex.com/
 - name: Feynman Group
   image: feynman.png
   website: https://www.feynmangroup.com
+- name: First Tech
+  image: firsttech.jpg
+  website: https://www.firsttechfed.com/
+- name: InSilico
+  image: insilico.png
+  website: https://insilico.com/
+- name: John Deere
+  image: johndeere.png
+  website: https://www.deere.com/
+- name: K Ridley Tech
+  image: kridley.jpg
+  website: https://www.kridleytech.com/
 - name: LivePlan
   image: liveplan.png
   website: https://www.liveplan.com/
 - name: LumaLaser
   image: lumalaser.png
   website: https://www.lumalaser.com/
-- name: McMenamins
-  image: mcmenamins.png
-  website: https://www.mcmenamins.com/
-- name: Multi-Craft Plastics
-  image: multicraft.png
-  website: http://www.multicraftplastics.com/
-- name: The Oregon Community Foundation
-  image: ocf.png
-  website: https://www.oregoncf.org/
+- name: Marathon
+  image: marathon.svg
+  website: https://www.marathonpetroleum.com/
 - name: The Oregon Department of Education
   image: ode.png
   website: https://www.oregon.gov/ode/Pages/default.aspx
+- name: OMRON
+  image: omron.svg
+  website: https://www.omron.com/
 - name: South Eugene High School
   image: sehs.png
   website: https://sehs.4j.lane.edu/
+- name: Solidworks
+  image: solidworks.png
+  website: https://www.solidworks.com/
+- name: City of Springfield
+  image: springfield.jpg
+  website: https://www.springfield-or.gov/
+- name: XS Media
+  image: xsmedia.png
+  website: https://xsmedia.com/
