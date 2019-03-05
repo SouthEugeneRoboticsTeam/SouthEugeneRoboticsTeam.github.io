@@ -1,73 +1,73 @@
 #intro, #intro > .spotlight {
-	padding-top: 35px !important;
+  padding-top: 35px !important;
 }
 
 #slider {
-	height: 425px;
+  height: 425px;
 
-	background-color: transparent;
+  background-color: #5f4d93;
 
-	padding: 0 !important;
+  padding: 0 !important;
 }
 
 .slider {
-	height: 100%;
+  height: 100%;
 
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-	background-size: cover;
+  background-size: cover;
 }
 
 .sponsor-grid {
-	justify-content: center;
-	align-items: center;
-	display: flex;
-	flex-wrap: wrap;
-	grid-template-columns: auto auto auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  grid-template-columns: auto auto auto;
 }
 
 .sponsor {
-	column-span: 1;
-	padding-bottom: 85px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 33%;
-	min-width: 250px;
+  column-span: 1;
+  padding-bottom: 85px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 33%;
+  min-width: 250px;
 }
 
 .sponsor > * {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .sponsor > * > a {
-	border: none;
+  border: none;
 }
 
 .sponsor-image {
-	max-width: 225px;
+  max-width: 225px;
 }
 
 #lead-image {
-	height: 425px;
+  height: 425px;
 
-	background-color: transparent;
+  background-color: transparent;
 
-	padding: 0 !important;
+  padding: 0 !important;
 }
 
 .lead-image {
-	height: 100%;
+  height: 100%;
 
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 #content > p {
-	text-align: left;
+  text-align: left;
 }
 
 #disqus {
-	margin: 20px;
+  margin: 20px;
 }
