@@ -34,9 +34,6 @@
 - name: LivePlan
   image: liveplan.png
   website: https://www.liveplan.com/
-- name: LumaLaser
-  image: lumalaser.png
-  website: https://www.lumalaser.com/
 - name: Marathon
   image: marathon.png
   website: https://www.marathonpetroleum.com/
