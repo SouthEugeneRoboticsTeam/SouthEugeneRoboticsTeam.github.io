@@ -16,9 +16,6 @@
 - name: Emberex
   image: emberex.png
   website: https://www.emberex.com/
-- name: Feynman Group
-  image: feynman.png
-  website: https://www.feynmangroup.com
 - name: First Tech
   image: firsttech.jpg
   website: https://www.firsttechfed.com/
@@ -31,9 +28,6 @@
 - name: K Ridley Tech
   image: kridley.jpg
   website: https://www.kridleytech.com/
-- name: LivePlan
-  image: liveplan.png
-  website: https://www.liveplan.com/
 - name: Marathon
   image: marathon.png
   website: https://www.marathonpetroleum.com/
