@@ -13,6 +13,9 @@
 - url: /robots
   title: Robots
 
+- url: /parents
+  title: Parents
+
 - title: Community
   subpages:
   - url: /outreach

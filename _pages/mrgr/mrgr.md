@@ -26,7 +26,7 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 
 ## Schedule of Events
 
-* Workshop sessions, all day... [Sign up here!](/mrgr/sessions)
+* Workshop sessions, all day... **[Sign up here!](/mrgr/sessions)**
 * Posters on display, 10am to 5pm
 * Q&A session with poster authors, 3pm to 4pm
 * Robots and other demonstrations, 10am to 5pm
@@ -35,6 +35,8 @@ In short, robotics prepares students for next-gen careers in tech and other indu
 ## Interested in Attending?
 
 [Register online!](https://goo.gl/ZqbBWn)
+
+If you're interested in attending sessions, **[sign up here!](/mrgr/sessions)**
 
 ## Where is MRGR?
 

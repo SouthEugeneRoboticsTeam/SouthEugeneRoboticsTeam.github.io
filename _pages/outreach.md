@@ -6,47 +6,52 @@ description: We are very active in the community and love to demonstrate our rob
   at many different locations.
 ---
 
-## City Synth
+## Mckenzie River Gathering of Robots (MRGR)
 
-City Synth is a collaboration with groups like Harmonic Laboratory and XS Media to turn the streets of Eugene into a musical instrument, with tracks for users to "mix". This project was funded by a Mozilla grant after Eugene was chosen as one of five Mozilla Gigabit cities in the U.S. Members of our software subteam wrote code to transmit video of different streets in Eugene from Raspberry Pis with cameras on them to a centralized computer and the electrical subteam helped test video streaming solutions. The project was featured as the first stop on Eugene's monthly First Friday Artwalk and will become an exhibit at the Eugene Science Center.
-
-Find out more about City Synth <a href="http://harmoniclab.org/event/city-synth/">here</a>
-
+2018 marks MRGR’s inaugural year. This gathering of Oregon robotics teams is an exciting day of networking, education, technology, knowledge transfer and general robot fun. Presenters and teams from all over the state will share knowledge and techniques via workshops, robot demonstrations, and academic/technical posters. Free to the public, the event is being hosted at the UO Ford Alumni Center. The event aims to share knowledge and skills with teams that don’t have access to resource-rich hubs, and to help connect students with industry professionals interested in finding and developing talent to fill next-gen jobs. More information can be found [here](https://sert2521.org/mrgr/).
 
 ## Go Baby Go
 
-SERT was inspired by the <a href="http://health.oregonstate.edu/gobabygo">Go Baby Go initiative</a> to modify toy ride-on trucks to be alternative transportation for children with limited mobility. SERT has developed a design for modifying the trucks to be controlled with a joystick like on a wheelchair instead of a simple button that goes from no movement to full power. The joystick design allows for zero turn radius spins and gentle acceleration. The joystick trucks provide fun therapy, practice with a joystick, and allow children to "run" around with their friends.
+Inspired by the [Go Baby Go initiative](http://health.oregonstate.edu/gobabygo), SERT modified toy ride-on trucks to be used as alternative transportation for children with limited mobility. SERT developed a design for modifying the trucks that allows them to be controlled with a joystick (smooth acceleration and zero turn radius) instead of a button press (no movement to immediate full power). The joystick trucks provide fun therapy, practice with a joystick that can help kids qualify for an electric wheelchair, and allow children to “run” around with their friends. SERT’s instructions for the joystick modifications having been downloaded worldwide, and are available [here](https://sites.google.com/site/joystickcontrolledgobabygocars/).
 
-SERT's instructions for the joystick modifications are <a href="https://sites.google.com/site/joystickcontrolledgobabygocars/">here</a>.
+## City Synth
 
+Last summer, SERT worked with Harmonic Laboratory, XS Media City and other groups to turn the streets of Eugene into a musical instrument. Called City Synth, collaborators used code written by our software team to transmit video of different streets in Eugene. The video was recorded via Raspberry Pis with attached cameras and streamed to a centralized computer where users mixed tracks into their own creation. Our electrical team also assisted by testing video streaming solutions. The project was funded by a Mozilla grant after Eugene was chosen as one of five Mozilla Gigabit cities in the U.S. It was featured as the first stop on Eugene’s monthly First Friday Artwalk and will become an exhibit at the Eugene Science Center. Find out more about City Synth [here](http://harmoniclab.org/event/city-synth/)
 
-## Supporting Women in STEM
+## Ophelia’s Place -- Supporting Women in STEM
 
-In addition to our strong female student leadership (75% of all captains/leads are women), our team makes a number of efforts to support and promote women in STEM. We recently taught an 8 week long class at Ophelia's Place in CAD, an organization that supports girls in the community. Moreover, during the summer, we taught one week of full-day programming classes. We've also donated four desktop computers to them, for educational use.
+Since our team’s inception, SERT has not only supported women in STEM, our team has models this concept -- more than 50% all captains/leads in team history have been women, and currently we five of our eight leads are women. Every year, our team selects projects aimed at inspiring women in STEM fields. For several years, we’ve taught an 8-week long class at Ophelia’s Place in CAD, an organization that supports girls in the community. During the summer, we taught one week of full-day programming and CAD classes. We’ve also donated four desktop computers to this organization for educational use, in addition to laptops for use in the course.
 
-Our team also attends events to encourage girls on our team to network with female professionals, such as the Oregon State University Women in Engineering Dinner, as well as the Women In Science and Engineering Symposium.
+To encourage girls in our community to explore STEM and FIRST, we run demonstrations at Ophelia’s Place’s Girls Rule! and Girl Con events, as well as at SPICE camp, a girls’ science camp at the University of Oregon.
 
-To encourage girls in our community to explore STEM and FIRST, we run demonstrations at Ophelia's Place's Girls Rule! event, as well as at SPICE camp, a girls' science camp at the University of Oregon.
+Check out Ophelia’s Place [here](http://opheliasplace.net/)
 
-You can check out Ophelia's Place <a href="http://opheliasplace.net/">here</a>
+Our team also often attends networking events with female professionals, such as the Oregon State University Women in Engineering Dinner, and the Women In Science and Engineering Symposium.
 
-### Upcoming Events
+## Spencer Butte Middle School Robotics Mentoring
 
-We will be teaching a workshop at FIRST Fair, an event which brings together FRC robotics teams from all over Oregon.
+Encouraging middle schoolers to explore the world of robotics is a great way to stimulate interest in STEM -- and to a pipeline of skilled, interested team members ready to take on the exciting challenges of building bigger robots in high school team! Our team meets with a local middle school’s FIRST Lego League team every Friday to help them prepare for their upcoming competition season. SERT team members work with the younger students on a variety of tasks, including game design and robot construction.
 
 ## Software tools
 
-SERT has built many tools over the years to make various tasks faster and easier, all of which are open-source.
-Here are just a few of them:
+SERT has built many tools over the years to make various tasks faster and easier, all of which are open-source and shareable across FIRST. Here are just a few:
 
-1. **[🤖 Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/)** is a simple yet powerful Android scouting app with customizable scouting templates and advanced spreadsheet exporting for painless data analysis.
-1. The **[🕑 Attendance Client](https://github.com/SouthEugeneRoboticsTeam/Attendance-Client)** is a cross-platform desktop app built with Firebase and React to make keeping track of team members' hours a piece of cake.
-1. Vision processing code for [single-board computers](https://github.com/SouthEugeneRoboticsTeam/vision) such as the Raspberry Pi or for the [roboRIO](https://github.com/SouthEugeneRoboticsTeam/Steamworks-2017/blob/71a63ba36a162f533b1fb9a52d1f1b8c61748378/src/org/usfirst/frc/team2521/robot/vision/Looper.java).
+1. **[Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter/)** is a simple yet powerful Android scouting app with customizable scouting templates and advanced spreadsheet exporting for painless data analysis.
 
-## Past Demonstrations
+2. The **[Attendance Client](https://github.com/SouthEugeneRoboticsTeam/Attendance-Client)** is a cross-platform desktop app built with Firebase and React to make keeping track of team members' hours a piece of cake.
 
-SERT maintains its longstanding partnerships with the community by frequently participating in events that raise awareness of FIRST and STEM values. For the past three summers, we have participated in the Mini Maker Faire at the Science Factory, our local children’s science museum, where more than 50 kids of all ages drove our Aerial Assist robot, Byter, and learned about FIRST. After that, our team set up a popular hands-on exhibit for three days at the well-attended Lane County Fair and gave community members the opportunity to drive our robots, an annual SERT event. At the Oregon State Fair, we participated in a FIRST exhibit with our robot and taught children and  parents from around the state about FIRST and the opportunities available to FIRST teams.
+3. Vision processing code for [single-board computers](https://github.com/SouthEugeneRoboticsTeam/vision) such as the Raspberry Pi or for the [roboRIO](https://github.com/SouthEugeneRoboticsTeam/Steamworks-2017/blob/71a63ba36a162f533b1fb9a52d1f1b8c61748378/src/org/usfirst/frc/team2521/robot/vision/Looper.java).
 
-Additionally, our team was invited to the Second Star Festival in Florence, Oregon where we gave TED-style talks and demonstrated a previous season’s robot design. In November, our team participated in the Barnes & Noble Maker Faire and taught many children about robotics, a continuing event. We demonstrated our Aerial Assist robot, Byter, at Kids Down South Preschool on February 1st. On February 24th, we demonstrated the same robot and presented about our team at the Emerald Valley Assisted Living Center.
+## Ongoing Community Demonstrations
 
+SERT maintains its longstanding partnerships with the community by frequently participating in events that raise awareness of FIRST and STEM values.
 
+We participate in the Mini Maker Faire at the Eugene Science Center, our local children’s science museum. Each year, more than 50 kids of all ages drive our robot and learn about FIRST.
+
+Our team sets up a popular hands-on exhibit for three days at the well-attended Lane County Fair and gives community members the opportunity to drive our robots, an annual SERT event.
+
+At the Oregon State Fair and at DaVinci Days, we participate in a FIRST exhibit with our robot and teach children and parents from around the state about FIRST and the opportunities available to FIRST teams.
+
+Our team teaches summer camps through UO SPICE, and organization that inspires girls to explore STEM fields. This year, we participated in their very well attended Fall open house, where dozens of kids got the opportunity to drive our championship robot Poe.
+
+Our team has had the chance to participate in other interesting outreach events as well. For example, our team was invited to the Second Star Festival in Florence, Oregon where we gave TED-style talks and demonstrated a previous season’s robot design. We’ve also participated in the Barnes & Noble Maker Faire and taught many children about robotics.
