@@ -21,10 +21,12 @@
 
 .people-img.right {
 	float: right;
+	margin-left: 15px;
 }
 
 .people-img.left {
 	float: left;
+	margin-right: 15px;
 }
 
 .people-text {
