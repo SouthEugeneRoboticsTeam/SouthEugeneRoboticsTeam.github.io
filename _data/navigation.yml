@@ -20,5 +20,7 @@
   subpages:
   - url: /outreach
     title: Outreach
-  - url: /sponsors
-    title: Sponsors
+
+- url: /sponsors
+  title: Sponsors
+
