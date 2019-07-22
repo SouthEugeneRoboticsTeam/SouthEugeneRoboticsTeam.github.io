@@ -32,12 +32,28 @@
 
 .sponsor {
   column-span: 1;
-  padding-bottom: 85px;
+  padding-bottom: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 33%;
   min-width: 250px;
+}
+
+.sponsor-tier-banner {
+  height: 15vh;
+  background: #2b2046ff;
+  width: 100%;
+  margin-bottom: 10vh;
+  text-align: center;
+  display: table;
+  border-radius: 15px;
+}
+
+.sponsor-tier-text {
+  display: table-cell;
+  vertical-align: middle;
+  font-weight: bold;
 }
 
 .sponsor > * {

@@ -23,11 +23,22 @@ disableComments: true
 
 
 {::options parse_block_html="true" /}
-
 <div class="sponsor-grid">
+{% for tier in site.data.sponsortiers %}
+
+<div class="sponsor-tier-banner">
+<h1 style='color:white;' class="sponsor-tier-text">{{tier.name}}  ({{tier.amount}})</h1>
+</div>
+
 {% for sponsor in site.data.sponsors %}
+
+{% if sponsor.tier == tier.name %}
 <div class="sponsor">
 [![2016](/assets/images/sponsors/{{sponsor.image}}){: .sponsor-image}]({{sponsor.website}})
 </div>
+{% endif %}
+
+{% endfor %}
+
 {% endfor %}
 </div>
