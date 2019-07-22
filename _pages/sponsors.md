@@ -23,6 +23,13 @@ disableComments: true
 
 
 {::options parse_block_html="true" /}
+
+## **Help inspire a new generation of students by sponsoring our team.** 
+### [Learn more about what it means to be a SERT sponsor](https://drive.google.com/open?id=1eWleMt7kJbSCyO12OeiyQy7RruBbpqSK)
+### Interested? Send us an email at <sert2521business@gmail.com> or contact one of our mentors at (541)-228-1534
+&nbsp;
+# **Current Sponsors**
+
 <div class="sponsor-grid">
 {% for tier in site.data.sponsortiers %}
 
