@@ -1,51 +1,72 @@
-- name: Beoing
+- name: Autodesk
+  image: autodesk.png
+  website: https://www.autodesk.com/
+  tier: Gold
+- name: Boeing
   image: boeing.png
   website: https://www.boeing.com/
+  tier: Platinum
 - name: Bonneville Power Administration
   image: bonneville.png
   website: https://www.bpa.gov/
+  tier: Gold
 - name: Bright Star
   image: brightstar.png
   website: https://www.brightstarcare.com/
+  tier: Gold
 - name: CBT Nuggets
   image: cbtnuggets.png
   website: https://www.cbtnuggets.com/
+  tier: Silver
 - name: Concentric Sky
   image: concentricsky.png
   website: https://www.concentricsky.com/
+  tier: Silver
 - name: Emberex
   image: emberex.png
   website: https://www.emberex.com/
+  tier: Silver
 - name: First Tech
   image: firsttech.jpg
   website: https://www.firsttechfed.com/
-- name: InSilico
-  image: insilico.png
-  website: https://insilico.com/
+  tier: Gold
+- name: City of Eugene
+  image: eugene.png
+  website: https://www.eugene-or.gov/
+  tier: Silver
 - name: John Deere
   image: johndeere.png
   website: https://www.deere.com/
+  tier: Diamond
 - name: K Ridley Tech
   image: kridley.jpg
   website: https://www.kridleytech.com/
+  tier: Gold
 - name: Marathon
   image: marathon.png
   website: https://www.marathonpetroleum.com/
+  tier: Silver
 - name: The Oregon Department of Education
   image: ode.png
   website: https://www.oregon.gov/ode/Pages/default.aspx
+  tier: Platinum
 - name: OMRON
   image: omron.svg
   website: https://www.omron.com/
+  tier: Silver
 - name: South Eugene High School
   image: sehs.png
   website: https://sehs.4j.lane.edu/
+  tier: Silver
 - name: Solidworks
   image: solidworks.png
   website: https://www.solidworks.com/
+  tier: In-Kind
 - name: City of Springfield
   image: springfield.jpg
   website: https://www.springfield-or.gov/
+  tier: Silver
 - name: XS Media
   image: xsmedia.png
   website: https://xsmedia.com/
+  tier: Platinum
