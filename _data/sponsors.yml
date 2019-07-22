@@ -1,3 +1,7 @@
+- name: Autodesk
+  image: autodesk.png
+  website: https://www.autodesk.com/
+  tier: Gold
 - name: Boeing
   image: boeing.png
   website: https://www.boeing.com/
@@ -26,9 +30,10 @@
   image: firsttech.jpg
   website: https://www.firsttechfed.com/
   tier: Gold
-#- name: InSilico
-#  image: insilico.png
-#  website: https://insilico.com/
+- name: City of Eugene
+  image: eugene.png
+  website: https://www.eugene-or.gov/
+  tier: Silver
 - name: John Deere
   image: johndeere.png
   website: https://www.deere.com/
