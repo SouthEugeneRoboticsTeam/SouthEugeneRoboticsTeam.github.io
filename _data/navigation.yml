@@ -3,23 +3,22 @@
 
 - url: /about
   title: About
+  subpages:
+    - url: /leadership
+      title: Leadership
 
 - url: /blog
   title: Blog
 
-- url: /leadership
-  title: Leadership
-
 - url: /robots
   title: Robots
 
-- url: /parents
-  title: Parents
+- url: /sponsors
+  title: Sponsors
 
 - title: Community
   subpages:
-  - url: /outreach
-    title: Outreach
-
-- url: /sponsors
-  title: Sponsors
+    - url: /outreach
+      title: Outreach
+    - url: /parents
+      title: Parents
