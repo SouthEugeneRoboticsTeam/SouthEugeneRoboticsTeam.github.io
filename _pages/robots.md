@@ -26,7 +26,7 @@ and allowed for a robust vision processing system that could align the robot for
 <div>
 
 # 2018 (BunnyBots) - Frog
-![2018bun](/assets/images/robots/2018-bunnybots.jpg){: .robot-img .right}
+![2018bun](/assets/images/robots/2018-bunnybots.png){: .robot-img .right}
 
 {: .robot-text .left}
 Frog was SERT's robot for the 2018 BunnyBots game, "Box 'Em Up." A thunderous presence on the playing field, it could
