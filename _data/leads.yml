@@ -8,26 +8,26 @@
   image: Greta.jpg
   bio: "Greta is a senior and a co-captain of SERT. She joined the team her freshman year, making this her fourth season. She loves cheering as loud as she can at competitions and organizing the team during Build Season. Outreach events and teaching are her favorite parts of being on SERT, as she loves introducing new people to the fun that is robotics. In her free time, Greta enjoys writing stories, baking, and gardening."
 
-- name: "Aidan Heller"
-  subteam: "Software"
-  image: Aidan.jpg
-  bio: "Aidan is a senior and the software lead at SERT. He enjoys programming the robot and (hopefully) not crashing it into walls. Aside from the robot, he also enjoys building games and apps. Aidan is always eager to get ahold of the newest software, and enjoys getting access to beta trials, whether it’s a new version of a programming language or an operating system. Outside of programming and robotics, Aidan likes to play video games, play the piano, and draw."
-  
 - name: "Matthew Pickerell"
   subteam: "Mechanical"
   image: Matthew.jpg
   bio: "Matthew Pickerell is a Junior and the mechanical lead of the South Eugene Robotics Team. Matthew is passionate about technology and robotics. With the use of CAD and 3D printing, he has built and produced more than five stop motion animation short films and is currently working on another. Matthew enjoys working and having discussions with others, and enjoys troubleshooting, problem solving, and the thrill of FRC competitions. When Matthew is not at robotics or doing homework, he is usually working on a CAD model or robotics experiments of his own!"
 
+- name: "Aidan Heller"
+  subteam: "Software"
+  image: Aidan.jpg
+  bio: "Aidan is a senior and the software lead at SERT. He enjoys programming the robot and (hopefully) not crashing it into walls. Aside from the robot, he also enjoys building games and apps. Aidan is always eager to get ahold of the newest software, and enjoys getting access to beta trials, whether it’s a new version of a programming language or an operating system. Outside of programming and robotics, Aidan likes to play video games, play the piano, and draw."
+  
+ - name: "Kylie McKeon"
+  subteam: "Business"
+  image: James.jpg
+  bio: "Kylie McKeon is a junior and the business lead of the South Eugene Robotics Team. She joined the team freshman year and loved the business team immediately. Kylie loves helping the team raise money and spreading the word about robotics. In her free time outside robotics, Kylie enjoys reading, practicing circus, and helping out clubs around South Eugene High School."
+  
 - name: "Anastasia Kaurova"
   subteam: "Electrical"
   image: Anastasia.jpg
   bio: "Anastasia is a sophomore and the electrical lead. She has found a passion in working on the small and delicate aspects of the robot, all while sitting inside it. If recruited by mechanical, her joy in using loud power tools is only tempered by being in unfamiliar territory. When given her freedom from the foundry, Anastasia enjoys sailing, baking treats, and watching Marvel."
   
-- name: "Kylie McKeon"
-  subteam: "Business"
-  image: James.jpg
-  bio: "Kylie McKeon is a junior and the business lead of the South Eugene Robotics Team. She joined the team freshman year and loved the business team immediately. Kylie loves helping the team raise money and spreading the word about robotics. In her free time outside robotics, Kylie enjoys reading, practicing circus, and helping out clubs around South Eugene High School."
-
 - name: "Keegan Gilds"
   subteam: "Co-Strategy"
   image: Keegan.jpg
