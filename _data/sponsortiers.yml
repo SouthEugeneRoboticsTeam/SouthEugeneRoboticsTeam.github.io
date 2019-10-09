@@ -1,13 +1,13 @@
 - name: Diamond
-  amount: $5000+
+  amount:
 - name: Platinum
-  amount: $2500+
+  amount:
 - name: Gold
-  amount: $1000+
+  amount:
 - name: Silver
-  amount: $500+
+  amount:
 - name: Bronze
-  amount: $250+
+  amount:
 - name: In-Kind
-  amount: Non-monetary support
+  amount:
 
