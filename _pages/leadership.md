@@ -84,3 +84,6 @@ and successful matches. This includes creating and guiding the team through a
 process to design the best robot our team can build for this year's game,
 testing the prototype and the robot in thorough and exciting ways, working
 on match-strategy, and organizing scouting.
+
+### Safety
+The safety subteam is dedicated to making FIRST and SERT a safer and better place for all. It is responsible for enforcing safe practices, educating team members and the public about safety, and managing a safe environment for all. At SERT, safety always comes FIRST!
