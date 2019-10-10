@@ -1,39 +1,50 @@
-- name: Jessie Ziegenbein
-  subteam: Co-Captain
-  image: jessie.jpg
-  bio: Jessie Ziegenbein is a senior and a co-captain of the South Eugene Robotics Team. This year will be her fourth year on the team, and since freshman year she has been part of the mechanical subteam. She is very involved in mechanical and mechanical-related discussions, and loves helping build robots. She also enjoys troubleshooting and problem solving, and fixing robots to help them perform at their best. She enjoys teaching new members about our team, and helping them all feel welcome. Outside of robotics, Jessie likes to read, cuddle with her cats, and draw. She also enjoys watching movies, her favorite being Big Hero 6.
+- name: "Sander Moffitt"
+  subteam: "Co-Captain"
+  image: Sander.jpg
+  bio: "Sander Moffitt is a senior and co-captain of South Eugene Robotics Team. This is her fourth year on SERT. She fell in love with robotics at the age of eight after building a LEGO robot named “BALL-E” that shot foam balls at her cat whenever it went near her bedroom. She has since evolved to leading robot design discussions and running match strategy. Outside of robotics, Sander enjoys editing her novel, painting, and coming up with creative ways to torment her little sister."
 
-- name: Benjamin Phelps
-  subteam: Co-Captain
-  image: benjamin.jpg
-  bio: Senior Benjamin Phelps is a co-captain and CAD lead at the South Eugene Robotics Team. This is his fourth year on the team, and he is also involved in the strategy and mechanical subteams. He has also helped to organize the Go-Baby-Go outreach project at SERT. When Benjamin is not at robotics or doing homework, he is usually reading or working on a CAD model.
+- name: "Greta Keyes"
+  subteam: "Co-Captain"
+  image: Greta.jpg
+  bio: "Greta is a senior and a co-captain of SERT. She joined the team her freshman year, making this her fourth season. She loves cheering as loud as she can at competitions and organizing the team during Build Season. Outreach events and teaching are her favorite parts of being on SERT, as she loves introducing new people to the fun that is robotics. In her free time, Greta enjoys writing stories, baking, and gardening."
 
-- name: Andrew Dassonville
-  subteam: Software
-  image: andrew.jpg
-  bio: Andrew Dassonville is a senior and the software subteam lead of the South Eugene Robotics Team. He is passionate about open source programming and creating new autonomous features and modes for SERT's robots. He also enjoys being on the cutting-edge of FRC technology, leading efforts to use machine learning and LiDAR on competition robots. Last year he was one of the presenters of our Chairman's Award, and continues to do sponsor presentations to get the team cash. In his free time, he enjoys beating his friends and family at ping pong (or just plain Pong sometimes), hiking, and programming in languages he knows, such as Kotlin, Go, C++, Python, and discovering new languages and projects!
+- name: "Matthew Pickerell"
+  subteam: "Mechanical"
+  image: Matthew.jpg
+  bio: "Matthew Pickerell is a Junior and the mechanical lead of the South Eugene Robotics Team. Matthew is passionate about technology and robotics. With the use of CAD and 3D printing, he has built and produced more than five stop motion animation short films and is currently working on another. Matthew enjoys working and having discussions with others, and enjoys troubleshooting, problem solving, and the thrill of FRC competitions. When Matthew is not at robotics or doing homework, he is usually working on a CAD model or robotics experiments of his own!"
 
-- name: Dale Ruzicka
-  subteam: Mechanical
-  image: dale.jpg
-  bio: Dale is a junior and the mechanical lead for the South Eugene Robotics Team. She joined the team her sophomore year, and was drawn to mechanical by her love of working hands-on and her interest in how pieces fit together into a functioning whole. When not at robotics or doing schoolwork, she enjoys drawing, reading, hiking, rock climbing, and hanging out with friends.
+- name: "Aidan Heller"
+  subteam: "Software"
+  image: Aidan.jpg
+  bio: "Aidan is a senior and the software lead at SERT. He enjoys programming the robot and (hopefully) not crashing it into walls. Aside from the robot, he also enjoys building games and apps. Aidan is always eager to get ahold of the newest software, and enjoys getting access to beta trials, whether it’s a new version of a programming language or an operating system. Outside of programming and robotics, Aidan likes to play video games, play the piano, and draw."
+  
+- name: "Kylie McKeon"
+  subteam: "Business"
+  image: James.jpg
+  bio: "Kylie McKeon is a junior and the business lead of the South Eugene Robotics Team. She joined the team freshman year and loved the business team immediately. Kylie loves helping the team raise money and spreading the word about robotics. In her free time outside robotics, Kylie enjoys reading, practicing circus, and helping out clubs around South Eugene High School."
+  
+- name: "Anastasia Kaurova"
+  subteam: "Electrical"
+  image: Anastasia.jpg
+  bio: "Anastasia is a sophomore and the electrical lead. She has found a passion in working on the small and delicate aspects of the robot, all while sitting inside it. If recruited by mechanical, her joy in using loud power tools is only tempered by being in unfamiliar territory. When given her freedom from the foundry, Anastasia enjoys sailing, baking treats, and watching Marvel."
+  
+- name: "Keegan Gilds"
+  subteam: "Co-Strategy"
+  image: Keegan.jpg
+  bio: "Keegan is a senior and co-strategy lead with William on the South Eugene Robotics Team. During robotics he can often be found cleaning, doing menial tasks mediocrely, or scouting in the stands at competitions. Outside of robotics he’s probably grinding piano, doing chemistry homework, or dreaming about doing chemistry homework (literally). He’s also always ready to see a play."
 
-- name: Greta Keyes
-  subteam: Electrical
-  image: greta.jpg
-  bio: Greta Keyes is the electrical lead at South Eugene Robotics team. She joined as soon as possible during her freshman year and initially was interested in mechanical before joining the electrical subteam. She loves teaching new SERT members about the electrical systems, cheering (really loudly) for the robot and drive team during competition, and organizing the shop. When not attempting to manage wire spaghetti or troubleshoot problems with the encoders, she enjoys learning about chemistry and biology, going on hikes, and reading and writing science fiction in her free time.
+- name: "William Hou"
+  subteam: "Co-Strategy"
+  image: William.jpg
+  bio: "William is a senior and co-strategy lead with Keegan on the South Eugene Robotics Team. He loves watching robots at competitions and analyzing data collected at competition to help the team gain a competitive advantage and play at our best. When he’s not strategizing, William also likes to dabble with robot code, edit videos, and help out with outreach projects. Outside of school and robotics, William enjoys biking, hanging out with his friends, playing online games, and trying not to burn down the kitchen while he’s trying out new recipes." 
 
-- name: Tiffany Huang
-  subteam: Business
-  image: tiffany.jpg
-  bio: Senior Tiffany Huang is the business subteam lead at South Eugene Robotics Team. Tiffany joined the team during her sophomore year, and is always willing to help out new members and keep everyone else in line. When she’s not helping the business team get everything done on time, Tiffany enjoys dancing ballet, debating, playing piano, working with student government, and leading South’s Asian Student Union.
-
-- name: Sander Moffit
-  subteam: Strategy
-  image: sander.jpg
-  bio: Sander Moffitt is a junior and strategy co-lead for South Eugene Robotics Team. This is her third year on SERT. She fell in love with robotics at the age of eight after building a LEGO robot named “BALL-E” that shot foam balls at her cat whenever it went near her bedroom. She has since evolved to leading robot design discussions and running match strategy. Outside of robotics, Sander enjoys editing her novel, painting, and coming up with creative ways to torment her little sister.
-
-- name: William Hou
-  subteam: Strategy
-  image: william.jpg
-  bio: William is a junior and co-strategy lead along with Sander on the South Eugene Robotics Team. This is William’s third year on the team, and he is also a part of the software subteam. He loves watching robots at competitions and helping organize scouting so that the team has useful data before each match. Outside of school and robotics, William enjoys biking, talking with his friends, and playing online games.
+- name: "Ben Weber"
+  subteam: "Co-Safety"
+  image: Ben.jpg
+  bio: "Ben Weber is a senior and a co-lead of the safety team. Ben has been involved with FIRST since FIRST Lego League. On SERT, Ben only cares about one thing, and one thing only: the safety for everyone around. Outside of robotics, Ben is on that grind playing water polo and French Horn. In his free time, Ben is busy reading, watching Netflix, and chilling with friends."
+  
+- name: "Mustafa Aljabery"
+  subteam: "Co-Safety"
+  image: Mustafa.jpg
+  bio: "Mustafa Aljabery is a senior and a co-lead of the safety sub-team. He has an absolute passion for safety and loves reading and remembering protocols that are related to safety. Mustafa enjoys biking, working on projects, and hanging out with close friends and family."
+  
