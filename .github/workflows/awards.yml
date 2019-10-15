@@ -1,9 +1,9 @@
 name: Update Awards
 
-on: [push]
-#on:
-#  schedule:
-#    - cron: '*/5 * * * *'
+#on: [push]
+on:
+  schedule:
+    - cron: '0 9 * * *' # Runs at 09:00 UTC (02:00 PDT) every day
 
 jobs:
   build:
@@ -26,5 +26,4 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        branch: awards
         github_token: ${{ secrets.GITHUB_TOKEN }}
