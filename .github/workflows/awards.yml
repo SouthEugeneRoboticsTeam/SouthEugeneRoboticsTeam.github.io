@@ -1,0 +1,29 @@
+name: Update Awards
+
+on: [push]
+#on:
+#  schedule:
+#    - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyyaml
+    - name: Update awards
+      run: bash ci/awards.sh
+      env:
+        tba_api_key: ${{ secrets.TBA_API_KEY }}
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
