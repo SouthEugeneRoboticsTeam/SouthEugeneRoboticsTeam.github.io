@@ -33,7 +33,7 @@ be named `2016-8-21-test-post.md`.
 The contents of this post should follow the following format (note - the content of the blog post may use
 HTML tags or Markdown):
 
-```html
+```markdown
 ---
   layout: post
   title: TITLE
@@ -48,7 +48,7 @@ Content here
 
 For example, `2016-8-21-test-post.md`'s contents could be (written in Markdown):
 
-```html
+```markdown
 ---
   layout: post
   title: my article title
