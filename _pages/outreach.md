@@ -32,6 +32,11 @@ Our team also often attends networking events with female professionals, such as
 
 Encouraging middle schoolers to explore the world of robotics is a great way to stimulate interest in STEM -- and to a pipeline of skilled, interested team members ready to take on the exciting challenges of building bigger robots in high school team! Our team meets with a local middle school’s FIRST Lego League team every Friday to help them prepare for their upcoming competition season. SERT team members work with the younger students on a variety of tasks, including game design and robot construction.
 
+## HeadBot
+
+A small two-wheeled robot the size of a small backpack, HeadBot balances itself using a series of rapid forward and backward motions. Find him rolling around at various events around town rocking a totally-not-creepy styrofoam head and wearing one of his many stylish costumes. Headbot is fun to drive for people of all ages and is a great way for us to get more people excited about STEM and robotics!
+A list of parts and our code can be found [here](https://github.com/SouthEugeneRoboticsTeam/ursa)
+
 ## Software tools
 
 SERT has built many tools over the years to make various tasks faster and easier, all of which are open-source and shareable across FIRST. Here are just a few:
