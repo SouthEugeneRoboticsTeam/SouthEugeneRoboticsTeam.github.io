@@ -34,7 +34,7 @@ disableComments: true
 {% for tier in site.data.sponsortiers %}
 
 <div class="sponsor-tier-banner">
-<h1 style='color:white;' class="sponsor-tier-text">{{tier.name}}  ({{tier.amount}})</h1>
+<h1 style='color:white;' class="sponsor-tier-text">{{tier.name}}</h1>
 </div>
 
 {% for sponsor in site.data.sponsors %}
