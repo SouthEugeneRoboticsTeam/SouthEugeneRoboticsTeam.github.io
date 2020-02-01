@@ -35,7 +35,8 @@ Encouraging middle schoolers to explore the world of robotics is a great way to 
 ## HeadBot
 
 A small two-wheeled robot the size of a small backpack, HeadBot balances itself using a series of rapid forward and backward motions. Find him rolling around at various events around town rocking a totally-not-creepy styrofoam head and wearing one of his many stylish costumes. Headbot is fun to drive for people of all ages and is a great way for us to get more people excited about STEM and robotics!
-A list of parts and our code can be found [here](https://github.com/SouthEugeneRoboticsTeam/ursa)
+
+A our code and a list of parts can be found [here](https://github.com/SouthEugeneRoboticsTeam/ursa).
 
 ## Software tools
 
