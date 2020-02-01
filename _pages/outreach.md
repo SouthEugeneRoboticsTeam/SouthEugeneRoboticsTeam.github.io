@@ -38,7 +38,7 @@ A small two-wheeled robot the size of a small backpack, HeadBot balances itself 
 
 A our code and a list of parts can be found [here](https://github.com/SouthEugeneRoboticsTeam/ursa).
 
-## Software tools
+## Software Tools
 
 SERT has built many tools over the years to make various tasks faster and easier, all of which are open-source and shareable across FIRST. Here are just a few:
 
