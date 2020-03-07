@@ -61,7 +61,7 @@
 - name: Solidworks
   image: solidworks.png
   website: https://www.solidworks.com/
-  tier: In-Kind
+  tier: Platinum
 - name: City of Springfield
   image: springfield.jpg
   website: https://www.springfield-or.gov/
