@@ -2,10 +2,10 @@
   image: autodesk.png
   website: https://www.autodesk.com/
   tier: Gold
-- name: Boeing
-  image: boeing.png
-  website: https://www.boeing.com/
-  tier: Platinum
+- name: McMenamins
+  image: 
+  website: https://www.mcmenamins.com/
+  tier: Gold
 - name: Bonneville Power Administration
   image: bonneville.png
   website: https://www.bpa.gov/
@@ -34,10 +34,6 @@
   image: eugene.png
   website: https://www.eugene-or.gov/
   tier: Silver
-- name: John Deere
-  image: johndeere.png
-  website: https://www.deere.com/
-  tier: Diamond
 - name: K Ridley Tech
   image: kridley.jpg
   website: https://www.kridleytech.com/
@@ -62,6 +58,10 @@
   image: solidworks.png
   website: https://www.solidworks.com/
   tier: Platinum
+- name: Olive Garden
+  image: 
+  website: https://www.olivegarden.com/
+  tier: In-Kind
 - name: City of Springfield
   image: springfield.jpg
   website: https://www.springfield-or.gov/
