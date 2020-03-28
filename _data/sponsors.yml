@@ -1,7 +1,7 @@
 - name: Autodesk
   image: autodesk.png
   website: https://www.autodesk.com/
-  tier: Gold
+  tier: Silver
 - name: McMenamins
   image: 
   website: https://www.mcmenamins.com/
