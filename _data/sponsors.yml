@@ -3,7 +3,7 @@
   website: https://www.autodesk.com/
   tier: Silver
 - name: McMenamins
-  image: 
+  image: McMenamins.png
   website: https://www.mcmenamins.com/
   tier: Gold
 - name: Bonneville Power Administration
@@ -59,7 +59,7 @@
   website: https://www.solidworks.com/
   tier: Platinum
 - name: Olive Garden
-  image: 
+  image: 1200px-Olive_Garden_Logo.svg.png
   website: https://www.olivegarden.com/
   tier: In-Kind
 - name: City of Springfield
@@ -70,3 +70,44 @@
   image: xsmedia.png
   website: https://xsmedia.com/
   tier: Platinum
+- name: MitoSciences
+  image: mitosciences.png
+  website: https://www.abcam.com/index.html?pageconfig=resource&rid=13917
+  tier: Bronze
+- name: OCCU
+  image: OCCU_Logo_RGB_Color_2BDEE07F-1600-49C6-96E85C6D2E6DE6E3_90ff9118-1fa6-4d2b-847ec746a87bef0b.png
+  website: https://www.myoccu.org/
+  tier: Bronze
+- name: Tripwire
+  image: Tripwire logo.png
+  website: 
+  tier: Gold
+- name: Boutique Academia
+  image: 
+  website: https://www.boutiqueacademia.com/
+  tier: In-Kind
+- name: Office Max
+  image: 
+  website: 
+  tier: In-Kind
+- name: SERT friends and family
+  image: 
+  website: 
+  tier: In-Kind
+- name: Lane Forest Products
+  image: LFP-logo-horiz-large-1500px-1024x395 (1).png
+  website: https://laneforest.com/
+  tier: Bronze
+- name: Jerry’s Home Improvement Center
+  image: 
+  website: https://betterheadforjerrys.com/
+  tier: Bronze
+- name: OnPoint Credit Union
+  image: OnPoint.jpeg
+  website: https://www.onpointcu.com/
+  tier: Bronze
+
+
+
+
+
