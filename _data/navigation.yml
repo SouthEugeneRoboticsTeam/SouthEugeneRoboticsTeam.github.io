@@ -7,9 +7,8 @@
       title: Who We Are
     - url: /leadership
       title: Leadership
-
-- url: /blog
-  title: Blog
+    - url: /blog
+      title: Blog
 
 - url: /robots
   title: Robots
