@@ -6,21 +6,9 @@
   image: McMenamins.png
   website: https://www.mcmenamins.com/
   tier: Gold
-- name: Bonneville Power Administration
-  image: bonneville.png
-  website: https://www.bpa.gov/
-  tier: Gold
 - name: Bright Star
   image: brightstar.png
   website: https://www.brightstarcare.com/
-  tier: Silver
-- name: CBT Nuggets
-  image: cbtnuggets.png
-  website: https://www.cbtnuggets.com/
-  tier: Silver
-- name: Concentric Sky
-  image: concentricsky.png
-  website: https://www.concentricsky.com/
   tier: Silver
 - name: Emberex
   image: emberex.png
@@ -30,26 +18,14 @@
   image: firsttech.jpg
   website: https://www.firsttechfed.com/
   tier: Gold
-- name: City of Eugene
-  image: eugene.png
-  website: https://www.eugene-or.gov/
-  tier: Silver
 - name: K Ridley Tech
   image: kridley.jpg
   website: https://www.kridleytech.com/
   tier: Gold
-- name: Marathon
-  image: marathon.png
-  website: https://www.marathonpetroleum.com/
-  tier: Silver
 - name: The Oregon Department of Education
   image: ode.png
   website: https://www.oregon.gov/ode/Pages/default.aspx
   tier: Platinum
-- name: OMRON
-  image: omron.svg
-  website: https://www.omron.com/
-  tier: Silver
 - name: South Eugene High School
   image: sehs.png
   website: https://sehs.4j.lane.edu/
@@ -62,14 +38,6 @@
   image: 1200px-Olive_Garden_Logo.svg.png
   website: https://www.olivegarden.com/
   tier: In-Kind
-- name: City of Springfield
-  image: springfield.jpg
-  website: https://www.springfield-or.gov/
-  tier: Silver
-- name: XS Media
-  image: xsmedia.png
-  website: https://xsmedia.com/
-  tier: Platinum
 - name: MitoSciences
   image: mitosciences.png
   website: https://www.abcam.com/index.html?pageconfig=resource&rid=13917
@@ -106,8 +74,4 @@
   image: OnPoint.jpeg
   website: https://www.onpointcu.com/
   tier: Bronze
-
-
-
-
-
+  
