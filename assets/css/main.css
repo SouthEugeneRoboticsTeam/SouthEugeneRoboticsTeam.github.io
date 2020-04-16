@@ -3287,7 +3287,22 @@
 						box-shadow: none;
 					}
 
-		#nav.alt {
+					#nav ul li a.donate {
+						background-color: #efa8b0;
+						color: white;
+						font-weight: bold;
+					}
+
+					#nav ul li a.donate:hover {
+						background-color: #e08993;
+					}
+
+					#nav ul li a.donate:active {
+						background-color: #b3636d;
+					}
+
+
+#nav.alt {
 			position: fixed;
 			top: 0;
 			padding: 0.5em 1em;
