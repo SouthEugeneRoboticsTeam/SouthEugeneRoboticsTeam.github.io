@@ -1,26 +1,14 @@
 - name: Autodesk
   image: autodesk.png
   website: https://www.autodesk.com/
-  tier: Gold
-- name: Boeing
-  image: boeing.png
-  website: https://www.boeing.com/
-  tier: Platinum
-- name: Bonneville Power Administration
-  image: bonneville.png
-  website: https://www.bpa.gov/
+  tier: Silver
+- name: McMenamins
+  image: McMenamins.png
+  website: https://www.mcmenamins.com/
   tier: Gold
 - name: Bright Star
   image: brightstar.png
   website: https://www.brightstarcare.com/
-  tier: Gold
-- name: CBT Nuggets
-  image: cbtnuggets.png
-  website: https://www.cbtnuggets.com/
-  tier: Silver
-- name: Concentric Sky
-  image: concentricsky.png
-  website: https://www.concentricsky.com/
   tier: Silver
 - name: Emberex
   image: emberex.png
@@ -30,30 +18,14 @@
   image: firsttech.jpg
   website: https://www.firsttechfed.com/
   tier: Gold
-- name: City of Eugene
-  image: eugene.png
-  website: https://www.eugene-or.gov/
-  tier: Silver
-- name: John Deere
-  image: johndeere.png
-  website: https://www.deere.com/
-  tier: Diamond
 - name: K Ridley Tech
   image: kridley.jpg
   website: https://www.kridleytech.com/
   tier: Gold
-- name: Marathon
-  image: marathon.png
-  website: https://www.marathonpetroleum.com/
-  tier: Silver
 - name: The Oregon Department of Education
   image: ode.png
   website: https://www.oregon.gov/ode/Pages/default.aspx
   tier: Platinum
-- name: OMRON
-  image: omron.svg
-  website: https://www.omron.com/
-  tier: Silver
 - name: South Eugene High School
   image: sehs.png
   website: https://sehs.4j.lane.edu/
@@ -61,12 +33,41 @@
 - name: Solidworks
   image: solidworks.png
   website: https://www.solidworks.com/
-  tier: In-Kind
-- name: City of Springfield
-  image: springfield.jpg
-  website: https://www.springfield-or.gov/
-  tier: Silver
-- name: XS Media
-  image: xsmedia.png
-  website: https://xsmedia.com/
   tier: Platinum
+- name: Olive Garden
+  image: 1200px-Olive_Garden_Logo.svg.png
+  website: https://www.olivegarden.com/
+  tier: In-Kind
+- name: MitoSciences
+  image: mitosciences.png
+  website: https://www.abcam.com/index.html?pageconfig=resource&rid=13917
+  tier: Bronze
+- name: OCCU
+  image: OCCU_Logo_RGB_Color_2BDEE07F-1600-49C6-96E85C6D2E6DE6E3_90ff9118-1fa6-4d2b-847ec746a87bef0b.png
+  website: https://www.myoccu.org/
+  tier: Bronze
+- name: Tripwire
+  image: Tripwire logo.png
+  website: https://www.tripwire.com/
+  tier: Gold
+- name: Boutique Academia
+  image: BoutiqueAcademiaShopifyBW_193d0c5f-0103-43c8-9151-d49c4e8798c0_410x.png
+  website: https://www.boutiqueacademia.com/
+  tier: In-Kind
+- name: Office Max
+  image: Office-Depot-logo-header-817x213.jpg
+  website: https://www.officedepot.com/
+  tier: In-Kind
+- name: Lane Forest Products
+  image: LFP-logo-horiz-large-1500px-1024x395 (1).png
+  website: https://laneforest.com/
+  tier: Bronze
+- name: Jerry’s Home Improvement Center
+  image: jerry's.png
+  website: https://betterheadforjerrys.com/
+  tier: Bronze
+- name: OnPoint Credit Union
+  image: OnPoint.jpeg
+  website: https://www.onpointcu.com/
+  tier: Bronze
+  
