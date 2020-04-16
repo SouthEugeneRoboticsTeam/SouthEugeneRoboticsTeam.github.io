@@ -48,15 +48,15 @@
   tier: Bronze
 - name: Tripwire
   image: Tripwire logo.png
-  website: 
+  website: https://www.tripwire.com/
   tier: Gold
 - name: Boutique Academia
-  image: 
+  image: BoutiqueAcademiaShopifyBW_193d0c5f-0103-43c8-9151-d49c4e8798c0_410x.png
   website: https://www.boutiqueacademia.com/
   tier: In-Kind
 - name: Office Max
-  image: 
-  website: 
+  image: Office-Depot-logo-header-817x213.jpg
+  website: https://www.officedepot.com/
   tier: In-Kind
 - name: SERT friends and family
   image: 
@@ -67,7 +67,7 @@
   website: https://laneforest.com/
   tier: Bronze
 - name: Jerry’s Home Improvement Center
-  image: 
+  image: jerry's.png
   website: https://betterheadforjerrys.com/
   tier: Bronze
 - name: OnPoint Credit Union
