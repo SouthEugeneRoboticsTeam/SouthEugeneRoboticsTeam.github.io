@@ -6,7 +6,7 @@ description: The South Eugene Robotics Team is a robotics team competing in the 
 disableComments: true
 ---
 
-SERT, through our fiscal sponsor Central Lane Robotics, is raising funds to buy supplies we use to make face shields 
+SERT, through our fiscal sponsor Central Lane Robotics, is raising funds to make face shields 
 and other protective equipment for first responders, medical personnel, retailers and others on the front-lines
 of the Covid-19 crisis. 
 
