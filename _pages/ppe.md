@@ -7,7 +7,7 @@ disableComments: true
 ---
 
 Your donations help SERT make Personal Protecitve Equipment (PPE)!
-Please contact mentors@sert2521.org if you can donate the following:
+Please contact [mentors@sert2521.org](mailto:mentors@sert2521.org) if you can donate the following:
 
 1. Plastic material for face shields:
     PLA 1.75 mm standard 3D print filament (wrapped)
