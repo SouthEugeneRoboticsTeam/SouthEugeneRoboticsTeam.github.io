@@ -6,8 +6,9 @@ description: The South Eugene Robotics Team is a robotics team competing in the 
 disableComments: true
 ---
 
-Your donations help SERT make Personal Protecitve Equipment (PPE)!
-Please contact [mentors@sert2521.org](mailto:mentors@sert2521.org) if you can donate the following:
+## Your donations help SERT make Personal Protecitve Equipment (PPE)!
+
+## Please contact [mentors@sert2521.org](mailto:mentors@sert2521.org) if you can donate the following:
 
 1. Plastic material for face shields:
 
