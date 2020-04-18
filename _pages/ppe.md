@@ -18,6 +18,6 @@ disableComments: true
 
 2. Laser or waterjet cutting services for plastic sheets
     
-3. Plastic bags for storage of final products (keeps clean)
+3. Plastic bags for clean storage of final products 
 
 
