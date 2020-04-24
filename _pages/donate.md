@@ -14,5 +14,5 @@ To make a cash donation, please use the button below, or [click here](/ppe) for 
 materials or services.
 
 <h2>
-  <a id='gfm-charity-donate-link' style='background-color:#efa8b0; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/donate-widget/11017'>Donate Now</a>
+  <a id='gfm-charity-donate-link' style='background-color:#efa8b0; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/campaign/shield-lane-county'>Donate Now</a>
 </h2>
