@@ -1,5 +1,5 @@
 ---
-title: Face Shield donation page
+title: Face Shield Project Donations
 permalink: "/donate/"
 description: The South Eugene Robotics Team is a robotics team competing in the FIRST
   Robotics Competition (FRC).
