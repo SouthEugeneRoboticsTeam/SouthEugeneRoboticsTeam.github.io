@@ -10,6 +10,9 @@
     - url: /blog
       title: Blog
 
+- url: /ppe
+  title: PPE
+
 - url: /robots
   title: Robots
 
