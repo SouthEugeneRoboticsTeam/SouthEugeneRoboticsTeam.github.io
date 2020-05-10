@@ -3278,26 +3278,41 @@
 					box-shadow: inset 0 0 0 1px transparent;
 				}
 
+				#nav ul li a.pop {
+					background-color: #efa8b0;
+					color: white;
+					font-weight: bold;
+				}
+
 					#nav ul li a:hover {
 						background-color: rgba(222, 222, 222, 0.25);
 					}
 
-					#nav ul li a.active {
+					#nav ul li a.pop:hover {
+						background-color: #e08993;
+					}
+
+					#nav ul li a:active {
 						background-color: #ffffff;
 						box-shadow: none;
 					}
 
-					a.donate {
+					#nav ul li a.pop:active {
+						background-color: #b3636d;
+						box-shadow: none;
+					}
+
+					.donate {
 						background-color: #efa8b0;
 						color: white;
 						font-weight: bold;
 					}
 
-					a.donate:hover {
+					.donate:hover {
 						background-color: #e08993;
 					}
 
-					a.donate:active {
+					.donate:active {
 						background-color: #b3636d;
 					}
 

@@ -15,13 +15,6 @@
 </head>
 <body>
 
-<a href="/donate">
-    <div style="color: white; background-color: purple; width: 100%; height: 75px; font-size: 25px; text-align: center; position: absolute; padding-top: 15px; z-index: 9999; overflow: hidden;">
-        Donate to our Face Shield project
-    </div>
-</a>
-
-
 <!-- Header -->
 <header id="header" class="alt noselect">
     <div id="pjs"></div>
@@ -52,7 +45,11 @@
             {% endif %}
             {% endfor %}
             <li>
-                <a href="/donate" class="donate">Donate</a>
+                <form id="donateform" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" style="margin: 0">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="XAPA9VJHWAE94">
+                    <a href="#" class="pop" onclick="document.getElementById('donateform').submit()">Donate</a>
+                </form>
             </li>
         </ul>
     </nav>
