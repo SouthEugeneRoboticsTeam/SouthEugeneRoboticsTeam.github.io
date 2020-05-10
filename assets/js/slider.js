@@ -3,7 +3,7 @@
     $(document).ready(function () {
 //         var img_array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
         var img_array = ['faceshield1', 'faceshield2', 'faceshield3', 'faceshield4'];
-        var index = 0;
+        var index = -1;
         var interval = 8000;
 
         (function changeBg() {
