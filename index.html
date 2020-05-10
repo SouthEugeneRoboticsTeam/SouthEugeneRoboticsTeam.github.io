@@ -85,7 +85,7 @@ javascript:
         <ul class="icons">
             {% for media in site.data.social %}
             <li>
-                <a href="{{media.profile}}" class="icon fas fa-{{media.type}} alt">
+                <a href="{{media.profile}}" class="icon {{media.type}} alt">
                     <span class="label">{{media}}</span>
                 </a>
             </li>
