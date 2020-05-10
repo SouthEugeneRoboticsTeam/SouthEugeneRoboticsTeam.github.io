@@ -85,7 +85,7 @@ javascript:
         <ul class="icons">
             {% for media in site.data.social %}
             <li>
-                <a href="{{media.profile}}" class="icon fa-{{media.type}} alt">
+                <a href="{{media.profile}}" class="icon fas fa-{{media.type}} alt">
                     <span class="label">{{media}}</span>
                 </a>
             </li>
@@ -110,7 +110,7 @@ javascript:
             <strong>{{site.data.stats.mentors}}</strong> Mentors
         </li>
         <li class="style3">
-            <span class="icon fas fa-clock-o"></span>
+            <span class="icon fas fa-clock"></span>
             <strong>{{'now' | date: "%Y" | minus: "2007"}}</strong> Seasons
         </li>
     </ul>
