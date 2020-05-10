@@ -1,17 +1,17 @@
-- type: envelope
+- type: fas fa-envelope
   profile: mailto:hello@sert2521.org
 
-- type: github
+- type: fab fa-github
   profile: https://github.com/SouthEugeneRoboticsTeam
 
-- type: twitter
+- type: fab fa-twitter
   profile: https://twitter.com/sert_2521
 
-- type: youtube
+- type: fab fa-youtube
   profile: https://youtube.com/SouthEugeneRoboticsTeam
 
-- type: facebook
+- type: fab fa-facebook
   profile: https://facebook.com/SouthEugeneRoboticsTeam
 
-- type: instagram
+- type: fab fa-instagram
   profile: https://instagram.com/SouthEugeneRobotics

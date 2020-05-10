@@ -11,8 +11,48 @@ javascript:
     <div class="slider"></div>
 </section>
 
-<!-- Introduction -->
+<!-- PPE Introduction -->
 <section id="intro" class="main">
+    <a id="anchor-intro"></a>
+    <div class="spotlight">
+        <div class="content">
+            <header class="major">
+                <h2>PPE Project</h2>
+            </header>
+
+            <p>SERT is working with the University of Oregon and other robotics teams to fabricate and distribute needed face shields, eye guards and sewn masks to our community’s first responders and to others in need of personal protective equipment.</p>
+          
+            <p>In need of PPE for your organization, or looking to support our project with a donation? Click the Learn More button below!</p>
+
+            <ul class="actions">
+                <li><a href="donate" class="button">Learn More</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section id="stats" class="main special">
+    <header class="major">
+        <h2>PPE Statistics</h2>
+    </header>
+    <ul class="statistics">
+        <li class="style1">
+            <span class="icon fas fa-user-nurse"></span>
+            <strong>469</strong> Face Shields
+        </li>
+        <li class="style2">
+            <span class="icon fas fa-head-side-mask"></span>
+            <strong>100</strong> Face Masks
+        </li>
+        <li class="style3">
+            <span class="icon fas fa-hospital-user"></span>
+            <strong>10</strong> Organizations
+        </li>
+    </ul>
+</section>
+
+<!-- Introduction -->
+<section class="main">
     <a id="anchor-intro"></a>
     <div class="spotlight">
         <div class="content">
@@ -43,8 +83,8 @@ javascript:
         <ul class="icons">
             {% for media in site.data.social %}
             <li>
-                <a href="{{media.profile}}" class="icon fa-{{media.type}} alt">
-                    <span class="label">{{media}}</span>
+                <a href="{{media.profile}}" class="icon">
+                    <span class="icon {{media.type}} alt"></span>
                 </a>
             </li>
             {% endfor %}
@@ -60,15 +100,15 @@ javascript:
     </header>
     <ul class="statistics">
         <li class="style1">
-            <span class="icon fa-users"></span>
+            <span class="icon fas fa-users"></span>
             <strong>{{site.data.stats.members}}</strong> Members
         </li>
         <li class="style2">
-            <span class="icon fa-user"></span>
+            <span class="icon fas fa-user"></span>
             <strong>{{site.data.stats.mentors}}</strong> Mentors
         </li>
         <li class="style3">
-            <span class="icon fa-clock-o"></span>
+            <span class="icon fas fa-clock"></span>
             <strong>{{'now' | date: "%Y" | minus: "2007"}}</strong> Seasons
         </li>
     </ul>
