@@ -1,20 +1,23 @@
 ---
-title: Face Shield Project Donations
+title: Help SERT Rebuild! 
 permalink: "/donate/"
 description: The South Eugene Robotics Team is a robotics team competing in the FIRST
   Robotics Competition (FRC).
 disableComments: true
 ---
 
-SERT, through our fiscal sponsor Central Lane Robotics, is raising funds to make face shields 
-and other protective equipment for first responders, medical personnel, retailers and others on the front-lines
-of the Covid-19 crisis. 
+**SERT could use your help!** 
 
-To make a cash donation, please use the button below, or [click here](/ppe) for donations of
-materials or services.
+Covid shut down two robotic competition seasons, but we are back thanks in large part to our dedicated juniors and seniors. These students kept the faith, and their efforts have been rewarded with an absolute surge of new members this year eager to learn to build a bot.
 
-If you'd like to request PPE for your organization, please email SERT at [mentors@sert2521.org](mailto:mentors@sert2521.org).
+Now we need to get them the tools and materials to do it. As you can imagine, Covid severely limited our fundraising activities and we are turning to our supporters to help us back on solid footing.
+
+**Donations of all sizes are appreciated.** We'll use them to teach members electrical, mechanical, CAD and programming skills, business and communication skills, leadership, and in-the-moment problem solving, all in a hands-on environment. 
+
+"More than just robots" in action. We like to say that robotics is about more than just robots. Our members proved the truth of this during the Covid break, using their skills to help our community by 3-D printing and distributing more than 1,000 face shields and other PPE, and by modifying ride-on toy cars that are donated to children with mobility problems. 
+ 
+Thank you for helping us (re)build robotics at South Eugene!
 
 <h2>
-  <a id='gfm-charity-donate-link' style='background-color:#efa8b0; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/campaign/shield-lane-county'>Donate Now</a>
+  <a id='gfm-charity-donate-link' style='background-color:#efa8b0; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://gofund.me/c465a5e0'>Donate Now</a>
 </h2>
