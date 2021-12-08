@@ -1,6 +1,7 @@
 ---
 title: Parents
-date: 2018-12-02 20:16:00 -08:00
+permalink: "/parents/"
+disableComments: true
 ---
 
 ## **Critical 2019-2020 Season Information**
@@ -15,4 +16,3 @@ date: 2018-12-02 20:16:00 -08:00
 * Technical or mechanical volunteering
 
 For more information, e-mail the mentors at mentors@sert2521.org
-
