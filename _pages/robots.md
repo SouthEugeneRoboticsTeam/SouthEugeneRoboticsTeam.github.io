@@ -11,7 +11,7 @@ css:
 {: .robot}
 <div>
 
-# 2020 - Millenium Carwash
+# 2020 - Millennium Carwash
 ![2020](/assets/images/robots/2020.jpg){: .robot-img .right}
 
 {: .robot-text .left}
