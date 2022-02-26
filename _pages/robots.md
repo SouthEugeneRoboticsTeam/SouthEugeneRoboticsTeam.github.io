@@ -11,6 +11,19 @@ css:
 {: .robot}
 <div>
 
+# 2020 - Millenium Carwash
+![2020](/assets/images/robots/2020.jpg){: .robot-img .right}
+
+{: .robot-text .left}
+Millennium Carwash, known affectionately as “Millie,” was a promising robot for the Infinite Recharge game before
+the COVID-19 shut down. Thanks to Millie’s impressive climb and consistent low-goal scoring, SERT finished its only
+competition as captains of the 7th seeded alliance.
+
+</div>
+
+{: .robot}
+<div>
+
 # 2019 - Chimera
 ![2019](/assets/images/robots/2019.jpg){: .robot-img .left}
 
