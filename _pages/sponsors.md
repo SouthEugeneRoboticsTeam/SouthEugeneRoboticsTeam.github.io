@@ -30,7 +30,8 @@ disableComments: true
 
 # **Current Sponsors**
 
-![2022 sponsors](/assets/images/sponsors/2022_sponsors.png)
+<!-- ![2022 sponsors](/assets/images/sponsors/2022_sponsors.png) -->
+<img src="/assets/images/sponsors/2022_sponsors.png" style="width: 100%" />
 
 <!--
 <div class="sponsor-grid">
