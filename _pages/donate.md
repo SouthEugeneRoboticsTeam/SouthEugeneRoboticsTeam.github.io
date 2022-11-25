@@ -25,5 +25,5 @@ We are deeply grateful for contributions of all sizes, and most of all, for bein
 
 
 <h2>
-  <a id='gfm-charity-donate-link' style='background-color:#efa8b0; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://gofund.me/c465a5e0'>Donate Now</a>
+  <a id='gfm-charity-donate-link' style='background-color:#efa8b0; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://gofund.me/3b69dc14'>Donate Now</a>
 </h2>
